@@ -1,0 +1,7 @@
+#+title: Fintech Law - additional information (2024/2025)
+#+AUTHOR: J. Szczerbowski
+#+OPTIONS: tex:t p:t toc:nil
+#+LANGUAGE: en
+#+STARTUP: latexpreview
+
+#+include: g/presentations.org

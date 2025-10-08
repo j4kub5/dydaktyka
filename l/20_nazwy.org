@@ -1,0 +1,80 @@
+** Nazwy
+*Rozdział w podręczniku:* 2
+
+1. Nazwa jako podmiot w zdaniu.
+2. Nazwy proste i nazwy złożone.
+*** Nazwy konkretne i nazwy abstrakcyjne
+- konkretne :: znaki rzeczy lub osób, albo czegoś co można sobie jako byt fizyczny wyobrazić
+  - sędzia, człowiek, łobuz, biały stół; feniks
+- abstrakcyjne :: takie, które nie są nazwami konkretnymi - nie możemy sobie ich wyobrazić jako rzecz lub osobę
+  - białość, kradzież, braterstwo
+
+Mogą pojawiać się wątpliwości, czy mamy do czynienia z nazwą konkretną czy
+  abstrakcyjną:
+  - W sprawie Jana Kowalskiego zapadł długo oczekiwany /wyrok/.
+  - Po zamknięciu rozprawy sąd wydaje /wyrok/.
+
+*** Desygnaty nazw
+- Desygnatem nazwy jest przedmiot, o którym można nazwę prawdziwie orzec.
+- Wobec książki można powiedzieć /to jest książka/ i będzie to prawda; nie można
+  jednak powiedzieć /to jest pies/. Podobnie pies nie będzie desygnatem nazwy /książka/.
+
+*** Nazwy indywidualne i nazwy generalne
+- nazwy indywidualne oznaczają poszczególne przedmioty: /miasto Poznań/; /Zofia
+  spóźni/ się na wykład.
+- nazwy generalne oznaczają przedmioty dzielące jakieś wspólne cechy: /miasto
+  wojewódzkie/; /Zofia/ ma imieniny 15 maja.
+
+**** Treść nazwy generalnej
+***** Cechy
+
+Cechy samochodu:
+
++ konstytutywne (wystarczają aby odróżnić przedmioty bedące desygnatami nazwy od innych przedmiotów):
+  - pojazd lądowy,
+  - posiadający koła,
+  - używany do przewozu ludzi i towarów,
++ konsekutywne:
+  - jest rzeczą,
+  - waży powyżej 1 kg,
+  - posiada metalowe elementy.
+
+***** Supozycje
+
+Nazwa generalna może być używana w różnych rolach znaczeniowych nazywanych supozycjami:
+
+- supozycja prosta: /zając schował się w krzakach/
+- supozycja formalna: /zając jest ssakiem/
+- supozycja materialna: /zając składa się z dwóch sylab/
+
+*** Zakres nazwy
+
+- Zakres nazwy to klasa wszystkich desygnatów danej nazwy.
+- Ze względu na to ile desygnatów ma nazwa możemy je podzielić na:
+  + nazwy ogólne - mają więcej niż jeden desygnat
+  + nazwy jednostkowe - mają jeden desygnat
+  + nazwy puste - nie mają desygnatów (czy zatem wszystkie nazwy puste znaczą to samo?)
+    - człowiek, który ma 4 metry wzrostu
+    - czworoboczny trójkąt
+    - szafa w mojej kieszeni
+
+*** Nazwy zbiorowe
+
+- Nazwy zbiorowe to nazwy agregatów przedmiotów. Nie przysługują poszczególnym
+  przedmiotom wchodzącym w skład tego agregatu.
+- Biblioteka jest nazwą zbiorową — oznacza zbiór książek. Czy przedmiot jakim
+  jest książka jest desygnatem nazwy /biblioteka/?
+
+*** Ostrość nazw
+
+- Nazwa nieostra — są takie przemioty, o których nie wiadomo czy są desygnatami danej nazwy
+  - /leń/ : leń 1, leń 2 … tacy, o których nie wiadomo czy są leniami… nie-leń
+  - wysoki mężczyzna
+
+Nazwy ostre:
+- pies
+- \pi
+
+** Zadania
+*** Czy „zamek” (jako budynek) i „zamek” jako urządzenie montowane w drzwiach, to ta sama nazwa?
+#** Zagadka

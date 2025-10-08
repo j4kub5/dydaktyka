@@ -1,0 +1,35 @@
+** Wypowiedzi oceniające i normy
+- Wypowiedź oceniająca.
+- Oceny
+  - zasadnicze:
+    + ocena estetyczna
+    + ocena hedonistyczna
+    + ocena moralna
+  - i utylitarne.
+
+*** Normy postępowania
+- Norma postępowania.
+- Normy prawne, to normy postępowania, ale należy pamiętać, że zakres nazwy norma prawna jest podrzędny zakresowi nazwy norma postępowania.
+- Wypowiedź dyrektywalna.
+- Pojęcie postępowania
+  - zachowanie osoby zależne od jej woli
+- Zakaz, nakaz:
+  - zakaz czynienia X to nakaz nieczynienia X; nakaz czynienia X to zakaz nieczynienia X.
+- Normy mogą być:
+  1) a) generalne, b) indywidualne;
+     a) adresat jest wskazany generalnie
+     b) adresat jest wskazany indywidualnie
+  2) a) abstrakcyjne, b) konkretne.
+     a) norma nakazuje postępować w określony sposób stale
+     b) norma nakazuje postępować w określony sposób jednorazowo
+
+**** Przykłady
+  1) Przykład normy generalnej i abstrakcyjnej: Kto zabija człowieka, podlega karze pozbawienia wolności na czas nie krótszy od lat 8, karze 25 lat pozbawienia wolności albo karze dożywotniego pozbawienia wolności - Każdemu i w każdych okolicznościach zakazuje się zabić człowieka.
+  2) Przykład normy konkretnej i indywidualnej: Sąd Okręgowy w Warszawie … zasądza od Jana Kowalskiego kwotę 1000 zł na rzecz Adama Malinowskiego z odsetkami ustawowymi za opóźnienie…
+  3) Przykład normy generalnej i konkretnej: Kto z uczestników wycieczki wróci dziś pierwszy do schroniska powinien rozpalić ogień.
+  4) Przykład normy indywidualnej i abstrakcyjnej: Szeregowy Kowalski, gdy dostrzeżecie niebezpieczeństwo macie wszcząć alarm.
+- Podporządkowanie normie
+- Czy ma sens pytanie: Czy to prawda, że /x/ powinien /A/?
+- Obowiązywanie normy.
+  + Uzasadnienie tetyczne;
+  + uzasadnienie aksjologiczne.

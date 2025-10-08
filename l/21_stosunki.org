@@ -1,0 +1,117 @@
+** Stosunki pomiędzy zakresami nazw
+*Rozdział w podręczniku:* 3 (UWAGA: wersja rozszerzona względem podręcznika)
+
+*** Zamienność
+#+begin_src plantuml :file img/zamiennosc.png
+@startditaa -E -S
++--------+------------------+
+| S cGRE |               ~S |
++--------+------------------+
+| P cBLU |               ~P |
++--------+------------------+
+|             U     cBLK    |
++---------------------------+
+@endditaa
+#+end_src
+
+*** Podrzędność /S/ względem /P/
+#+begin_src plantuml :file img/podrzednosc.png
+@startditaa -E -S
++--------+------------------+
+| S cGRE |               ~S |
++--------+------+-----------+
+| P cBLU        |        ~P |
++---------------+-----------+
+|             U     cBLK    |
++---------------------------+
+@endditaa
+#+end_src
+
+*** Nadrzędność /S/ względem /P/
+#+begin_src plantuml :file img/nadrzednosc.png
+@startditaa -E -S
++---------------+-----------+
+| S  cGRE       |        ~S |
++--------+------+-----------+
+| P cBLU |               ~P |
++--------+------------------+
+|             U     cBLK    |
++---------------------------+
+@endditaa
+#+end_src
+*** Przeciwieństwo
+#+begin_src plantuml :file img/przeciwienstwo.png
+@startditaa -E -S
++--------+------+---+-------+
+| P cBLU | S  cGRE  |       |
++--------+----------+-------+
+|             U    cBLK     |
++---------------------------+
+@endditaa
+#+end_src
+
+*** Niezależność
+#+begin_src plantuml :file img/niezaleznosc.png
+@startditaa -E -S
++-----------+---------------+
+|     S cGRE|            ~S |
++--------+--+--------+------+
+| ~P     |     P cBLU|   ~P |
++--------+-----------+------+
+|             U     cBLK    |
++---------------------------+
+@endditaa
+#+end_src
+
+*** Sprzeczność
+#+begin_src plantuml :file img/sprzecznosc.png
+@startditaa -E -S
++-------------+-------------+
+|      P cBLU |      S cGRE |
++-------------+-------------+
+|             U    cBLK     |
++---------------------------+
+@endditaa
+#+end_src
+
+*** Podprzeciwieństwo
+#+begin_src plantuml :file img/podprzeciwienstwo.png
+@startditaa -E -S
++----------------+----------+
+| S  cGRE        |       ~S |
++---------+------+----------+
+| ~P      |        cBLU   P | 
++---------+-----------------+
+|             U     cBLK    |
++---------------------------+
+@endditaa
+#+end_src
+
+*** Definicje (źródło: Wikipedia, hasło Nazwa):
+
+1. Nazwa P jest *zamienna* względem nazwy Q, gdy denotacje tych nazw pokrywają
+   się, tj. gdy każdy desygnat nazwy P jest zarazem desygnatem nazwy Q, a każdy
+   desygnat nazwy Q jest zarazem desygnatem nazwy P. Zamienne są np. nazwy
+   "ziemniak" i kartofel".
+2. Nazwa P jest *podrzędna* względem nazwy Q wtedy, gdy denotacja nazwy P
+   zawiera się w sposób właściwy w denotacji nazwy Q, tj. gdy wszystkie
+   desygnaty nazwy P są zarazem desygnatami nazwy Q. Nazwa "krowa" jest
+   podrzędna względem nazwy "zwierzę".
+3. Nazwa P jest *nadrzędna* względem nazwy Q, gdy denotacja nazwy Q zawiera się
+   w sposób właściwy w denotacji nazwy P, tj. gdy wszystkie desygnaty nazwy Q są
+   zarazem desygnatami nazwy P. Nazwa "rzeka" jest nadrzędna względem nazwy
+   "rzeka, nad którą od wieków żyją krowy".
+4. Nazwa P jest przeciwna względem nazwy Q, gdy denotacja nazwy P wyklucza się z
+   denotacją nazwy Q i zarazem suma denotacji nazw P i Q zawiera się w sposób
+   właściwy w uniwersum przedmiotów. Nazwa "krowa" jest przeciwna względem nazwy
+   "rzeka".
+5. Nazwa P jest niezależna względem nazwy Q, gdy denotacje nazw P i Q krzyżują
+   się, a suma tych denotacji zawiera się w sposób właściwy w uniwersum
+   przedmiotów. Nazwa "krowa" jest niezależna względem nazwy "czarno-białe
+   zwierzę".
+6. Nazwa P jest sprzeczna względem nazwy Q, gdy denotacja nazwy P wyklucza się z
+   denotacją nazwy Q i zarazem suma denotacji nazw P i Q pokrywa się z uniwersum
+   przedmiotów. Nazwy "krowa" i "nie-krowa" są sprzeczne.
+7. Nazwa P jest podprzeciwna względem nazwy Q, gdy denotacje nazw P i Q krzyżują
+   się, a suma tych denotacji pokrywa się z uniwersum przedmiotów. Nazwy
+   "nie-krowa" i "zwierzę" są podprzeciwne.

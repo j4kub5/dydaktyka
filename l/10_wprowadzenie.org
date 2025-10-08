@@ -1,0 +1,144 @@
+** Wprowadzenie
+*Rozdział w podręczniku:* 1
+
+*** Żart dla początkujących logików
+Dlaczego to jest śmieszne: /Trzech logików wchodzi do baru. Barman pyta: „Czy wszyscy chcecie piwo?” Odpowiadają po kolei: 1: Nie wiem, 2: Nie wiem, 3. Tak./
+
+*** Czym jest logika?
+*Logika* – nauka o sposobach jasnego i ścisłego formułowania myśli, o regułach poprawnego rozumowania i uzasadniania twierdzeń.
+
+
+** Znak i kategorie syntaktyczne
+Semiotyka (ogólna nauka o znakach): (1) semantyka — nauka o stosunku pomiędzy
+znakiem a tym do czego znak się odnosi; (2) syntaktyka — nauka o rodzajach
+znaków i regułach wiązania ich w znaki złożone; (3) pragmatyka — nauka zajmująca się
+zagadnieniami stosunków pomiędzy znakami a wypowiadającym je lub odbierającym
+człowiekiem.
+
+Logika a prawda. Co to jest prawda? Co to jest zdanie prawdziwe? Czy każde
+zdanie może być prawdziwe?
+
+Logika formalna zajmuje się poprawnymi rozumowaniami.
+
+*** Przykłady zdań
+- Studenci uczą się pilnie.
+- Warszawa jest stolicą Polski.
+- Robert: W połowie drogi mojego żywota pośród ciemnego znalazłem się lasu.
+- Stateczny, pulchny Buck Mulligan wynurzył się z wylotu schodów, niosąc mydlaną pianę w miseczce, na której leżały skrzyżowane lusterko i brzytwa.
+- Wrzątek zawsze jest gorący.
+- Ziemia jest płaska.
+- Słońce świeci nocą.
+- W konkursie chopinowskim wygrał najlepszy pianista.
+- Gdzie leży mój długopis? - nie jest to zdanie w sensie logicznym
+- Trójkąt ma cztery boki.
+- Siedzę na niebieskim fotelu.
+
+*** Znak
+- *Pojęcie znaku* - układ rzeczy + reguły znaczeniowe.
+- Czy zawsze są to znaki słowne?
+- Znaczenie kontekstu: biała flaga, podanie ręki a umowa, przysięga małżeńska.
+- Znak a symptom, objaw — jest to coś innego.
+- Język — system obejmujący zbiór znaków słownych. Istnieją języki naturalne i języki sztuczne. Żargon — w tym żargon prawniczy: domieszka do języka naturalnego.
+- W różnych językach słowa mogą mieć to samo znaczenie i brzmieć inaczej, albo na odwrót.
+- Naturalnie powstają nowe słowa oraz nowe znaczenia (np. nowe znaczenie słowa /dzban/).
+- Język wyróżnia zarówno zasób słów, jak i jego składnia. Istnieją nieprzetłumaczalne wprost zwroty.
+- Język prawny a język prawniczy.
+
+*** Metajęzyk
+**** Przykład
+#+begin_center
+1. /Zdanie poniżej jest prawdziwe./
+
+2. /Zdanie powyżej jest fałszywe./
+#+end_center
+
+**** Wyjaśnienie
+a. Metajęzyk: język, który mówi o języku.
+b. Wypowiedź w języku pierwszego stopnia (języku przedmiotowym): /Pada deszcz./
+c. Wypowiedź w języku drugiego stopnia (metajęzyku w stosunku do języka
+   pierwszego stopnia): /Jan powiedział, że pada deszcz./
+d. Wypowiedź w języku trzeciego stopnia (metajęzyku w stosunku do języka
+   drugiego stopnia): /Marcin powiedział, że Jan powiedział, że pada deszcz./
+
+*** Kategorie syntaktyczne
+a. Zdania, nazwy i funktory.
+b. Zdanie jest całkowicie samodzielną kategorią języka opisowego. Zdanie głosi
+   więc, że jest tak a tak: /Granit jest skałą magmową. Sędzia opuścił salę
+   rozpraw./
+c. Nazwa — coś co nadaje się na podmiot lub na orzecznik orzeczenia imiennego
+   w zdaniu: /prawnik, planeta, sędzia/.
+d. Funktor to wyraz lub wyrażenie (leks), które nie jest ani nazwą, ani zdaniem,
+   ale w połączeniu z nimi tworzy bardziej złożoną całość.
+e. Funktory dzielimy na zdaniotwórcze, nazwotwórcze i funktorotwórcze. Wyrazy
+   lub wyrażenia, które funktor wiąże w większą całość, nazywamy argumentami
+   funktora.
+
+Zdania oznacza się symbolicznie /z/. Nazwy oznacza się symbolicznie /n/.
+
+Przykłady funktorów:
+
+a. funktor nazwotwórczy od (jednego) argumentu nazwowego: /zielona/ gęś:
+   \(\frac{n}{n}\)
+b. funktor nazwotwórczy od dwóch argumentów nazwowych: most /nad/ rzeką:
+   \(\frac{n}{nn}\)
+c. funktor zdaniotwórczy od argumentu nazwowego: sędzia /śpi/: \(\frac{z}{n}\)
+d. funktor zdaniotwórczy od dwóch argumentów zdaniowych: /chociaż/ w Warszawie
+   pada deszcz /to/ w Łodzi świeci słońce: \(\frac{z}{zz}\)
+e. funktor funktorotwórczy od argumentu funktorowego: sędzia (/n/) /głęboko/ śpi
+   \(\frac{z}{n}\) : Czym zatem, jest słowo /głęboko/? Tym:  \(\frac{\frac{z}{n}}{\frac{z}{n}}\)
+
+Zastępowalność wyrażeń w tej samej kategorii syntaktycznej. Przykłady:
+
+a. Sędzia głęboko śpi. Sędzia głęboko słucha.
+b. Piękna melodia. Zielona melodia.
+c. Rdza niszczy metal. Rdza podziwia metal.
+
+Ale już nie: /zielona/ gęś \rarr  /nad/ gęś
+
+**** Zadanie — określ kategorie syntaktyczne w zdaniu
+***** Przykład 1
+a) Sędzia /n/
+b) przesłuchuje \(\frac{z}{nn}\)
+c) świadka. /n/
+
+***** Przykład 2
+a) Nieprawda, że \(\frac{z}{z}\)
+b) świeci \(\frac{z}{n}\)
+c) słońce. /n/ 
+
+*** Role semiotyczne wypowiedzi
+**** Rola opisowa
+Wypowiedź opisuje rzeczywistość.
+
+a. Świeci słońce.
+b. W lipcu w Polsce jest zima.
+
+**** Rola ekspresywna
+Komunikuje przeżycia, przemyślenia, stan wewnętrzny.
+
+a. Moja poranna kawa była ekstatycznie smaczna!
+b. Ach, świeci słońce!
+c. Ten obraz jest przepiękny.
+
+**** Rola sugestywna
+Ma wywołać w odbiorcy komunikatu jakieś zachowanie.
+
+a. Janku, o godz. 9 masz być w łóżku!
+b. Nie jestem pewien, że podoba mi się ta twoja nowa koszulka.
+d. Kto przekracza dozwoloną prędkość podlega karze…
+e. Palenie zabija!
+
+**** Rola performatywna
+Wypowiedź wywołuje skutki konwencjonalne.
+
+a. Złożenie przysięgi lub ślubowania.
+b. Nakładam na Pana mandat karny w wysokości 500 zł.
+
+***** Zadanie
+Jan wypowiedział słowa przysięgi małżeńskiej wobec Małgosi, ale nie doszło do
+zawarcia małżeństwa; Małgosia również wypowiedziała odpowiednie słowa, nadal nie
+doszło do zawarcia małżeństwa. Dlaczego?
+
+#** FAQ
+#** Zadania
+#** Zagadka

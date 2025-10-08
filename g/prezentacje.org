@@ -1,0 +1,31 @@
+* Wytyczne dotyczące prezentacji
+
+** Struktura i czas trwania prezentacji
+- Prezentacje powinny być dobrze zaplanowane, nie przekraczaj swojego czasu.
+- Użyj programu PowerPoint lub równoważnego oprogramowania do slajdów
+
+** Cytowanie i źródła
+- Prawidłowo cytuj wszystkie źródła użyte w prezentacji.
+- Dołącz bibliografię lub slajd referencyjny na końcu prezentacji.
+
+** Integracja AI
+- Wykorzystanie narzędzi AI w procesie prezentacji
+- Udokumentuj, w jaki sposób wykorzystano sztuczną inteligencję (np. do badań, projektowania slajdów, generowania treści)
+
+** Udostępnianie plików i konwencja nazewnictwa
+- Udostępniaj prezentacje na kanale Teams przed prezentacją.
+- Postępuj zgodnie z konwencją nazewnictwa:
+
+=YYYY-MM-DD_NazwiskoImięStudenta1_[NazwiskoImięStudenta2]_SkróconyTytuł.[rozszerzenie]=
+
+** Wytyczne dotyczące projektowania slajdów
+- Używaj spójnego motywu i schematu kolorów.
+- Ogranicz tekst na slajdach (maksymalnie 6-7 wierszy na slajd)
+- Dołącz odpowiednie elementy wizualne, aby wesprzeć kluczowe punkty
+
+** Prezentacja
+- Przećwicz prezentację, aby zapewnić odpowiednie wyczucie czasu
+- Przygotuj się do odpowiedzi na pytania publiczności
+
+** Zasoby
+- "Jak przemawiać" Patricka Winstona: https://youtu.be/Unzc731iCUY?si=L8sySYO3IKsI_WTv

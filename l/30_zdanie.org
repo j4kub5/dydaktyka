@@ -1,0 +1,15 @@
+** Zdanie
+- Zdanie to wyrażenie stwierdzające, że jest tak a tak. Problem jednoznaczności
+  wypowiedzi.
+- Przykłady wyrażeń niebędących zdaniami w sensie logicznym, ale będących zdaniami w sensie gramatycznym: /Zapal światło. W razie niebezpieczeństwa zbij szybę./
+- Zdarzenia i stany rzeczy.
+  + Zdarzenie: rzecz lub osoba wykazywała w danym momencie własność X a w innym
+    momencie jej nie wykazywała.
+  + Stan rzeczy: rzecz lub osoba wykazywała od momentu A do momentu B jakąś
+    własność.
+- Zdanie prawdziwe - opisuje rzeczywistość tak, jak się ona ma. Nie można wolą,
+  teorią ani poglądem zmienić wartości prawdziwościowej zdania.
+- Prawdziwość wynikająca z sensu użytych w nich słów; zdanie analityczne.
+- Fałszywość wynikająca z sensu słów; zdanie wewnętrznie kontradyktoryczne.
+- Zdania syntetyczne - nie da się poznać ich wartości logicznej za pomocą sensu
+  zawartych w nich słów.

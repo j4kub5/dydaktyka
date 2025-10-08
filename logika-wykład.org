@@ -1,0 +1,200 @@
+#+title: Logika
+#+AUTHOR: Jakub J. Szczerbowski
+#+OPTIONS: tex:t p:t
+#+LANGUAGE: pl
+#+STARTUP: latexpreview
+
+:REVEALJS_OPTIONS:
+#+subtitle:Notatka pomocnicza do wykładu
+#+REVEAL_ACADEMIC_TITLE: dr hab.
+#+OPTIONS: num:nil toc:nil date:nil timestamp:nil tags:nil
+#+REVEAL_TITLE_SLIDE: <h2>%t</h2><h3>%s</h3><p>dr hab. <b>%a</b>, prof. UŁ</p>
+#+REVEAL_EXTRA_ATTR: style="height: 100%; overflow-y: auto !important"
+:END:
+
+* Wykład 1
+SCHEDULED: <2024-10-19 Sat>
+#+INCLUDE: l/00_org_w.org
+#+INCLUDE: l/10_wprowadzenie.org
+
+* Wykład 2
+SCHEDULED: <2024-10-26 Sat>
+#+INCLUDE: l/20_nazwy.org
+  
+* Wykład 3
+SCHEDULED: <2024-11-23 Sat>
+#+INCLUDE: l/21_stosunki.org
+#+INCLUDE: l/22_definicje.org
+
+* Wykład 4
+SCHEDULED: <2024-11-23 Sat>
+#+INCLUDE: l/23_podzial.org
+#+INCLUDE: l/30_zdanie.org
+#+INCLUDE: l/31_funktoryp.org
+
+* Wykład 5
+SCHEDULED: <2024-12-07 Sat>
+#+INCLUDE: l/40_relacje.org
+#+INCLUDE: l/50_oceny.org
+
+* Wykład 6
+SCHEDULED: <2024-12-14 Sat>
+#+INCLUDE: l/51_modalne.org
+
+* Wykład 7
+SCHEDULED: <2025-01-11 Sat>
+#+INCLUDE: l/60_pytania.org
+
+* Wykład 8
+SCHEDULED: <2025-01-18 Sat>
+#+include: l/70_uzasadnianie_twierdzen.org
+#+include: l/71_niededukcyjne.org
+
+* Wykład 9
+SCHEDULED: <2025-01-25 Sat>
+
+** Nieporozumienia
+- wieloznaczność słów:
+  + Każdy ssak lubiący jeść pączki, lubi chodzić do cukierni. Łoś lubi jeść pączki. A więc, łoś lubi chodzić do cukierni.
+  + znaczenie aktualne i znaczenie potencjalne: Czy Tadek gra w brydża?
+- błąd ekwiwokacji: użycie tego samego słowa w różnych znaczeniach; szczególne znaczenie w przypadku mowy prawniczej
+- wieloznaczność wypowiedzi złożonej: Nigdy nie można zrobić zbyt wiele dla ludzi starych i chorych.
+- znaczenie dosłowne i niedosłowne: /Człowiek człowiekowi wilkiem./
+- skróty myślowe: /Mniej znaczy więcej./
+-  Amfibologia- wypowiedź wieloznaczna ze względu na składnię: /Paweł powiedział swojej koleżance, że ona jest niemądra./
+
+** Dedukcja
+- wnioskowanie jako proces myślowy, przesłanki, przesłanki entymematyczne
+  + przykłady wnioskowań:
+    - Kto zabija zwierzęta ten ma predyspozycje do mordowania ludzi.
+    - Jest piątek, a więc czas na pizzę.
+    - Kto sprzedaje narkotyki jest dealerem.
+    - Kto zażywa narkotyki ten jest dealerem.
+    - Jan prowadzi samochód kompletnie pijany, a więc Jan podlega karze.
+    - Jest sobota, a więc czas na kuchnię hinduską.
+    - Jestem ubogi, a więc idę do pracy.
+    - Jeśli zauważam wzrastające temperatury co roku, to znaczy, że następuje ocieplenie klimatu.
+    - Wschodzi krwawe słońce a więc przelano krew tej nocy.
+- wnioskowania zawodne i wnioskowania niezawodne (/Każdy człowiek jest śmiertelny. Sokrates jest człowiekiem. A więc, Sokrates jest śmiertelny./)
+- prawa logiki
+  + prawo transpozycji: (p \sup q) \sup (\sim q \sup \sim p): Jeżeli (Jeżeli pada deszcz, to ulica jest mokra) to (Jeżeli nieprawda, że ulica jest mokra to nieprawda, że pada deszcz)
+  + prawo kontrapozycji: \prod S,P: SaP \equiv nie-S a nie-P
+- sylogizm: /Ponieważ (1) jeżeli p, to q i (2) jeżeli q, to r (3) to jeżeli p to r./
+  + [ (p \sup q) \cdot (q \sup r)] \sup (p \sup r)
+  + [(p \sup q) \cdot p] \sup q (modus ponendo ponens): Jeżeli [(Jeżeli woda wrze to jest gorąca) i woda wrze] to woda jest gorąca
+  + [(p \sup q) \cdot \sim q] \sup \sim p (modus tollendo tollens): /Jeżeli [(Jeżeli woda wrze to jest gorąca) i nieprawda, że woda jest gorąca] to nieprawda, że woda wrze./
+  + [(p \vee q) \cdot \sim p] \sup q (modus tollendo ponens): /Jeżeli [(Wicked jest psem lub Wicked jest kotem) i nieprawda, że Wicked jest kotem] to Wicked jest psem./
+
+- sylogistyka Arystotelesa
+  + zdania w postaci:
+  + zd. ogólno-twierdzące:     SaP - /każde S jest P/
+  + zd. ogólno-przeczące:      SeP - /żadne S nie jest P/
+  + zd. szczególno-twierdzące: SiP - /istnieją S, które są P/
+  + zd. szczególno-przeczące:  SoP - /istnieją S, które są nie-P/
+  + SaP \equiv \sim (SoP)
+  + SeP \equiv \sim (SiP)
+  + SiP \equiv \sim (SeP)
+  + SoP \equiv \sim (SaP)
+
+#+begin_verse
+
+MaP
+SiM
+------
+SiP
+
+Każdy adwokat jest prawnikiem.
+Niektórzy ludzie są adwokatami.
+------
+Niektórzy ludzie są prawnikami.
+
+Każdy polityk jest gadem.
+Niektórzy profesorowie są politykami.
+------
+Niektórzy profesorowie są gadami.
+
+#+end_verse
+
+FIFO - first in first out, FILO - first in last out, GIGO - garbage in garbage out
+
+* Wykład 10
+SCHEDULED: <2025-02-01 Sat>
+#+include: l/75_prawnicze.org
+** Myślenie kierowane z góry postawionymi zadaniami
+- myślenie spontaniczne, a myślenie kierowane z góry postanowionymi zadaniami
+- zadania:
+  + zadania rozstrzygnięcia: „czy prawdą jest, że p”?
+  + zadania wyjaśnienia: „dlaczego prawdą jest, że p”?
+- dowodzenie
+  + dowodzenie a wiadomości o świecie
+  + dowodzenie wprost: wiadomo, że jeśli p to q; wiadomo, że p, a więc udowodnione jest, że q
+    + jeżeli w pomieszczeniu są czyjeś odciski palców, to ta osoba była w tym pomieszczeniu
+  + dowodzenie nie wprost: przypuszczam, że \sim{}q; wiem, że jeżeli \sim{}q to r; wiem, że ~r; a więc wiem, że \sim{}\sim{}q czyli q
+  + błędy w dowodzeniu:
+    - błąd materialny, bład formalny, błąd petitio principi
+    - błąd błędnego koła  - 
+    - nieznajomość tezy dowodzonej - ignoratio elenchi 
+- sprawdzanie
+  + czy p?
+    - wiem, że p \sup q
+    - (a) wiem, że q: a więc?
+    - (b) wiem, że \sim{}q: a więc?
+- wyjaśnianie
+  + dlaczego jest tak a tak?
+  + hipoteza wyjaśniająca (np. hipoteza samorództwa, hipoteza flogistonu)
+** Prawdopodobieństwo
+- zagadka Monty Hall
+- prawdopodobieństwo a ryzyko
+- *Prawdopodobieństwo* ma różne znaczenia:
+  - psychologiczne — siła przekonania o pewności danego zdania
+  - logiczne (metodologiczne) — istnieją podstawy statystyczne (lub wynikające z innych metod) do uznania zdania za prawdziwe
+
+Przed i po:    
+- *prawodpodobieństwo aprioryczne*
+- *prawodpodobieństwo aposterioryczne*
+
+** Implikatura
+- *Piotr*: Czy wszystko w porzadku? *Katarzyna*: Tak, po prostu się odczep ode mnie ty nieczuły filistynie. Wniosek: Wszystko jest OK, Piotr może otworzyć piwo i oglądać mecz; status Katarzyny jest bardzo dobry.
+- *Piotr*: Znalazłem super wycieczkę, idę do szefa po urlop i jedziemy z Kasią na Maltę. *Wojciech*: Pojedziecie to wy na księżyc. Jaki wniosek powinien wyciągnąć Piotr?
+
+**** Zasady współpracy
+Twoja wypowiedź powinna wnosić oczekiwany wkład do wymiany zdań.
+
+1. Nie wygłaszaj poglądów fałszych ani nawet niedostatecznie uzasadnionych (maksyma jakości).
+2. Nie udzielaj zbyt wiele, ani zbyt mało informacji (maksyma ilości).
+3. Nie wypowiadaj słów irrelewantnych (maksyma istotności).
+4. Mów w sposób zrozumiały (maksyma sposobu).
+
+Jan: Która jest godzina? Elżbieta: Przecież wiesz, o której jemy obiad.
+
+** Umiejętność przekonywania
+ - agrumentowanie to czynność polegającu na wywołaniu adresata wypowiedzi określonego przeświadczenia
+ - nie zawsze argument musi być rozsądny \rarr wszystko zależy od adresata
+ - zarzuty w dyskusji:
+   - merytoryczne, materialne
+   - formalne
+ - fortele erystyczne
+   - argumentum ad personam
+   - argumentum ad populum
+   - argumentum ad vanitatem
+   - argumentum ad misericordiam
+ - problem argumentu z autorytetu
+   
+* ŚCIĄGA: Symbole logiczne
+W nawiasach oznaczono alternatywne symbole.
+
+- Kwantyfikator ogólny: \prod x (\forall)
+- Kwantyfikator szczegółowy: \sum{} x (\exists)
+- Negacja: \sim{}p (\neg{}p)
+- Koniunkcja: p \cdot q (p \wedge q; Kpq; p & q; &&)
+- Implikacja: p \sup q (p \to  q)
+- Alternatywa nierozłączna: p \vee q (p + q; Apq; ||)
+- Alternatywa rozłączna: p \perp q
+- Dysjunkcja: p / q
+- Binegacja: p \downarrow q
+- Równoważność: p \equiv q (p \harr  q)
+- Konieczność: \(\Box{}p\)
+- Możliwość: \(\diamond{}p\)
+ 	◻
+- 
+\plus 

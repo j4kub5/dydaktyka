@@ -1,0 +1,87 @@
+#+title: Theory of law - class notes (winter 2025/2026)
+#+AUTHOR: J. Szczerbowski
+#+OPTIONS: tex:t p:t toc:nil
+#+LANGUAGE: en
+#+STARTUP: latexpreview
+
+* Lecture 1
+SCHEDULED: <2025-10-07 Tue>
+** Organizational matters
+1. Form: seminar (pol. /konwersatorium/).
+2. Course credit conditions:
+   - final test (weight 50%)
+   - presentation (weight 50%)
+   - attendance is mandatory; two absences are allowed (each absence exceeding two absences lowers the grade to the next lower grade)
+   - grading scale:
+     + = 55% — 2,0
+     + >= 55% — 3,0
+     + >= 65% — 3,5
+     + >= 75% — 4,0
+     + >= 85% — 4,5
+     + >= 95% — 5,0
+3. Make sure you know how to use MS Teams. MS Teams is available at: https://teams.microsoft.com (instructions: https://support.microsoft.com/en-us/teams).  Access code to our team is:
+   + =wckxmk1=
+4. IMPORTANT:
+   * attendance list is available at https://forms.office.com/e/rDKUfQhKgN
+   * always remember to fill in the attendance list
+5. Office hours: https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
+6. This material is available at https://github.com/j4kub5/dydaktyka
+
+#+include: ./g/survey.org :minlevel 3
+
+*** Presentations (20-25 min.)
+#+include: ./g/presentations.org
+
+**** Presentation topics
+1. Approaches to understanding law
+2. Law versus other normative systems
+3. The concept of justice
+4. Situations regulated by law
+5. Law-making
+6. Legal interpretation
+7. Legal system versus legal order
+8. Rules vs standards
+9. Observance of law
+10. Administration of justice
+11. Functions of law
+12. Logic and law
+13. Norms of conduct (deontic logic)
+14. Rule of law
+15. Introduction do Law and Economics
+16. Law and Economics of Property Law
+17. Law and Economics of Tort Law
+18. Law and Economics of Contract Law
+19. Comparative Law: Method and Scope.
+20. Comparative Law: Legal families.
+
+** The position of theory of law among scientific disciplines
+Literature: N. Qamar, Theory Position in the Structure of Legal Science, SIGn Jurnal Hukum 2021/3/1, DOI: 10.37276/sjh.v3i1.126
+
+* Lecture 2
+SCHEDULED: <2025-10-21 Tue>
+
+* Lecture 3
+SCHEDULED: <2025-10-28 Tue>
+
+* Lecture 4
+SCHEDULED: <2025-11-04 Tue>
+
+* Lecture 5
+SCHEDULED: <2025-11-18 Tue>
+* Lecture 6
+SCHEDULED: <2025-11-25 Tue>
+
+* Lecture 7
+SCHEDULED: <2025-12-02 Tue>
+
+* Lecture 8
+SCHEDULED: <2025-12-09 Tue>
+
+* Lecture 9
+SCHEDULED: <2025-12-16 Tue>
+
+* Lecture 10
+SCHEDULED: <2026-01-13 Tue>
+
+* Lecture 11
+SCHEDULED: <2026-01-20 Tue>

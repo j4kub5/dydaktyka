@@ -1,0 +1,112 @@
+#+TITLE: Logika
+#+SUBTITLE: Skrypt dla studentów prawa napisany w prostym języku
+#+AUTHOR: Jakub J. Szczerbowski
+#+OPTIONS: tex:nil
+#+DATE: wersja 0.1
+#+LANGUAGE: pl 
+#+LATEX_CLASS: article
+#+STARTUP: fninline
+
+* TODO Wprowadzenie
+** Jak korzystać z tego skryptu?
+- Niniejszy dokument występuje w dwóch wersjach źródłowej używającej składni org-mode (https://orgmode.org/), zawartej w pliku =.org= oraz w wersji wynikowej: =.pdf=.
+- Wersję źródłową (=.org=) można czytać przy pomocy dowolnego edytora tekstu. Zalecanym jest Emacs (https://www.gnu.org/software/emacs/), który obsługuje org-mode. Inne edytory mogą lepiej wyświetlać pliki =.org= jeśli zainstalujesz odpowiednią wtyczkę lub rozszerzenie.
+- Korzystaj z aktualnej wersji tego dokumentu, którą możesz znaleźć na stronie https://github.com/j4kub5/dydaktyka/blob/master/logika-skrypt.org
+
+** Co to jest prosty język?
+Prosty język to styl pisania zaprojektowany tak, aby czytelnik mógł zrozumieć tekst tak
+
+- szybko
+- łatwo
+- kompletenie
+
+jak tylko to możliwe. 
+
+
+* TODO Nazwa
+
+** FAQ
+*** Czy „zamek” (jako budynek) i „zamek” jako urządzenie montowane w drzwiach, to ta sama nazwa?
+
+** Zadania
+
+** Zagadka
+
+* TODO Zdanie
+
+** Klasyczny rachunek zdań
+
+** FAQ
+
+** Zadania
+
+** Zagadka
+
+* TODO Relacje pomiędzy przedmiotami
+
+** FAQ
+
+** Zadania
+
+** Zagadka
+
+* TODO Oceny, normy i modalności
+
+** FAQ
+
+** Zadania
+
+** Zagadka
+* Pytania
+** Wiadomości ogólne
+*Pytanie* jest rodzajem wypowiedzi, której zasadniczym zadaniem jest uzykanie informacji od adresata pytania[fn:: Inny cel może przyświecać pytaniom retorycznym mającym wywołać w adresacie tych wypowiedzi określony stan bez oczekiwania na odpowiedź. Pytania mogą być również stawiane w celu sprawdzenia wiedzy ich adresata (w kontekście dydaktycznym).]. Pytanie różni się od zdania ponieważ nie odpisuje rzeczywistości -- tym samym nie można mówić o prawdziwości bądź fałszywości pytania. Umiejętność zadawania pytań oraz oceny odpowiedzi należy do kluczowych kompetencji prawnika.
+
+*Założeniem pytania* nazywamy zdania, które uznajemy za prawdziwe zadając dane pytanie. Przykładowo, pytanie „O której wychodzimy do kina?” przyjmuje założenie, że wychodzimy do kina. Założenie fałszywe sprawia, że mamy do czynienia z *pytaniem niewłaściwie postawionym*. Niekiedy źle postawione pytanie może skutkować odpowiedzialnością -- gdy fałszywe założenie narusza dobra prawnie chronione („W jaki sposób Pan kradnie tak ogromne sumy?” zadane osobie uczciwej); trudności może wówczas sprawiać skuteczne zasłonięcie się argumentem, że było to tylko pytanie.
+
+Sposób postawienia pytania może wyznaczać schemat odpowiedzi na nie. Pytanie „Ile czasu zajmuje podróż samochodem z Warszawy do Łodzi?” tworzy schemat odpowiedzi w postaci „Podróż samochodem z Warszawy do Łodzi zajmuje /x/. Schemat taki nazywany jest *daną pytania* (łac. /datum quaestionis/). Pytania nieokreślające schematu odpowiedzi nazywamy *pytaniami otwartymi*.
+
+*Niewiadomą pytania* nazywamy wyrażenie, którego podstawienie w danej pytania skutkuje otrzymaniem odpowiedzi. Niewiadomą powyższego pytania będzie zatem wyrażenie określające czas podróży samochodem z Warszawy do Łodzi. Zbiór wyrażeń możliwych do wstawienia w miejsce niewiadomej pytania nazywamy *zakresem niewiadomej pytania*. W zakresie niewiadomej pytania będą znajdować się wyrażenia takie jak „2 godziny”, „6 godzin” i „2 minuty”; zwróć jednak uwagę, że nie każda odpowiedź utworzona z wyrażenia należącego do zakresu niewiadomej pytania będzie prawdziwa. Poza zakresem niewiadomej powyższego pytania będą wyrażenia takie jak „150 km” i „dwie i pół tony” ponieważ nie można ich sensownie użyć w schemacie narzuconym przez daną pytania.
+
+** Budowa pytań
+Pytania zawierają *partykułę pytajną* (przykładowo: „kto”, „w jaki sposób”, „czy”) chociaż niekiedy należy się jej domyślić stosując reguły danego języka (np. z intonacji w języku polskim). Ze względu na użytą partykułę pytajną pytania można podzielić na:
+- pytania do rozstrzygnięcia — wymagające wyboru jednej z wykluczających się odpowiedzi („Czy trójkąt mają trzy czy cztery boki?”, „Czy to prawda, że boli Cię ręka?”) oraz
+- pytania do uzupełnienia — nienarzucające wyboru odpowiedzi, lecz wymagające od adresata pytania jej sformułowania („Jakie narzędzie jest najwłaściwsze dla tego zadania?”).
+
+Niekiedy pytanie może być wadliwe ze względu na *niejednoznaczność słów* w nich użytych. Odpowiedź na pytanie „Czy nigdy nie można zrobić zbyt wiele dla ludzi starych i chorych?” będzie wymagała uprzedniego rozstrzygnięcia:
+- czy chodzi o kategorię ludzi jednocześnie starych i chorych, czy też o dwie kategorie ludzi, zarówno ludzi starych jak i ludzi chorych;
+- czy zwrot „nigdy nie można” oznacza negatywną ocenę nadmiernych wysiłków, czy też pozytywną ocenę podejmowania jak największych wysiłków;
+- jaki poziom nakładów przekroczy próg wskazywany przez pojęcie „zbyt wiele”.
+Odpowiedź „tak” albo „nie” na powyższe pytanie nie przyniesie zatem pytającemu pewnej wiedzy na temat poglądów adresata pytania.
+
+** Odpowiedź
+Rozważmy zagadnienie odpowiedzi na przykładzie pytania „Jaka miejscowość jest siedzibą Uniwersytetu Łódzkiego?”. Udzielona na dane pytanie odpowiedź może być uznana za *odpowiedź właściwą*, jeżeli powstaje ona poprzez użycie wyrażenia z zakresu niewiadomej pytania. Odpowiedziami właściwymi dla powyższego pytania będą zarówno „Siedzibą Uniwersytetu Łódzkiego jest Łódź” jak i „Siedzibą Uniwersytetu Łódzkiego jest Szczecin”. Odpowiedź właściwa nie musi być zatem prawdziwa.
+
+Może się także zdarzyć, że wyrażenie prawdziwe będzie *odpowiedzą niewłaściwą* -- np. odpowiedź „Trójkąt ma trzy boki” na wskazane pytanie, chociaż jest zdaniem prawdziwym nie należy do zakresu niewiadomej pytania. Oczywiście, odpowiedzią niewłaściwą będzie także nieprawdziwe zdanie „Trójkąt ma pięć boków”. 
+
+Odpowiedzi można podzielić na:
+- odpowiedzi *całkowite wprost* – to odpowiedzi właściwe podążające za schematem odpowiedzi wyznaczonym przez pytanie (np. „Siedzibą Uniwersytetu Łódzkiego jest Gdańsk”),
+- odpowiedzi *całkowite nie wprost* - nie podążające za schematem odpowiedzi, lecz zawierające informacje wystarczające do ustalenia odpowiedzi właściwej (np. „Siedzibą Uniwersytetu Łódzkiego jest stolica województwa łódzkiego”, „Siedzibą Uniwersytetu Łódzkiego jest miejscowość, w której urodził się Fryderyk Chopin”), 
+- odpowiedzi *częściowe* - nie będąc odpowiedziami właściwymi posiadają wartość informacyjną pozwalającą wykluczyć niektóre odpowiedzi właściwe (np. „Siedzibą Uniwersytetu Łódzkiego jest pewne miasto w województwie łódzkim”).
+
+Odpowiedzi całkowite nie wprost mogą stanowić informację o woli ukrycia prawdy. Przyjrzyj się temu dialogowi:
+
+- pełnomocnik powoda: Czy świadek był pracownikiem pozwanego?
+- świadek: Tak. -- /odpowiedź całkowita wprost/
+- pełnomocnik powoda: Czy w dniu 15 czerwca 2022 r. rozpoczęli Państwo prace na budowie o godzinie wskazanej w harmonogramie robót, tj. o godzinie 8:00? 
+- świadek: Zawsze robiliśmy wszystko zgodnie z harmonogramem. -- /odpowiedź całkowita nie wprost, jak się okaże za chwilę, odpowiedź jest nieprawdziwa/
+- pełnomocnik powoda: Proszę odpowiedzieć odnosząc się do tego konkretnego dnia.
+- świadek: Faktycznie w tym dniu wyjątkowo rozpoczęlismy pracę nieco później. -- /odpowiedź całkowita wprost, jednak sprzeczna z odpowiedzią udzieloną powyżej/
+
+** TODO FAQ
+*** TODO Czy pytanie z długą odpowiedzią może być pytaniem zamkniętym?
+** Zadania
+1. Wskaż założenia pytania „Czy Adam jest mężem Doroty czy Anny?”.
+2. Dla pytania „Jakie jest największe pod względem powierzchni państwo w Europie?” wskaż:
+   a) daną pytania,
+   b) niewiadomą pytania,
+   c) zakres niewiadomej pytania,
+   a ponadto sklasyfikuj to pytanie w ramach podziałów jakie poznałeś.
+3. Ułóż pytanie i udziel na nie odpowiedzi właściwej (wprost i nie wprost) oraz odpowiedzi częściowej.
+
+** Zagadka
+Spotykasz osobę, o której wiesz, że jest prawdziwkiem albo fałszywkiem. Czy ta osoba może powiedzieć zdanie: „Jestem fałszywkiem lub trójkąt ma cztery boki”?

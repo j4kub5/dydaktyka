@@ -1,0 +1,58 @@
+** Definicje
+*Rozdział w podręczniku:* 4
+
+Definicja realna: wypowiedź w języku pierwszego stopnia, która charakteryzuje przedmiot i tylko ten przedmiot.
+
+Definicja nominalna: wypowiedź w języku drugiego stopnia, które informuje o znaczeniu definiowanego słowa: /Wyraz kwadrat oznacza prostokąt, który ma wszystkie boki równe./
+
+*** Przykłady definicji (podawane przez studentów)
+1. Odcinek to jest fragment prostej, który ma początek i koniec.
+2. Bursztyn to jest skamieniała żywica.
+3. Wiatr to poziomy ruch powietrza z wyżu do niżu.
+4. Oszustwo to jest wprowadzenie innej osoby w błąd albo wyzyskanie błędu lub
+   niezdolności do należytego pojmowania przedsiębranego działania w celu
+   osiągnięcia korzyści majątkowej.
+
+*** Zadania definicji
+- Definicja sprawozdawcza: składa sprawozdanie z tego, jak pewna grupa ludzi posługuje się wyrazem lub wyrażeniem: /W języku polskim drugiej połowy XX-wieku wyraz księgarnia oznacza sklep, w którym sprzedaje się książki.  W języku myśliwych wyraz farba oznacza krew zwierzęcia. W języku polskim wyraz czapka oznacza część garderoby noszoną na stopie./
+- Definicja projektująca: ustala znaczenie jakiegoś wyrazu na przyszłość. Np.: /Dokumentem jest nośnik informacji umożliwiający zapoznanie się z jej treścią./ (art. 77^3 k.c.).
+  - Definicja projektująca może być konstrukcyjna (/Ilekroć w ustawie jest mowa o *przeciętnym konsumencie* - rozumie się przez to konsumenta, który jest dostatecznie dobrze poinformowany, uważny i ostrożny/) albo
+  - regulująca (/Stan nietrzeźwości w rozumieniu tego kodeksu zachodzi, gdy: 1) zawartość alkoholu we krwi przekracza 0,5 promila albo prowadzi do stężenia przekraczającego tę wartość lub 2) zawartość alkoholu w 1 dm^3 wydychanego powietrza przekracza 0,25 mg albo prowadzi do stężenia przekraczającego tę wartość./).
+
+*** Budowa definicji
+Definiendum + zwrot łączący + definiens
+Bursztyn + to + kopalna żywica drzew iglastych.
+
+- Definicja równościowa: /definiendum + zwrot łączący + definiens/: Bursztyn to kopalna żywica drzew iglastych.
+  + Definitio per genus et differentiam specificam (definicja klasyczna):
+    + A to takie B, które ma cechę C.
+    + Kwadrat to jest taki prostokąt, który ma wszystkie boki równe.
+- Definicje nierównościowe. Np. występujące w geometrii (definicja przez postulaty).
+
+#+BEGIN_SRC plantuml :file img/definicje.png
+
+@startwbs
++ Definicje
+++ Definicje równościowe
+--- Definicje klasyczne
++++ Definicje nieklasyczne
+++ Definicje nierównościowe
+@endwbs
+
+#+END_SRC
+
+Definicje w prawie (przykłady do omówienia): art. 10 § 1 k.c., art. 627 k.c.
+
+- Art.  10. §  1. Pełnoletnim jest, kto ukończył lat osiemnaście.
+- Art. 627. Przez umowę o dzieło przyjmujący zamówienie zobowiązuje się do wykonania oznaczonego dzieła, a zamawiający do zapłaty wynagrodzenia.
+
+*** Poprawność definicji
+- nieprzystosowanie definicji do słownika osoby będącej adresatem definicji (ignotum per ignotum): /Krącitka/ to jest taka /frutka/, która ma /piląga/.
+- definiens zawiera definiendum (idem per idem). /Polak, to jest taki człowiek, który jest narodowości polskiej./
+- Błędne koło pośrednie: /Logika to nauka o logicznym myśleniu. Logiczny to taki, który jest zgodny z nauką logiki./
+- definicja zbyt szeroka: Człowiek to ssak dwunożny.
+- definicja zbyt wąska: Człowiek to ssak posługujący się mową i pismem.
+
+# *** FAQ
+# *** Zadania
+# *** Zagadka

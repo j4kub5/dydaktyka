@@ -1,0 +1,134 @@
+** Funktory prawdziwościowe
+*** Wartości logiczne funktorów prawdziwościowych
+
+| p | q | \sim{}p | p \vee q | p \cdot q | p \sup q | p \perp q | p \equiv q | p \downarrow q |
+|---+---+---+-------+------+-------+-------+-------+-------|
+| 0 | 0 | 1 |     0 |    0 |     1 |     0 |     1 |     1 |
+| 0 | 1 | 1 |     1 |    0 |     1 |     1 |     0 |     0 |
+| 1 | 0 | 0 |     1 |    0 |     0 |     1 |     0 |     0 |
+| 1 | 1 | 0 |     1 |    1 |     1 |     0 |     1 |     0 |
+
+**** Przykłady
+***** Negacja
+
+Nieprawda, że na trawniku leży śnieg.
+
+| \sim{}p | p |
+|---+---|
+| 1 | 0 |
+| 0 | 1 |
+
+***** Alternatywa nierozłączna
+
+Na trawniku leży śnieg lub jest lato.
+
+| p | p \vee q | q |
+|---+-------+---|
+| 1 |     1 | 0 |
+| 0 |     1 | 1 |
+| 1 |     1 | 1 |
+| 0 |     0 | 0 |
+
+***** Koniunkcja
+
+Pada deszcz i ulica jest mokra.
+
+| p | p \cdot q | q |
+|---+-------+---|
+| 1 |     1 | 1 |
+| 0 |     0 | 0 |
+| 1 |     0 | 0 |
+| 0 |     0 | 1 |
+
+***** Alternatywa rozłączna
+
+1. Pójdziemy na lody albo pójdziemy do kina.
+2. Przestępstwo jest zbrodnią *albo* występkiem. (art. 7 § 1 k.k.)
+3. Czyn zabroniony popełniony jest nieumyślnie, jeżeli sprawca nie mając zamiaru jego popełnienia, popełnia go jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość popełnienia tego czynu *przewidywał albo mógł przewidzieć*. (art. 9 § 2 k.k.) -- zastanów się, czy w tym przykładzie słowo albo jest alternatywą rozłączną.
+
+| p | p \perp q | q |
+|---+-------+---|
+| 0 |     0 | 0 |
+| 0 |     1 | 1 |
+| 1 |     1 | 0 |
+| 1 |     0 | 1 |
+
+***** Implikacja
+- Jeżeli pada deszcz to ulica jest mokra.
+- Jeżeli (Zakopane jest stolicą Polski) to (Arystoteles był pierwszym człowiekiem na księżycu).
+
+| p | p \sup q | q |
+|---+-------+---|
+| 1 |     1 | 1 |
+| 0 |     1 | 0 |
+| 1 |     0 | 0 |
+| 0 |     1 | 1 |
+
+***** Równoważność
+
+Wtedy i tylko wtedy gdy pada deszcz to ulica jest mokra.
+
+| p | p\equiv{}q | q |
+|---+-----+---|
+| 1 |   1 | 1 |
+| 0 |   1 | 0 |
+| 1 |   0 | 0 |
+| 0 |   0 | 1 |
+
+***** Binegacja
+
+Ani nie pada deszcz ani nie pochodzę z Marsa.
+
+| p | p\downarrow{}q | q |
+|---+-----+---|
+| 0 |   1 | 0 |
+| 1 |   0 | 0 |
+| 0 |   0 | 1 |
+| 1 |   0 | 1 |
+
+*** Podstawowe zasady myślenia
+
+- /T1: \sim (p \cdot \sim{}p)/ : zasada sprzeczności
+- /T2: p \vee \sim(p)/ : zasada wyłączonego środka
+- /T3: p \equiv \sim ( \sim p )/ : zasada podwójnego zaprzeczenia
+
+Co to jest tautologia, kontrtautologia?
+
+*** Definicja implikacji przy pomocy alternatywy i negacji
+p \sup q \equiv (\sim p) \vee q
+
+*** Definicja implikacji przy pomocy koniunkcji i negacji
+p \sup q \equiv \sim ( p \cdot \sim q )
+
+*** Turing Complete
+Wspólnie gramy w grę.
+
+*** Zadanie
+
+Czy te zdania są prawdziwe?
+
+ - Jeżeli Ateny są stolicą Polski to Uniwersytet Łódzki ma siedzibę w Berlinie.
+ - Jeżeli Ateny są stolicą Polski to Robert Lewandowski jest piłkarzem.
+ - Jeżeli Ateny są stolicą Polski to mam w kieszeni chusteczkę.
+ - Jeżeli Warszawa jest stolicą Polski to Księżyc jest zrobiony z sera.
+ - Jeżeli Warszawa jest stolicą Polski to Albert Einstein opracował teorię
+   względności.
+ - Nieprawda że (Warszawa jest stolicą Polski i nieprawda Einstein opracował
+   teorię względności).
+ - (Nieprawda że, Warszawa jest stolicą Polski) lub Einstein opracował teorię
+   względności.
+ - Ani Ateny są stolicą Polski ani UŁ ma siedzibę w Berlinie.
+
+*** Bezprawne samouwolnienie
+Art. 242. § 1. Kto uwalnia się sam, będąc pozbawionym wolności na
+podstawie orzeczenia sądu lub prawnego nakazu wydanego przez inny
+organ państwowy, podlega grzywnie, karze ograniczenia wolności albo
+pozbawienia wolności do lat 2. […]  § 4. Jeżeli sprawca czynu
+określonego w § 1
+
+- działa w porozumieniu z innymi osobami,
+- używa przemocy lub
+- grozi jej użyciem
+- *albo* uszkadza miejsce zamknięcia,
+
+  podlega karze pozbawienia wolności do lat 3.

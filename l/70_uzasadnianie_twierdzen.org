@@ -1,0 +1,12 @@
+** Uzasadnianie bezpośrednie twierdzeń
+- w jaki sposób można uznać zdanie za prawdziwe? /Postulat racji dostatecznej/ - za prawdziwe należy uznać jedynie takie zdanie, dla którego da się uzyskać należyte uzasadnienie
+  + dla zdań analitycznych - uzasadnienie opiera się na regułach znaczeniowych danego języka
+  + dla zdań syntetycznych
+    - uzasadnienie bezpośrednie opiera się na spostrzeżeniach
+    - uzasadnienia pośrednie pochodzą z wnioskowania z innych zdań przyjętych uprzednio za prawdziwe
+- spostrzeżenia: zewnętrzne i wewnętrzne; problem iluzji (https://www.youtube.com/watch?v=BzNzgsAE4F0 , https://www.youtube.com/shorts/JtjbpBL6dZE)
+- spostrzeżenia:
+  + przypadkowe,
+  + obserwacja,
+  + pomiar i
+  + eksperyment

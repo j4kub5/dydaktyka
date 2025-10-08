@@ -1,0 +1,58 @@
+** Relacje (stosunki) pomiędzy przedmiotami
+*** Wstęp
+
+/xRy/
+
+x R_1 y - Adam jest wyższy od Piotra
+
+y R_2 x - Piotr jest niższy od Adama
+
+x = y, y = z
+
+kiwi kiwi kiwi
+
+x R y
+
+*** Relacje symetryczne, asymetryczne i nonsymetryczne
+
+Jan jest małżonkiem Zofii.
+
+Jan jest starszy od Zofii. x jest mniejszy od y, x jest większy od y, x jest brzydszy od y, x jest grubszy od y.
+
+Jan kocha Zofię. x jest bratem y, x patrzy na y, x mówi do y.
+
+*** Stosunek przechodni (tranzytywny), atranzytywny, nontranzytywny
+
+- Stosunek tranzytywny: jeśli xRy i yRz to xRz.
+- Stosunek atranzytywny: jeśli xRy i yRz to \sim xRz.
+- Stosunek nontranzytywny: jeśli xRy i yRz to xRz \perp (\sim xRz).
+
+- zawiera - jest tranzytywny
+- jest częścią - relacja tranzytywna
+- jest matką - relacja atranzytywna: x jest matką y, y jest matką z \sup x nie jest matką z
+- jest krewnym - relacja nontranzytywna
+- jest szefem - relacja nontranzytywna
+- jest pracownikiem tej samej firmy - relacja nontranzytywna
+- lubi - relacja nontranzytywna
+- jest przyjacielem - relacja nontranzytywna
+
+*** Stosunek spójny, porządkujący, równościowy i zwrotne
+
+Przykładowy zapis:
+
+  - { 4, 1, 2, 3 }; R: <
+
+  - *Stosunek spójny* zachodzi w jednym lub drugim kierunku w danej klasie przedmiotów między każdym i innym dowolnie wybranym przedmiotem.
+    - {1, 1, 1, 1}, R: =
+    - {1, 2, 3, 1}, R: =<
+    - {1, 2, 3, 4}, R: <
+  - *Stosunek porządkujący* pozwala ustawić przedmioty w szeregu: asymetryczny, przechodni i spójny.
+    - { 4, 1, 2, 3 }, R: <
+    - { Adam lat 10, Weronika lat 12, Bronisław lat 64, Kunegunda lat 102 }, R: jest starszy(a)
+  - *Stosunek zwrotny* zachodzi pomiędzy każdym elementem w danej klasie przedmiotów a nim samym:
+    - { 4 , 5 , 9, 23 }, R: jest równe
+  - *Stosunek równościowy*: symetryczny, przechodni i zwrotny:
+    + { 4, 4, 4 } R: /jest równe/
+    + { Wojtek blondyn, Kasia blondynka, Alicja blondynka, Cezary blondyn }, R: /ma taki sam kolor włosów jak/
+    + { Skoda Octavia 1.9TDI, Audi A3 2.0TDI, BMW 330d }, R: /jest na takie samo paliwo jak/
+    + { Adam, Franciszek, Bartek }^1 R: /być bratem/ (1 - panowie są braćmi)

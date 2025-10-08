@@ -1,0 +1,32 @@
+* Presentation Guidelines
+
+** Presentation Structure and Duration
+- Presentations should be well planned, don't exceed your time
+- Use PowerPoint or an equivalent software for slides
+
+** Citation and Sources
+- Properly cite all sources used in the presentation
+- Include a bibliography or reference slide at the end
+
+** AI Integration
+- Utilize AI tools in the presentation process
+- Document how AI was used (e.g., for research, slide design, content generation)
+
+** File Sharing and Naming Convention
+- Share presentations on the Teams channel before you present
+- Follow the naming convention:
+
+=YYYY-MM-DD_StudentName1_[StudentName2]_ShortTitle.[extension]=
+
+** Slide Design Guidelines
+- Use a consistent theme and color scheme
+- Limit text on slides (6-7 lines maximum per slide)
+- Include relevant visuals to support key points
+
+** Delivery
+- Practice the presentation to ensure proper timing
+- Prepare to answer questions from the audience
+
+** Resources
+- "How to Speak" by Patrick Winston: https://youtu.be/Unzc731iCUY?si=L8sySYO3IKsI_WTv
+

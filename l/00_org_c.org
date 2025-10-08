@@ -1,0 +1,21 @@
+** Sprawy formalne i organizacyjne
+1. MS Teams - trzeba dołączyć do grupy zgodnie z kodem.
+2. Gdzie znajdę ten materiał: https://github.com/j4kub5/dydaktyka
+3. Warunki zaliczenia.
+4. Dyżur - informacja jest na https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
+5. Literatura:
+   a) literatura obowiązkowa:
+      - Z. Ziembiński, /Logika Praktyczna/, Warszawa 2004 (albo inne wydanie).
+   b) literatura uzupełniająca:
+      - T. Bekrycht, /Logiczne podstawy prawoznawstwa/, Warszawa 2010,
+      https://www.academia.edu/21615638/LOGIKA_skrypt_Bekrycht.
+      - J. Stelmach, B. Brożek, /Metody Prawnicze/, rozdziały I, II, III pkt.
+      1-2.
+      - J. Wajszczyk, /Jestem więc myślę/, Warszawa 2003.
+      - A. Malinowski, S. Lewandowski, H. Machińska J. Petzel, /Logika dla Prawników/, Warszawa 2009.
+
+*** Przerwy
+5-10 minut w połowie zajęć albo w ostatniej części zajęć.
+
+*** Nieobecności
+Dopuszczalne są dwie nieobecności. Każda nieobecność ponad dwie nieobecności obniża ocenę końcową o pół stopnia.

@@ -1,0 +1,64 @@
+** Sprawy formalne i organizacyjne
+*** Ogólne
+1. Kod teams: =6stf1ze=. Link do teams: https://teams.microsoft.com
+2. Gdzie znajdę ten materiał: https://github.com/j4kub5/dydaktyka
+3. Jak korzystać z tego dokumentu:
+   - jest to jedynie uzupełnienie wykładu i podręcznika
+   - przed każdym wykładem dokument może być aktualizowany - pamiętaj, aby sprawdzić najnowszą wersję
+4. Warunki zaliczenia przedmiotu.
+5. Dyżur - informacja jest na https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
+
+**** Skala ocen
+$$\text{ocena}(pkt) = \begin{cases} 2 & \text{dla } 0 \leq pkt \le 6 \\ 3 + 0.5(pkt-6) & \text{dla } 6 \leq pkt \leq 10 \end{cases}$$
+*** Literatura
+   a) literatura obowiązkowa:
+      - Z. Ziembiński, /Logika Praktyczna/, Warszawa 2004 (albo inne wydanie).
+   b) literatura uzupełniająca:
+      - T. Bekrycht, /Logiczne podstawy prawoznawstwa/, Warszawa 2010,
+      https://www.academia.edu/21615638/LOGIKA_skrypt_Bekrycht.
+      - J. Stelmach, B. Brożek, /Metody Prawnicze/, rozdziały I, II, III pkt.
+      1-2.
+      - J. Wajszczyk, /Jestem więc myślę/, Warszawa 2003.
+
+*** Przerwy
+sobota: 2x10 min. (11:10-11:20, 12:00-12:10)
+
+*** Nieobecności
+W przypadku nieobecności na wykładzie należy samodzielnie nauczyć się materiału
+na podstawie literatury podanej powyżej.
+
+*** Przegląd treści
+1. Ogólne wiadomości o języku.
+2. Nazwy - dowiem się czym się różni książka od biblioteki i Sejm od posłów.
+3. Stosunki pomiędzy zakresami nazw - dowiem się, że jestem nie-krową
+   i nie-PZPR.
+4. Definicje - dowiem się ile cech wspólnych ma śliwka i kosiarka do trawy oraz
+   dlaczego pomimo ich tak wielkiej ilości nadal potrafię je rozróżnić.
+5. Podział logiczny - dowiem się jak napisać przepis przyznający dofinansowanie
+   gospodarstwom domowym, który po wejściu w życie przyprawi urzędników o ból
+   głowy.
+6. Zdanie - dowiem się co to jest prawda i dlaczego „Która godzina?” nie jest
+   zdaniem w sensie logicznym.
+7. Funktory prawdziwościowe - dowiem się dlaczego „p lub nie-p” oraz pogramy
+   wspólnie w grę komputerową.
+8. Relacje - dowiem się, dlaczego człowiek człowiekowi wilkiem, a kiwi kiwi
+   kiwi.
+9. Wypowiedzi oceniające i normy - dowiem się, z czego zbudowane jest prawo
+   (i nie tylko).
+10. Wypowiedzi modalne - dowiem się, co to znaczy przedmiot fakultatywny
+    (i dlaczego kradzież batonika jest też fakultatywna).
+11. Pytania i odpowiedzi - dowiem się, co to znaczy odpowiedzieć na pytanie.
+12. Przyczyny nieporozumień - dowiem się, dlaczego czasem ludzie się nie
+    rozumieją.
+13. Uzasadnianie bezpośrednie - dowiem się o bezpośrednich spostrzeżeniach
+    w przedmiocie rzeczywistości.
+14. Dedukcja - może się okazać, że Sherlock Holmes nie zawsze stosował dedukcję.
+15. Redukcja i indukcja - dowiem się jak nie zostać indykiem.
+16. Myślenie z góry postanowionymi zadaniami - dowiem się, że czasem myślenie
+    służy konkretnym celom.
+17. Prawdopodobieństwo – dowiem się, dlaczego nie powinienem martwić się tym, że
+    co drugie dziecko rodzi się Azjatą, planując rodzinę.
+18. Umiejętność przekonywania - dowiem się jak stosować logikę w sporze
+    i wykrywać nielojalne działania przeciwnika.
+19. Praca myślowa prawnika - dowiem się jak stosować reguły myślenia w zadaniach
+    typowych dla zawodów prawniczych.
