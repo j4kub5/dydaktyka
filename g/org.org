@@ -13,6 +13,12 @@ Gdzie znajdę ten materiał: https://github.com/j4kub5/dydaktyka
 2. Nie przeszkadzaj innym w zajęciach.
 3. Ostrożnie doradzaj innym.
 
+** Dostępność
+- zgłaszanie szczególnych potrzeb
+- wparcie dostępności
+  - https://www.wpia.uni.lodz.pl/wsparcie-dostepnosc
+  - https://www.uni.lodz.pl/wsparcie-w-cwid
+
 ** Teams
 Przed pierwszymi zajęciami na mejl wysyłany jest kod do dołączenia do zespołu zajęć. Wymagane jest dołączenie do tego zespołu. Wymaga użycia konta uniwersyteckiego.
 
@@ -24,7 +30,10 @@ Informacja jest na https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
 Ponadto:
 - proszę o zasygnalizowanie potrzeby spotkania na dyżurze mejlem
 - jest możliwość porozmawiania w przerwie oraz pomiędzy zajęciami
-- formalizujemy ustalenia pismem (mejl)
+- formalizujemy ustalenia pismem mejlem (może wystarczy mejl?)
+
+** Przerwy
+5-10 minut przerwy co około 45 minut.
 
 #+include: ankieta.org :minlevel 3
 #+include: pytania.org :minlevel 3
