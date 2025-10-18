@@ -1,0 +1,10 @@
+** Prawdopodobieństwo
+- zagadka Monty Hall
+- prawdopodobieństwo a ryzyko
+- *Prawdopodobieństwo* ma różne znaczenia:
+  - psychologiczne — siła przekonania o pewności danego zdania
+  - logiczne (metodologiczne) — istnieją podstawy statystyczne (lub wynikające z innych metod) do uznania zdania za prawdziwe
+
+Przed i po:
+- *prawodpodobieństwo aprioryczne*
+- *prawodpodobieństwo aposterioryczne*

@@ -1,0 +1,17 @@
+W nawiasach oznaczono alternatywne symbole.
+
+- Kwantyfikator ogólny: \prod x (\forall)
+- Kwantyfikator szczegółowy: \sum{} x (\exists)
+- Negacja: \sim{}p (\neg{}p)
+- Koniunkcja: p \cdot q (p \wedge q; Kpq; p & q; &&)
+- Implikacja: p \sup q (p \to  q)
+- Alternatywa nierozłączna: p \vee q (p + q; Apq; ||)
+- Alternatywa rozłączna: p \perp q
+- Dysjunkcja: p / q
+- Binegacja: p \downarrow q
+- Równoważność: p \equiv q (p \harr  q)
+- Konieczność: \(\Box{}p\)
+- Możliwość: \(\diamond{}p\)
+ 	◻
+-
+\plus

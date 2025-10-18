@@ -12,15 +12,14 @@ SCHEDULED: <2025-10-07 Tue>
    - final test (weight 50%)
    - presentation (weight 50%)
    - attendance is mandatory; two absences are allowed (each absence exceeding two absences lowers the grade to the next lower grade)
-   - grading scale:
-     + = 55% — 2,0
-     + >= 55% — 3,0
-     + >= 65% — 3,5
-     + >= 75% — 4,0
-     + >= 85% — 4,5
-     + >= 95% — 5,0
-3. Make sure you know how to use MS Teams. MS Teams is available at: https://teams.microsoft.com (instructions: https://support.microsoft.com/en-us/teams).  Access code to our team is:
+*** Grading scale
+#+include: g/skala.org
+
+*** Teams
+Make sure you know how to use MS Teams. MS Teams is available at: https://teams.microsoft.com (instructions: https://support.microsoft.com/en-us/teams).  Access code to our team is:
    + =wckxmk1=
+
+*** Attendance
 4. IMPORTANT:
    * attendance list is available at https://forms.office.com/e/rDKUfQhKgN
    * always remember to fill in the attendance list

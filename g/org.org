@@ -1,0 +1,30 @@
+* Zagadnienia organizacyjne ogólne
+** Ten materiał
+Gdzie znajdę ten materiał: https://github.com/j4kub5/dydaktyka
+
+\rarr *nie musisz* tego przepisywać.
+
+*** Jak korzystać z tego dokumentu?
+- jest to jedynie uzupełnienie zajęć i literatury
+- dokument może być aktualizowany - pamiętaj, aby sprawdzić najnowszą wersję
+
+** Zasady ogólne
+1. Nie rozmawiaj z innymi studentami (możesz przeszkadzać). Jeśli musisz rozmawiać, wyślij wiadomość po cichu.
+2. Nie przeszkadzaj innym w zajęciach.
+3. Ostrożnie doradzaj innym.
+
+** Teams
+Przed pierwszymi zajęciami na mejl wysyłany jest kod do dołączenia do zespołu zajęć. Wymagane jest dołączenie do tego zespołu. Wymaga użycia konta uniwersyteckiego.
+
+Link do teams: https://teams.microsoft.com
+
+** Dyżur
+Informacja jest na https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
+
+Ponadto:
+- proszę o zasygnalizowanie potrzeby spotkania na dyżurze mejlem
+- jest możliwość porozmawiania w przerwie oraz pomiędzy zajęciami
+- formalizujemy ustalenia pismem (mejl)
+
+#+include: ankieta.org :minlevel 3
+#+include: pytania.org :minlevel 3

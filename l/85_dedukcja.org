@@ -1,0 +1,53 @@
+** Dedukcja
+- wnioskowanie jako proces myślowy, przesłanki, przesłanki entymematyczne
+  + przykłady wnioskowań:
+    - Kto zabija zwierzęta ten ma predyspozycje do mordowania ludzi.
+    - Jest piątek, a więc czas na pizzę.
+    - Kto sprzedaje narkotyki jest dealerem.
+    - Kto zażywa narkotyki ten jest dealerem.
+    - Jan prowadzi samochód kompletnie pijany, a więc Jan podlega karze.
+    - Jest sobota, a więc czas na kuchnię hinduską.
+    - Jestem ubogi, a więc idę do pracy.
+    - Jeśli zauważam wzrastające temperatury co roku, to znaczy, że następuje ocieplenie klimatu.
+    - Wschodzi krwawe słońce a więc przelano krew tej nocy.
+- wnioskowania zawodne i wnioskowania niezawodne (/Każdy człowiek jest śmiertelny. Sokrates jest człowiekiem. A więc, Sokrates jest śmiertelny./)
+- prawa logiki
+  + prawo transpozycji: (p \sup q) \sup (\sim q \sup \sim p): Jeżeli (Jeżeli pada deszcz, to ulica jest mokra) to (Jeżeli nieprawda, że ulica jest mokra to nieprawda, że pada deszcz)
+  + prawo kontrapozycji: \prod S,P: SaP \equiv nie-S a nie-P
+- sylogizm: /Ponieważ (1) jeżeli p, to q i (2) jeżeli q, to r (3) to jeżeli p to r./
+  + [ (p \sup q) \cdot (q \sup r)] \sup (p \sup r)
+  + [(p \sup q) \cdot p] \sup q (modus ponendo ponens): Jeżeli [(Jeżeli woda wrze to jest gorąca) i woda wrze] to woda jest gorąca
+  + [(p \sup q) \cdot \sim q] \sup \sim p (modus tollendo tollens): /Jeżeli [(Jeżeli woda wrze to jest gorąca) i nieprawda, że woda jest gorąca] to nieprawda, że woda wrze./
+  + [(p \vee q) \cdot \sim p] \sup q (modus tollendo ponens): /Jeżeli [(Wicked jest psem lub Wicked jest kotem) i nieprawda, że Wicked jest kotem] to Wicked jest psem./
+
+- sylogistyka Arystotelesa
+  + zdania w postaci:
+  + zd. ogólno-twierdzące:     SaP - /każde S jest P/
+  + zd. ogólno-przeczące:      SeP - /żadne S nie jest P/
+  + zd. szczególno-twierdzące: SiP - /istnieją S, które są P/
+  + zd. szczególno-przeczące:  SoP - /istnieją S, które są nie-P/
+  + SaP \equiv \sim (SoP)
+  + SeP \equiv \sim (SiP)
+  + SiP \equiv \sim (SeP)
+  + SoP \equiv \sim (SaP)
+
+#+begin_verse
+
+MaP
+SiM
+------
+SiP
+
+Każdy adwokat jest prawnikiem.
+Niektórzy ludzie są adwokatami.
+------
+Niektórzy ludzie są prawnikami.
+
+Każdy polityk jest gadem.
+Niektórzy profesorowie są politykami.
+------
+Niektórzy profesorowie są gadami.
+
+#+end_verse
+
+FIFO - first in first out, FILO - first in last out, GIGO - garbage in garbage out

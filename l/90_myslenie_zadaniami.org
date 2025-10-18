@@ -1,0 +1,22 @@
+** Myślenie kierowane z góry postawionymi zadaniami
+- myślenie spontaniczne, a myślenie kierowane z góry postanowionymi zadaniami
+- zadania:
+  + zadania rozstrzygnięcia: „czy prawdą jest, że p”?
+  + zadania wyjaśnienia: „dlaczego prawdą jest, że p”?
+- dowodzenie
+  + dowodzenie a wiadomości o świecie
+  + dowodzenie wprost: wiadomo, że jeśli p to q; wiadomo, że p, a więc udowodnione jest, że q
+    + jeżeli w pomieszczeniu są czyjeś odciski palców, to ta osoba była w tym pomieszczeniu
+  + dowodzenie nie wprost: przypuszczam, że \sim{}q; wiem, że jeżeli \sim{}q to r; wiem, że ~r; a więc wiem, że \sim{}\sim{}q czyli q
+  + błędy w dowodzeniu:
+    - błąd materialny, bład formalny, błąd petitio principi
+    - błąd błędnego koła  -
+    - nieznajomość tezy dowodzonej - ignoratio elenchi
+- sprawdzanie
+  + czy p?
+    - wiem, że p \sup q
+    - (a) wiem, że q: a więc?
+    - (b) wiem, że \sim{}q: a więc?
+- wyjaśnianie
+  + dlaczego jest tak a tak?
+  + hipoteza wyjaśniająca (np. hipoteza samorództwa, hipoteza flogistonu)

@@ -16,7 +16,7 @@
 - Udostępniaj prezentacje na kanale Teams przed prezentacją.
 - Postępuj zgodnie z konwencją nazewnictwa:
 
-=YYYY-MM-DD_NazwiskoImięStudenta1_[NazwiskoImięStudenta2]_SkróconyTytuł.[rozszerzenie]=
+=YYYY-MM-DD_NazwiskoImięStudenta1_[…2]_SkróconyTytuł.[pdf|pptx…]=
 
 ** Wytyczne dotyczące projektowania slajdów
 - Używaj spójnego motywu i schematu kolorów.
