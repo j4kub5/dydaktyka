@@ -1,4 +1,9 @@
 * Zagadnienia organizacyjne ogólne
+** Zasady ogólne
+1. Nie rozmawiaj z innymi studentami (możesz przeszkadzać). Jeśli musisz rozmawiać, wyślij wiadomość po cichu.
+2. Nie przeszkadzaj innym w zajęciach.
+3. Ostrożnie doradzaj innym.
+
 ** Ten materiał
 Gdzie znajdę ten materiał: https://github.com/j4kub5/dydaktyka
 
@@ -7,11 +12,6 @@ Gdzie znajdę ten materiał: https://github.com/j4kub5/dydaktyka
 *** Jak korzystać z tego dokumentu?
 - jest to jedynie uzupełnienie zajęć i literatury
 - dokument może być aktualizowany - pamiętaj, aby sprawdzić najnowszą wersję
-
-** Zasady ogólne
-1. Nie rozmawiaj z innymi studentami (możesz przeszkadzać). Jeśli musisz rozmawiać, wyślij wiadomość po cichu.
-2. Nie przeszkadzaj innym w zajęciach.
-3. Ostrożnie doradzaj innym.
 
 ** Dostępność
 - zgłaszanie szczególnych potrzeb

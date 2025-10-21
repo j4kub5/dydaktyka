@@ -21,7 +21,6 @@
 ** Wytyczne dotyczące projektowania slajdów
 - Używaj spójnego motywu i schematu kolorów.
 - Ogranicz tekst na slajdach (maksymalnie 6-7 wierszy na slajd)
-- Dołącz odpowiednie elementy wizualne, aby wesprzeć kluczowe punkty
 
 ** Prezentacja
 - Przećwicz prezentację, aby zapewnić odpowiednie wyczucie czasu

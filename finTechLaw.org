@@ -1,7 +1,32 @@
-#+title: Fintech Law - additional information (2024/2025)
+#+title: Fintech Law - additional information
 #+AUTHOR: J. Szczerbowski
-#+OPTIONS: tex:t p:t toc:nil
+#+OPTIONS: tex:t p:t toc:nil num:nil
 #+LANGUAGE: en
 #+STARTUP: latexpreview
 
-#+include: g/presentations.org
+* Organizational matters
+- The form of this course is a seminar (pol. /konwersatorium/).
+- This material is available at https://github.com/j4kub5/dydaktyka
+- Make sure you know how to use MS Teams. MS Teams is available at: https://teams.microsoft.com
+
+#+include: g/questions.org
+
+** Course credit conditions:
+- activity (weight 50%) - based on questions saved in the form
+- presentation (weight 50%) - quality assesment
+- attendance is mandatory; two absences are allowed (each absence exceeding two absences lowers the grade to the next lower grade)
+
+*** Grading scale
+#+include: g/skala.org
+
+** Attendance
+   * Attendance form is available at https://forms.office.com/e/rDKUfQhKgN
+   * *IMPORTANT*: always remember to fill in the attendance form
+
+** Office hours
+https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
+
+#+include: ./g/survey.org :minlevel 2
+
+** Presentations (35-40 min.)
+#+include: ./g/presentations.org

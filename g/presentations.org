@@ -16,7 +16,7 @@
 - Share presentations on the Teams channel before you present
 - Follow the naming convention:
 
-=YYYY-MM-DD_StudentName1_[StudentName2]_ShortTitle.[extension]=
+=YYYY-MM-DD_StudentName1_ShortTitle.[pdf|pptx|…]=
 
 ** Slide Design Guidelines
 - Use a consistent theme and color scheme

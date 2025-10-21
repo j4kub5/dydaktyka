@@ -2,11 +2,10 @@
 *Rozdział w podręczniku:* 1
 
 *** Żart dla początkujących logików
-Dlaczego to jest śmieszne: /Trzech logików wchodzi do baru. Barman pyta: „Czy wszyscy chcecie piwo?” Odpowiadają po kolei: 1: Nie wiem, 2: Nie wiem, 3. Tak./
+Dlaczego to jest śmieszne: /“Trzech logików wchodzi do baru. Barman pyta: „Czy wszyscy chcecie piwo?” Odpowiadają po kolei: 1: Nie wiem, 2: Nie wiem, 3. Tak”?/
 
 *** Czym jest logika?
 *Logika* – nauka o sposobach jasnego i ścisłego formułowania myśli, o regułach poprawnego rozumowania i uzasadniania twierdzeń.
-
 
 ** Znak i kategorie syntaktyczne
 Semiotyka (ogólna nauka o znakach): (1) semantyka — nauka o stosunku pomiędzy
