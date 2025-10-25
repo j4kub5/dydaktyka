@@ -1,8 +1,7 @@
-#+title: Fintech Law - additional information
+#+title: FinTech Law - additional course information
 #+AUTHOR: J. Szczerbowski
 #+OPTIONS: tex:t p:t toc:nil num:nil
 #+LANGUAGE: en
-#+STARTUP: latexpreview
 
 * Organizational matters
 - The form of this course is a seminar (pol. /konwersatorium/).
@@ -14,6 +13,7 @@
 ** Course credit conditions:
 - activity (weight 50%) - based on questions saved in the form
 - presentation (weight 50%) - quality assesment
+- exam [test] (if the above conditions are not met or a student is interested in a higher grade)
 - attendance is mandatory; two absences are allowed (each absence exceeding two absences lowers the grade to the next lower grade)
 
 *** Grading scale

@@ -39,6 +39,7 @@
 +---------------------------+
 @endditaa
 #+end_src
+
 *** Przeciwieństwo
 #+begin_src plantuml :file img/przeciwienstwo.png
 @startditaa -E -S

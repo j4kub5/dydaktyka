@@ -1,8 +1,9 @@
 ** Nazwy
 *Rozdział w podręczniku:* 2
 
-1. Nazwa jako podmiot w zdaniu.
-2. Nazwy proste i nazwy złożone.
+- Nazwa jako podmiot w zdaniu.
+- Nazwy proste i nazwy złożone.
+
 *** Nazwy konkretne i nazwy abstrakcyjne
 - konkretne :: znaki rzeczy lub osób, albo czegoś co można sobie jako byt fizyczny wyobrazić
   - sędzia, człowiek, łobuz, biały stół; feniks
@@ -27,10 +28,9 @@ Mogą pojawiać się wątpliwości, czy mamy do czynienia z nazwą konkretną c
 
 **** Treść nazwy generalnej
 ***** Cechy
-
 Cechy samochodu:
 
-+ konstytutywne (wystarczają aby odróżnić przedmioty bedące desygnatami nazwy od innych przedmiotów):
++ konstytutywne (wystarczają aby odróżnić przedmioty będące desygnatami nazwy od innych przedmiotów):
   - pojazd lądowy,
   - posiadający koła,
   - używany do przewozu ludzi i towarów,
@@ -40,7 +40,6 @@ Cechy samochodu:
   - posiada metalowe elementy.
 
 ***** Supozycje
-
 Nazwa generalna może być używana w różnych rolach znaczeniowych nazywanych supozycjami:
 
 - supozycja prosta: /zając schował się w krzakach/
@@ -48,7 +47,6 @@ Nazwa generalna może być używana w różnych rolach znaczeniowych nazywanych
 - supozycja materialna: /zając składa się z dwóch sylab/
 
 *** Zakres nazwy
-
 - Zakres nazwy to klasa wszystkich desygnatów danej nazwy.
 - Ze względu na to ile desygnatów ma nazwa możemy je podzielić na:
   + nazwy ogólne - mają więcej niż jeden desygnat
@@ -59,14 +57,12 @@ Nazwa generalna może być używana w różnych rolach znaczeniowych nazywanych
     - szafa w mojej kieszeni
 
 *** Nazwy zbiorowe
-
 - Nazwy zbiorowe to nazwy agregatów przedmiotów. Nie przysługują poszczególnym
   przedmiotom wchodzącym w skład tego agregatu.
 - Biblioteka jest nazwą zbiorową — oznacza zbiór książek. Czy przedmiot jakim
   jest książka jest desygnatem nazwy /biblioteka/?
 
 *** Ostrość nazw
-
 - Nazwa nieostra — są takie przemioty, o których nie wiadomo czy są desygnatami danej nazwy
   - /leń/ : leń 1, leń 2 … tacy, o których nie wiadomo czy są leniami… nie-leń
   - wysoki mężczyzna
@@ -77,4 +73,5 @@ Nazwy ostre:
 
 ** Zadania
 *** Czy „zamek” (jako budynek) i „zamek” jako urządzenie montowane w drzwiach, to ta sama nazwa?
-#** Zagadka
+
+# ** Zagadka
