@@ -63,7 +63,7 @@ Nazwa generalna może być używana w różnych rolach znaczeniowych nazywanych
   jest książka jest desygnatem nazwy /biblioteka/?
 
 *** Ostrość nazw
-- Nazwa nieostra — są takie przemioty, o których nie wiadomo czy są desygnatami danej nazwy
+- Nazwa nieostra — są takie przedmioty, o których nie wiadomo czy są desygnatami danej nazwy
   - /leń/ : leń 1, leń 2 … tacy, o których nie wiadomo czy są leniami… nie-leń
   - wysoki mężczyzna
 

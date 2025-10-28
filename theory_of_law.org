@@ -12,6 +12,9 @@ SCHEDULED: <2025-10-07 Tue>
    - final test (weight 50%)
    - presentation (weight 50%)
    - attendance is mandatory; two absences are allowed (each absence exceeding two absences lowers the grade to the next lower grade)
+
+#+include: g/questions.org
+
 *** Grading scale
 #+include: g/skala.org
 
