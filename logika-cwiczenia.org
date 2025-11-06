@@ -1,7 +1,7 @@
 #+title: Logika
 #+subtitle: Notatka pomocnicza do ćwiczeń
 #+AUTHOR: Jakub J. Szczerbowski
-#+OPTIONS: tex:t p:t
+#+OPTIONS: tex:t p:t toc:nil
 #+LANGUAGE: pl
 #+STARTUP: latexpreview
 

@@ -5,28 +5,25 @@ Podział logiczny zakresu jakiejś nazwy /N/ na zakresy /A, B, C, D, E/.
 
 Całość dzielona (/totium divisionis/) i człony podziału (/membra divisionis/).
 
-Polskie miasta:
-- duże, małe i średnie; (komentarz: powinniśmy mieć kryteria zaliczenia miasta jako dużego, średniego lub małego; kryteria muszą być dobrze dobrane)
-- stare i nowe; (podobnie jak powyżej)
-- dwuwyrazowe i jednowyrazowe; (a co z Nowym Dworem Mazowieckim?)
-- w górach, nad morzem, na równinach i na wyżynach; (a co z innymi terenami?)
-- zaczynające się na literę /a/ i zaczynające się na literę inną niż /a/ (taki podział jest poprawny; inna sprawa, że niezbyt przydatny) 
-
-*** Poprawność podziału
-Podział wyczerpujący i rozłączny - jakie ma cechy?
-
-Żaden desygnat nie może być zaliczony do dwóch członów podziału jednocześnie.
-
-Każdy desygnat może być zaliczony jakiegoś z członów podziału.
+*** Cechy poprawnego podziału logicznego
+- Wyczerpujący :: każdy desygnat może być zaliczony jakiegoś z członów podziału.
+- Rozłączny :: żaden desygnat nie może być zaliczony do dwóch członów podziału jednocześnie.
 
 Podział dychotomiczny - podział według cech kontradyktorycznych:
 - podmiot: podmiot będący podatnikiem VAT - podmiot niebędący podatnikiem VAT
 - pies: pies mający cztery łapy - pies nie mający dokładnie czterech łap
 
-Niepoprawne podziały:
+*** Niepoprawne podziały
 - oparte na niejednoznacznych kryteriach
 - według przedziałów liczbowych, których granice się powtarzają: polskie rodziny: rodziny od 2 do 3 osób, rodziny od 3 do 5 osób, rodziny od 5 do 7 osób, rodziny 7 osobowe i większe.
-  
+
+*** Przykład podziału nazwy =polskie miasta=:
+- duże, małe i średnie; (komentarz: powinniśmy mieć kryteria zaliczenia miasta jako dużego, średniego lub małego; kryteria muszą być dobrze dobrane)
+- stare i nowe; (podobnie jak powyżej)
+- dwuwyrazowe i jednowyrazowe; (a co z Nowym Dworem Mazowieckim?)
+- w górach, nad morzem, na równinach i na wyżynach; (a co z innymi terenami?)
+- zaczynające się na literę /a/ i zaczynające się na literę inną niż /a/ (taki podział jest poprawny; inna sprawa, że niezbyt przydatny)
+
 *** Klasyfikacja
 #+begin_src plantuml :file img/klasyfikacja.png
 

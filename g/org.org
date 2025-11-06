@@ -30,7 +30,7 @@ Informacja jest na https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
 Ponadto:
 - proszę o zasygnalizowanie potrzeby spotkania na dyżurze mejlem
 - jest możliwość porozmawiania w przerwie oraz pomiędzy zajęciami
-- formalizujemy ustalenia pismem mejlem (może wystarczy mejl?)
+- formalizujemy ustalenia mejlem (może wystarczy mejl?)
 
 ** Przerwy
 5-10 minut przerwy co około 45 minut.
