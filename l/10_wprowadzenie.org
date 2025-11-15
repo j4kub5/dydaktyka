@@ -105,21 +105,21 @@ a) Nieprawda, że \(\frac{z}{z}\)
 b) świeci \(\frac{z}{n}\)
 c) słońce. /n/ 
 
-*** Role semiotyczne wypowiedzi
-**** Rola opisowa
+** Role semiotyczne wypowiedzi
+*** Rola opisowa
 Wypowiedź opisuje rzeczywistość.
 
 a. Świeci słońce.
 b. W lipcu w Polsce jest zima.
 
-**** Rola ekspresywna
+*** Rola ekspresywna
 Komunikuje przeżycia, przemyślenia, stan wewnętrzny.
 
 a. Moja poranna kawa była ekstatycznie smaczna!
 b. Ach, świeci słońce!
 c. Ten obraz jest przepiękny.
 
-**** Rola sugestywna
+*** Rola sugestywna
 Ma wywołać w odbiorcy komunikatu jakieś zachowanie.
 
 a. Janku, o godz. 9 masz być w łóżku!
@@ -127,13 +127,13 @@ b. Nie jestem pewien, że podoba mi się ta twoja nowa koszulka.
 d. Kto przekracza dozwoloną prędkość podlega karze…
 e. Palenie zabija!
 
-**** Rola performatywna
+*** Rola performatywna
 Wypowiedź wywołuje skutki konwencjonalne.
 
 a. Złożenie przysięgi lub ślubowania.
 b. Nakładam na Pana mandat karny w wysokości 500 zł.
 
-***** Zadanie
+**** Zadanie
 Jan wypowiedział słowa przysięgi małżeńskiej wobec Małgosi, ale nie doszło do
 zawarcia małżeństwa; Małgosia również wypowiedziała odpowiednie słowa, nadal nie
 doszło do zawarcia małżeństwa. Dlaczego?

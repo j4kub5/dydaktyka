@@ -1,11 +1,13 @@
 #+title: Logika
+#+subtitle:Notatka pomocnicza do wykładu
 #+AUTHOR: Jakub J. Szczerbowski
+:EXPORT_OPTIONS:
 #+OPTIONS: tex:t p:t
 #+LANGUAGE: pl
 #+STARTUP: latexpreview
-
-:REVEALJS_OPTIONS:
-#+subtitle:Notatka pomocnicza do wykładu
+#+OPTIONS: H:6
+#+LATEX_HEADER: \setcounter{secnumdepth}{6}
+#+LATEX_HEADER: \setcounter{tocdepth}{6}
 #+REVEAL_ACADEMIC_TITLE: dr hab.
 #+OPTIONS: num:t toc:t date:nil timestamp:nil tags:nil
 #+REVEAL_TITLE_SLIDE: <h2>%t</h2><h3>%s</h3><p>dr hab. <b>%a</b>, prof. UŁ</p>

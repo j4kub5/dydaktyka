@@ -9,25 +9,39 @@ Definicja nominalna: wypowiedź w języku drugiego stopnia, które informuje o�
 1. Odcinek to jest fragment prostej, który ma początek i koniec.
 2. Bursztyn to jest skamieniała żywica.
 3. Wiatr to poziomy ruch powietrza z wyżu do niżu.
-4. Oszustwo to jest wprowadzenie innej osoby w błąd albo wyzyskanie błędu lub
-   niezdolności do należytego pojmowania przedsiębranego działania w celu
-   osiągnięcia korzyści majątkowej.
+4. Oszustwo to jest wprowadzenie innej osoby w błąd albo wyzyskanie błędu lub niezdolności do należytego pojmowania przedsiębranego działania w celu osiągnięcia korzyści majątkowej.
 
 *** Zadania definicji
-- Definicja sprawozdawcza: składa sprawozdanie z tego, jak pewna grupa ludzi posługuje się wyrazem lub wyrażeniem: /W języku polskim drugiej połowy XX-wieku wyraz księgarnia oznacza sklep, w którym sprzedaje się książki.  W języku myśliwych wyraz farba oznacza krew zwierzęcia. W języku polskim wyraz czapka oznacza część garderoby noszoną na stopie./
-- Definicja projektująca: ustala znaczenie jakiegoś wyrazu na przyszłość. Np.: /Dokumentem jest nośnik informacji umożliwiający zapoznanie się z jej treścią./ (art. 77^3 k.c.).
-  - Definicja projektująca może być konstrukcyjna (/Ilekroć w ustawie jest mowa o *przeciętnym konsumencie* - rozumie się przez to konsumenta, który jest dostatecznie dobrze poinformowany, uważny i ostrożny/) albo
-  - regulująca (/Stan nietrzeźwości w rozumieniu tego kodeksu zachodzi, gdy: 1) zawartość alkoholu we krwi przekracza 0,5 promila albo prowadzi do stężenia przekraczającego tę wartość lub 2) zawartość alkoholu w 1 dm^3 wydychanego powietrza przekracza 0,25 mg albo prowadzi do stężenia przekraczającego tę wartość./).
+#+BEGIN_SRC plantuml :file img/zadania-definicji.png
+@startwbs
++ Zadania
+++ Definicja projektująca
+--- Definicja konstrukcyjna
++++ Definicje regulująca
+-- Definicja sprawozdawcza
+@endwbs
+#+END_SRC
+
+
+- Definicja sprawozdawcza :: składa sprawozdanie z tego, jak pewna grupa ludzi posługuje się wyrazem lub wyrażeniem:
+  - W języku myśliwych wyraz farba oznacza krew zwierzęcia.
+  - W języku polskim wyraz czapka oznacza część garderoby noszoną na stopie.
+- Definicja projektująca :: ustala znaczenie jakiegoś wyrazu na przyszłość.
+  * Definicja konstrukcyjna :: ustala znaczenie na przyszłość nie licząc się z obecnym znaczeniem (tworzy nowe znaczenie, albo nowe słowo lub wyrażenie):
+    - Ilekroć w ustawie jest mowa o *przeciętnym konsumencie* - rozumie się przez to konsumenta, który jest dostatecznie dobrze poinformowany, uważny i ostrożny.
+    - Dokumentem jest nośnik informacji umożliwiający zapoznanie się z jej treścią. (art. 77^3 k.c.)
+  * Definicja regulująca :: ustala znaczenie na przyszłość licząc się z obecnym znaczeniem (nazwa nieostra → nazwa ostra).
+    - Stan nietrzeźwości w rozumieniu tego kodeksu zachodzi, gdy: 1) zawartość alkoholu we krwi przekracza 0,5 promila albo prowadzi do stężenia przekraczającego tę wartość lub 2) zawartość alkoholu w 1 dm^3 wydychanego powietrza przekracza 0,25 mg albo prowadzi do stężenia przekraczającego tę wartość.
+    - Wysoki mężczyzna, to taki, który ma co najmniej 175 cm wzrostu.
 
 *** Budowa definicji
-Definiendum + zwrot łączący + definiens
-Bursztyn + to + kopalna żywica drzew iglastych.
-
 - Definicja równościowa: /definiendum + zwrot łączący + definiens/: Bursztyn to kopalna żywica drzew iglastych.
   + Definitio per genus et differentiam specificam (definicja klasyczna):
     + A to takie B, które ma cechę C.
     + Kwadrat to jest taki prostokąt, który ma wszystkie boki równe.
-- Definicje nierównościowe. Np. występujące w geometrii (definicja przez postulaty).
+- Definicje nierównościowe. Np. występujące w matematyce:
+  + definicja przez postulaty :: jej istotą jest umieszczenie definiowanego terminu we wzorcowym zdaniu albo zdaniach, co pozwala na zrozumienie znaczenia przypisywanego temu terminowi: /przez dwa różne punkty przechodzi dokładnie jedna prosta/
+  + definicja indukcyjna :: definicja o budowie zawierającej warunek wyjściowy i warunek indukcyjny: /0 jest liczbą naturalną. Jeżeli n jest liczbą naturalną, to n +1 także jest liczbą naturalną. Nic innego nie jest liczbą naturalną./
 
 #+BEGIN_SRC plantuml :file img/definicje.png
 
@@ -41,7 +55,7 @@ Bursztyn + to + kopalna żywica drzew iglastych.
 
 #+END_SRC
 
-Definicje w prawie (przykłady do omówienia): art. 10 § 1 k.c., art. 627 k.c.
+**** Definicje w prawie (przykłady do omówienia): art. 10 § 1 k.c., art. 627 k.c.
 
 - Art.  10. §  1. Pełnoletnim jest, kto ukończył lat osiemnaście.
 - Art. 627. Przez umowę o dzieło przyjmujący zamówienie zobowiązuje się do wykonania oznaczonego dzieła, a zamawiający do zapłaty wynagrodzenia.
