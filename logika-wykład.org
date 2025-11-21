@@ -33,15 +33,15 @@ SCHEDULED: <2025-11-09 Sun>
 SCHEDULED: <2025-11-16 Sun>
 #+INCLUDE: l/23_podzial.org
 #+INCLUDE: l/30_zdanie.org
-#+INCLUDE: l/31_funktoryp.org
 
 * Wykład 5
 SCHEDULED: <2025-11-23 Sun>
+#+INCLUDE: l/31_funktoryp.org
 #+INCLUDE: l/40_relacje.org
-#+INCLUDE: l/50_oceny.org
 
 * Wykład 6
 SCHEDULED: <2025-12-07 Sun>
+#+INCLUDE: l/50_oceny.org
 #+INCLUDE: l/51_modalne.org
 
 * Wykład 7

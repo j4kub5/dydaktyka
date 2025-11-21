@@ -11,7 +11,7 @@ Całość dzielona (/totium divisionis/) i człony podziału (/membra divisioni
 
 Podział dychotomiczny - podział według cech kontradyktorycznych:
 - podmiot: podmiot będący podatnikiem VAT - podmiot niebędący podatnikiem VAT
-- pies: pies mający cztery łapy - pies nie mający dokładnie czterech łap
+- pies: pies mający dokładnie cztery łapy - pies mający liczbę łap inną niż cztery
 
 *** Niepoprawne podziały
 - oparte na niejednoznacznych kryteriach
