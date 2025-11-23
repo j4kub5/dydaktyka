@@ -88,7 +88,7 @@ Ani nie pada deszcz ani nie pochodzę z Marsa.
 
 **** Dysjunkcja
 
-Nieprawda, że Warszawa jest stolicą polski i
+Nieprawda, że Poznań jest stolicą polski i księżyc jest satelitą Ziemi.
 
 | p | p/q | q |
 |---+-----+---|
@@ -98,8 +98,8 @@ Nieprawda, że Warszawa jest stolicą polski i
 | 1 |   0 | 1 |
 
 *** Klasyczny rachunek zdań
-- ekstensjonalność :: wartość logiczna zdania złożonego za pomocą funktorów KRZ zależy wyłącznie od wartości logicznej zdań składowych
-- dwuwartościowość :: występują dwie wartości logiczne, prawda (1) i fałsz (0)
+- ekstensjonalność — wartość logiczna zdania złożonego za pomocą funktorów KRZ zależy wyłącznie od wartości logicznej zdań składowych
+- dwuwartościowość — występują dwie wartości logiczne, prawda (1) i fałsz (0)
 
 *** Podstawowe zasady myślenia
 
