@@ -22,23 +22,23 @@ Nieprawda, że na trawniku leży śnieg.
 
 Na trawniku leży śnieg lub jest lato.
 
-| p | p \vee q | q |
-|---+-------+---|
-| 1 |     1 | 0 |
-| 0 |     1 | 1 |
-| 1 |     1 | 1 |
-| 0 |     0 | 0 |
+| p | q | p \vee q |
+|---+---+-------|
+| 1 | 0 |     1 |
+| 0 | 1 |     1 |
+| 1 | 1 |     1 |
+| 0 | 0 |     0 |
 
 **** Koniunkcja
 
 Pada deszcz i ulica jest mokra.
 
-| p | p \cdot q | q |
-|---+-------+---|
-| 1 |     1 | 1 |
-| 0 |     0 | 0 |
-| 1 |     0 | 0 |
-| 0 |     0 | 1 |
+| p | q | p \cdot q |
+|---+---+-------|
+| 1 | 1 |     1 |
+| 0 | 0 |     0 |
+| 1 | 0 |     0 |
+| 0 | 1 |     0 |
 
 **** Alternatywa rozłączna
 
@@ -46,56 +46,56 @@ Pada deszcz i ulica jest mokra.
 2. Przestępstwo jest zbrodnią *albo* występkiem. (art. 7 § 1 k.k.)
 3. Czyn zabroniony popełniony jest nieumyślnie, jeżeli sprawca nie mając zamiaru jego popełnienia, popełnia go jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość popełnienia tego czynu *przewidywał albo mógł przewidzieć*. (art. 9 § 2 k.k.) -- zastanów się, czy w tym przykładzie słowo albo jest alternatywą rozłączną.
 
-| p | p \perp q | q |
-|---+-------+---|
-| 0 |     0 | 0 |
-| 0 |     1 | 1 |
-| 1 |     1 | 0 |
-| 1 |     0 | 1 |
+| p | q | p \perp q |
+|---+---+-------|
+| 0 | 0 |     0 |
+| 0 | 1 |     1 |
+| 1 | 0 |     1 |
+| 1 | 1 |     0 |
 
 **** Implikacja
 - Jeżeli pada deszcz to ulica jest mokra.
 - Jeżeli (Zakopane jest stolicą Polski) to (Arystoteles był pierwszym człowiekiem na księżycu).
 
-| p | p \sup q | q |
-|---+-------+---|
-| 1 |     1 | 1 |
-| 0 |     1 | 0 |
-| 1 |     0 | 0 |
-| 0 |     1 | 1 |
+| p | q | p \sup q |
+|---+---+-------|
+| 1 | 1 |     1 |
+| 0 | 0 |     1 |
+| 1 | 0 |     0 |
+| 0 | 1 |     1 |
 
 **** Równoważność
 
 Wtedy i tylko wtedy gdy pada deszcz to ulica jest mokra.
 
-| p | p\equiv{}q | q |
-|---+-----+---|
-| 1 |   1 | 1 |
-| 0 |   1 | 0 |
-| 1 |   0 | 0 |
-| 0 |   0 | 1 |
+| p | q | p\equiv{}q |
+|---+---+-----|
+| 1 | 1 |   1 |
+| 0 | 0 |   1 |
+| 1 | 0 |   0 |
+| 0 | 1 |   0 |
 
 **** Binegacja
 
 Ani nie pada deszcz ani nie pochodzę z Marsa.
 
-| p | p\downarrow{}q | q |
-|---+-----+---|
-| 0 |   1 | 0 |
-| 1 |   0 | 0 |
-| 0 |   0 | 1 |
-| 1 |   0 | 1 |
+| p | q | p\downarrow{}q |
+|---+---+-----|
+| 0 | 0 |   1 |
+| 1 | 0 |   0 |
+| 0 | 1 |   0 |
+| 1 | 1 |   0 |
 
 **** Dysjunkcja
 
 Nieprawda, że Poznań jest stolicą polski i księżyc jest satelitą Ziemi.
 
-| p | p/q | q |
-|---+-----+---|
-| 0 |   1 | 0 |
-| 1 |   0 | 0 |
-| 0 |   0 | 1 |
-| 1 |   0 | 1 |
+| p | q | p/q |
+|---+---+-----|
+| 0 | 0 |   1 |
+| 1 | 0 |   1 |
+| 0 | 1 |   1 |
+| 1 | 1 |   0 |
 
 *** Klasyczny rachunek zdań
 - ekstensjonalność — wartość logiczna zdania złożonego za pomocą funktorów KRZ zależy wyłącznie od wartości logicznej zdań składowych
@@ -104,7 +104,7 @@ Nieprawda, że Poznań jest stolicą polski i księżyc jest satelitą Ziemi.
 *** Podstawowe zasady myślenia
 
 - /T1: \sim (p \cdot \sim{}p)/ : zasada sprzeczności
-- /T2: p \vee \sim(p)/ : zasada wyłączonego środka
+- /T2: p \vee \sim{}p/ : zasada wyłączonego środka
 - /T3: p \equiv \sim ( \sim p )/ : zasada podwójnego zaprzeczenia
 
 Co to jest tautologia, kontrtautologia?
