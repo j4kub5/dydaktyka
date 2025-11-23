@@ -8,6 +8,9 @@
 #+OPTIONS: H:6
 #+LATEX_HEADER: \setcounter{secnumdepth}{6}
 #+LATEX_HEADER: \setcounter{tocdepth}{6}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \titleformat{\paragraph}[hang]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+#+LATEX_HEADER: \titleformat{\subparagraph}[hang]{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
 #+REVEAL_ACADEMIC_TITLE: dr hab.
 #+OPTIONS: num:t toc:t date:nil timestamp:nil tags:nil
 #+REVEAL_TITLE_SLIDE: <h2>%t</h2><h3>%s</h3><p>dr hab. <b>%a</b>, prof. UŁ</p>

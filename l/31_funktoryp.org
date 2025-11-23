@@ -1,24 +1,24 @@
 ** Funktory prawdziwościowe
 *** Wartości logiczne funktorów prawdziwościowych
 
-| p | q | \sim{}p | p \vee q | p \cdot q | p \sup q | p \perp q | p \equiv q | p \downarrow q |
-|---+---+---+-------+------+-------+-------+-------+-------|
-| 0 | 0 | 1 |     0 |    0 |     1 |     0 |     1 |     1 |
-| 0 | 1 | 1 |     1 |    0 |     1 |     1 |     0 |     0 |
-| 1 | 0 | 0 |     1 |    0 |     0 |     1 |     0 |     0 |
-| 1 | 1 | 0 |     1 |    1 |     1 |     0 |     1 |     0 |
+| p | q | \sim{}p | p\vee{}q | p\cdot{}q | p\sup{}q | p\perp{}q | p\equiv{}q | p\downarrow{}q | p/q |
+|---+---+----+-----+-----+-----+------+-----+-----+-----|
+| 0 | 0 |  1 |   0 |   0 |   1 |    0 |   1 |   1 |   1 |
+| 0 | 1 |  1 |   1 |   0 |   1 |    1 |   0 |   0 |   1 |
+| 1 | 0 |  0 |   1 |   0 |   0 |    1 |   0 |   0 |   1 |
+| 1 | 1 |  0 |   1 |   1 |   1 |    0 |   1 |   0 |   0 |
 
-**** Przykłady
-***** Negacja
+*** Funktory prawdziwościowe w przykładach
+**** Negacja
 
 Nieprawda, że na trawniku leży śnieg.
 
-| \sim{}p | p |
-|---+---|
-| 1 | 0 |
-| 0 | 1 |
+| p | \sim{}p |
+|---+----|
+| 0 |  1 |
+| 1 |  0 |
 
-***** Alternatywa nierozłączna
+**** Alternatywa nierozłączna
 
 Na trawniku leży śnieg lub jest lato.
 
@@ -29,7 +29,7 @@ Na trawniku leży śnieg lub jest lato.
 | 1 |     1 | 1 |
 | 0 |     0 | 0 |
 
-***** Koniunkcja
+**** Koniunkcja
 
 Pada deszcz i ulica jest mokra.
 
@@ -40,7 +40,7 @@ Pada deszcz i ulica jest mokra.
 | 1 |     0 | 0 |
 | 0 |     0 | 1 |
 
-***** Alternatywa rozłączna
+**** Alternatywa rozłączna
 
 1. Pójdziemy na lody albo pójdziemy do kina.
 2. Przestępstwo jest zbrodnią *albo* występkiem. (art. 7 § 1 k.k.)
@@ -53,7 +53,7 @@ Pada deszcz i ulica jest mokra.
 | 1 |     1 | 0 |
 | 1 |     0 | 1 |
 
-***** Implikacja
+**** Implikacja
 - Jeżeli pada deszcz to ulica jest mokra.
 - Jeżeli (Zakopane jest stolicą Polski) to (Arystoteles był pierwszym człowiekiem na księżycu).
 
@@ -64,7 +64,7 @@ Pada deszcz i ulica jest mokra.
 | 1 |     0 | 0 |
 | 0 |     1 | 1 |
 
-***** Równoważność
+**** Równoważność
 
 Wtedy i tylko wtedy gdy pada deszcz to ulica jest mokra.
 
@@ -75,7 +75,7 @@ Wtedy i tylko wtedy gdy pada deszcz to ulica jest mokra.
 | 1 |   0 | 0 |
 | 0 |   0 | 1 |
 
-***** Binegacja
+**** Binegacja
 
 Ani nie pada deszcz ani nie pochodzę z Marsa.
 
@@ -85,6 +85,21 @@ Ani nie pada deszcz ani nie pochodzę z Marsa.
 | 1 |   0 | 0 |
 | 0 |   0 | 1 |
 | 1 |   0 | 1 |
+
+**** Dysjunkcja
+
+Nieprawda, że Warszawa jest stolicą polski i
+
+| p | p/q | q |
+|---+-----+---|
+| 0 |   1 | 0 |
+| 1 |   0 | 0 |
+| 0 |   0 | 1 |
+| 1 |   0 | 1 |
+
+*** Klasyczny rachunek zdań
+- ekstensjonalność :: wartość logiczna zdania złożonego za pomocą funktorów KRZ zależy wyłącznie od wartości logicznej zdań składowych
+- dwuwartościowość :: występują dwie wartości logiczne, prawda (1) i fałsz (0)
 
 *** Podstawowe zasady myślenia
 
@@ -100,9 +115,6 @@ p \sup q \equiv (\sim p) \vee q
 *** Definicja implikacji przy pomocy koniunkcji i negacji
 p \sup q \equiv \sim ( p \cdot \sim q )
 
-*** Turing Complete
-Wspólnie gramy w grę.
-
 *** Zadanie
 
 Czy te zdania są prawdziwe?
@@ -111,20 +123,13 @@ Czy te zdania są prawdziwe?
  - Jeżeli Ateny są stolicą Polski to Robert Lewandowski jest piłkarzem.
  - Jeżeli Ateny są stolicą Polski to mam w kieszeni chusteczkę.
  - Jeżeli Warszawa jest stolicą Polski to Księżyc jest zrobiony z sera.
- - Jeżeli Warszawa jest stolicą Polski to Albert Einstein opracował teorię
-   względności.
- - Nieprawda że (Warszawa jest stolicą Polski i nieprawda Einstein opracował
-   teorię względności).
- - (Nieprawda że, Warszawa jest stolicą Polski) lub Einstein opracował teorię
-   względności.
+ - Jeżeli Warszawa jest stolicą Polski to Albert Einstein opracował teorię względności.
+ - Nieprawda że (Warszawa jest stolicą Polski i nieprawda Einstein opracował teorię względności).
+ - (Nieprawda że, Warszawa jest stolicą Polski) lub Einstein opracował teorię względności.
  - Ani Ateny są stolicą Polski ani UŁ ma siedzibę w Berlinie.
 
 *** Bezprawne samouwolnienie
-Art. 242. § 1. Kto uwalnia się sam, będąc pozbawionym wolności na
-podstawie orzeczenia sądu lub prawnego nakazu wydanego przez inny
-organ państwowy, podlega grzywnie, karze ograniczenia wolności albo
-pozbawienia wolności do lat 2. […]  § 4. Jeżeli sprawca czynu
-określonego w § 1
+Art. 242. § 1. Kto uwalnia się sam, będąc pozbawionym wolności na podstawie orzeczenia sądu lub prawnego nakazu wydanego przez inny organ państwowy, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. […] § 4. Jeżeli sprawca czynu określonego w § 1
 
 - działa w porozumieniu z innymi osobami,
 - używa przemocy lub
@@ -132,3 +137,7 @@ określonego w § 1
 - *albo* uszkadza miejsce zamknięcia,
 
   podlega karze pozbawienia wolności do lat 3.
+
+*** Gry oparte na KRZ
+- Turing Complete
+- https://nandgame.com/

@@ -1,32 +1,26 @@
 ** Relacje (stosunki) pomiędzy przedmiotami
 *** Wstęp
-
-/xRy/
-
-x R_1 y - Adam jest wyższy od Piotra
-
-y R_2 x - Piotr jest niższy od Adama
-
-x = y, y = z
-
-kiwi kiwi kiwi
-
-x R y
++ zapis /xRy/; x to poprzednik, y to następnik (kolejność ma znaczenie)
++ x R_1 y - Adam jest wyższy od Piotra
++ y R_2 x - Piotr jest niższy od Adama
++ x = y, y = z
 
 *** Relacje symetryczne, asymetryczne i nonsymetryczne
+- symetryczna: xRy \rarr yRx
+- asymetryczna:xRy \rarr \sim{}yRx
+- nonsymetryczna: xRy \rarr (yRx \perp \sim{}yRx)
 
-Jan jest małżonkiem Zofii.
+**** Przykłady
+- symetryczna: Jan jest małżonkiem Zofii.
+- asymetryczna: Jan jest starszy od Zofii. x jest mniejszy od y, x jest większy od y, x jest brzydszy od y, x jest grubszy od y.
+- nonsymetryczna: Jan kocha Zofię. x jest bratem y, x patrzy na y, x mówi do y.
 
-Jan jest starszy od Zofii. x jest mniejszy od y, x jest większy od y, x jest brzydszy od y, x jest grubszy od y.
+*** Stosunek tranzytywny (przechodni), atranzytywny, nontranzytywny
+- Stosunek tranzytywny: (xRy \cdot yRz) \rarr xRz
+- Stosunek atranzytywny: (xRy \cdot yRz) \rarr \sim xRz
+- Stosunek nontranzytywny: (xRy \cdot yRz) \rarr (xRz \perp \sim xRz)
 
-Jan kocha Zofię. x jest bratem y, x patrzy na y, x mówi do y.
-
-*** Stosunek przechodni (tranzytywny), atranzytywny, nontranzytywny
-
-- Stosunek tranzytywny: jeśli xRy i yRz to xRz.
-- Stosunek atranzytywny: jeśli xRy i yRz to \sim xRz.
-- Stosunek nontranzytywny: jeśli xRy i yRz to xRz \perp (\sim xRz).
-
+**** Przykłady
 - zawiera - jest tranzytywny
 - jest częścią - relacja tranzytywna
 - jest matką - relacja atranzytywna: x jest matką y, y jest matką z \sup x nie jest matką z
@@ -38,21 +32,27 @@ Jan kocha Zofię. x jest bratem y, x patrzy na y, x mówi do y.
 
 *** Stosunek spójny, porządkujący, równościowy i zwrotne
 
-Przykładowy zapis:
-
-  - { 4, 1, 2, 3 }; R: <
+Przykładowy zapis: { 4, 1, 2, 3 }; R: <
 
   - *Stosunek spójny* zachodzi w jednym lub drugim kierunku w danej klasie przedmiotów między każdym i innym dowolnie wybranym przedmiotem.
-    - {1, 1, 1, 1}, R: =
-    - {1, 2, 3, 1}, R: =<
-    - {1, 2, 3, 4}, R: <
-  - *Stosunek porządkujący* pozwala ustawić przedmioty w szeregu: asymetryczny, przechodni i spójny.
-    - { 4, 1, 2, 3 }, R: <
-    - { Adam lat 10, Weronika lat 12, Bronisław lat 64, Kunegunda lat 102 }, R: jest starszy(a)
+    + {x, y , z}, R: = , dla x=1, y=1, z=1
+    + {1, 2, 3, 1}, R: =<
+    + {1, 2, 3, 4}, R: <
+  - *Stosunek porządkujący* pozwala ustawić przedmioty w szeregu: asymetryczny, tranzytywny i spójny.
+    + { 4, 1, 2, 3 }, R: <
+    + { Adam lat 10, Weronika lat 12, Bronisław lat 64, Kunegunda lat 102 }, R: jest starszy(a)
   - *Stosunek zwrotny* zachodzi pomiędzy każdym elementem w danej klasie przedmiotów a nim samym:
-    - { 4 , 5 , 9, 23 }, R: jest równe
-  - *Stosunek równościowy*: symetryczny, przechodni i zwrotny:
+    + np. relacja równości w zbiorze { 4 , 5 , 9, 23 }
+  - *Stosunek równościowy*: symetryczny, tranzytywny i zwrotny:
     + { 4, 4, 4 } R: /jest równe/
     + { Wojtek blondyn, Kasia blondynka, Alicja blondynka, Cezary blondyn }, R: /ma taki sam kolor włosów jak/
     + { Skoda Octavia 1.9TDI, Audi A3 2.0TDI, BMW 330d }, R: /jest na takie samo paliwo jak/
     + { Adam, Franciszek, Bartek }^1 R: /być bratem/ (1 - panowie są braćmi)
+
+Paradoks Grellinga-Nelsona:
+- autologiczny to przymiotnik opisujący samego siebie
+  + słowo „polskie” jest polskie, a zatem jest autologiczne
+  + słowo „krótki” jest krótkie, więc też jest autologiczne
+- heterologiczny to przymiotnik nie opisujący samego siebie
+  + słowo „długi” nie jest długie, a zatem jest heterologiczne
+- czy „heterologiczny” jest heterologiczny?
