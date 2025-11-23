@@ -36,7 +36,6 @@ Przykładowy zapis: { 4, 1, 2, 3 }; R: <
 
   - *Stosunek spójny* zachodzi w jednym lub drugim kierunku w danej klasie przedmiotów między każdym i innym dowolnie wybranym przedmiotem.
     + {x, y , z}, R: = , dla x=1, y=1, z=1
-    + {1, 2, 3, 1}, R: =<
     + {1, 2, 3, 4}, R: <
   - *Stosunek porządkujący* pozwala ustawić przedmioty w szeregu: asymetryczny, tranzytywny i spójny.
     + { 4, 1, 2, 3 }, R: <
