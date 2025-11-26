@@ -9,7 +9,7 @@ SCHEDULED: <2025-10-07 Tue>
 ** Organizational matters
 1. Form: seminar (pol. /konwersatorium/).
 2. Course credit conditions:
-   - final test (weight 50%)
+   - final test (weight 50%) OR activity (weight 50%, based on the form in ’Questions’ section)
    - presentation (weight 50%)
    - attendance is mandatory; two absences are allowed (each absence exceeding two absences lowers the grade to the next lower grade)
 
