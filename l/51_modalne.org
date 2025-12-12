@@ -1,39 +1,53 @@
 ** Wypowiedzi modalne
-- wzajemna definiowalność: /musi robić to znaczy, że nie może nie robić ; może robić to znaczy, że nie musi nie robić/
-- interpretacje słów „musi” i „może”
-  + interpretacja logiczna - słowo „musi” oznacza pewien związek pomiędzy zdaniami; /obwód okręgu o promieniu 1 cm musi mieć 2 \pi cm/; /kwadrat musi mieć cztery boki/
-  + interpretacja dynamiczna - fakt jest nieuchronny; /ciało niepodparte musi spadać/, /Żołnierze bez pożywienia muszą w końcu przegrać./
-  + interpretacja aksjologiczna - aprobujemy stan A i nie godzimy się na to, aby stan przeciwny nie zachodził - /Musisz płacić podatki. Jeśli jesteś bogatszy od innych to musisz płacić wyższe podatki. Musisz przestać palić papierosy, bo osierocisz swoje dzieci./
-  + interpretacja tetyczna - zrealizowanie stanu A jest nakazane normą: /W końcu będziesz musiał wydać wyrok./ /Musisz zawiadomić prokuratora o tym, że próbowano Cię przekupić. Musisz płacić podatki./
-  + interpretacja psychologiczna - jesteśmy silnie przeświadczeni, że A: /musi być A/.
-- ćwiczenie:
-  + Żołnierz musi nosić mundur na służbie.
-  + W terenie zabudowanym musisz jechać z prędkością poniżej 50 km/h.
-  + Sędzia może wydać wyrok a prokurator nie może wydać wyroku.
-  + Warszawa musi być stolicą Polski.
-  + Łódź musi być stolicą Polski.
-  + Adam może wyjść z domu. = Adam nie musi nie wychodzić z domu.
-  + Lecący samolot, w którym skończyło się paliwo, musi spaść.
-- Modalności
-  + zdanie asertoryczne: Jest tak a tak. /Na pasie startowym stoi samolot. Łódź jest położona w centralnej Polsce./
-  + zdanie apodyktyczne: Musi być tak a tak. /Musisz nauczyć się logiki./
-  + zdanie problematyczne: Może być tak a tak. /Logiki możesz uczyć się nawet w okresie świątecznym. Jutro możliwe są opady deszczu./
-- Możliwość jednostronna i możliwość dwustronna
-  + Kwadrat musi mieć cztery boki. Czy kwadrat może mieć cztery boki? Kwadrat może mieć cztery boki.
-  + Adam może wyjść z domu.
-  + Rzecznikiem Praw Obywatelskich może być obywatel polski wyróżniający się wiedzą prawniczą, doświadczeniem zawodowym oraz wysokim autorytetem ze względu na swe walory moralne i wrażliwość społeczną.
-  + Jest możliwe zjeść kawałek pizzy. Jan może zjeść kawałek pizzy.
-  + Jest możliwe, że Lech Wałęsa był prezydentem Polski.
-  + Ziemia może być trzecią planetą od Słońca (możliwość jednostronna). Każdy dorosły Polak może głosować w wyborach prezydenckich (możliwość dwustronna - może przecież także nie głosować).
+*** Wzajemna definiowalność
+/musi robić to znaczy, że nie może nie robić ; może robić to znaczy, że nie musi nie robić/
+
+*** Interpretacje słów „musi” i „może”
+1) interpretacja logiczna
+   * „musi” — oznacza pewien związek konieczny pomiędzy zdaniami: /obwód okręgu o promieniu 1 cm musi mieć 2 \pi cm/; /kwadrat musi mieć cztery boki/
+   * „może” — brak sprzeczności: /Trójkąt może być ostrokątny/
+2) interpretacja dynamiczna
+   * „musi” — fakt jest nieuchronny; /ciało niepodparte musi spadać/, /Żołnierze bez pożywienia muszą w końcu przegrać./
+   * „może” – brak jest czynników, które nieuchronnie czemuś zapobiegną: /Żołnierze mogą kroczyć naprzód./
+3) interpretacja aksjologiczna
+   * „musi” — aprobujemy stan A i nie godzimy się na to, aby stan przeciwny nie zachodził - /Musisz płacić podatki. Jeśli jesteś bogatszy od innych to musisz płacić wyższe podatki. Musisz przestać palić papierosy, bo osierocisz swoje dzieci./
+   * „może” — godzimy się aby stan zachodził; brak aksjologicznych przeciwskazań aby zachodził
+4) interpretacja tetyczna
+   * „musi” — zrealizowanie stanu A jest nakazane normą: /W końcu będziesz musiał wydać wyrok./ /Musisz zawiadomić prokuratora o tym, że próbowano Cię przekupić. Musisz płacić podatki./
+   * „może” — brak zakazu albo istnienie kompetencji: /X może wydać wyrok/.
+5) interpretacja psychologiczna
+   * „musi”— jesteśmy silnie o czymś przeświadczeni: /To musiał być cud./
+   * „może” — wyraża wątpliwość lub przypuszczenie: /Może ona go jednak nie lubi./
+
+*** Ćwiczenie
+1) Żołnierz musi nosić mundur na służbie.
+2) W terenie zabudowanym musisz jechać z prędkością poniżej 50 km/h.
+3) Sędzia może wydać wyrok a prokurator nie może wydać wyroku.
+4) Warszawa musi być stolicą Polski.
+5) Łódź musi być stolicą Polski.
+6) Adam może wyjść z domu.
+7) Lecący samolot, w którym skończyło się paliwo, musi spaść.
+
+*** Modalności
++ zdanie asertoryczne: Jest tak a tak. /Na pasie startowym stoi samolot. Łódź jest położona w centralnej Polsce./
++ zdanie apodyktyczne: Musi być tak a tak. /Musisz nauczyć się logiki./
++ zdanie problematyczne: Może być tak a tak. /Logiki możesz uczyć się nawet w okresie świątecznym. Jutro możliwe są opady deszczu./
+
+*** Możliwość jednostronna i możliwość dwustronna
++ Kwadrat musi mieć cztery boki. Czy kwadrat może mieć cztery boki? Kwadrat może mieć cztery boki.
++ Adam może wyjść z domu.
++ Rzecznikiem Praw Obywatelskich może być obywatel polski wyróżniający się wiedzą prawniczą, doświadczeniem zawodowym oraz wysokim autorytetem ze względu na swe walory moralne i wrażliwość społeczną.
++ Jest możliwe zjeść kawałek pizzy. Jan może zjeść kawałek pizzy.
++ Jest możliwe, że Lech Wałęsa był prezydentem Polski.
++ Ziemia może być trzecią planetą od Słońca (możliwość jednostronna). Każdy dorosły Polak może głosować w wyborach prezydenckich (możliwość dwustronna - może przecież także nie głosować).
 
 *** Modalności normatywne
-  + nakaz /osoba x musi postąpić w określony sposób/
-  + zakaz /osoba x nie może postąpić w określony sposób/
-  + dozwolenie /brak zakazu/
-  + fakultatywność /brak nakazu/
-  + indyferentność - dozwolony i fakultatywny
-  + obowiązek - zakaz albo nakaz
-
+1) nakaz — /osoba x musi postąpić w określony sposób/
+2) zakaz — /osoba x nie może postąpić w określony sposób/
+3) dozwolenie — /brak zakazu/
+4) fakultatywność — /brak nakazu/
+5) indyferentność - dozwolony i fakultatywny
+6) obowiązek - zakaz albo nakaz
 
 Zadanie: [[https://q.uiver.app/#q=WzAsMTQsWzMsMCwib2Jvd2nEhXplayJdLFs0LDEsInpha2F6Il0sWzIsMSwibmFrYXoiXSxbMiwyLCJkb3p3b2xlbmllIl0sWzQsMiwiZmFrdWx0YXR5d25vxZvEhyJdLFszLDMsImluZHlmZXJlbnRub8WbxIciXSxbMCwxLCJcXGJ1bGxldCJdLFsxLDEsIlxcYnVsbGV0Il0sWzAsMCwiXFxidWxsZXQiXSxbMSwwLCJcXGJ1bGxldCJdLFswLDIsIlxcYnVsbGV0Il0sWzEsMiwiXFxidWxsZXQiXSxbMCwzLCJcXGJ1bGxldCJdLFsxLDMsIlxcYnVsbGV0Il0sWzgsOSwiaW1wbGlrYWNqYSJdLFs2LDcsInNwcnplY3pub8WbxIciLDAseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJzcXVpZ2dseSJ9LCJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzEwLDExLCJwcnplY2l3aWXFhHN0d28iLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzEyLDEzLCJwb2RwcnplY2l3aWXFhHN0d28iLDAseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dXQ==][link]]; rozwiązanie: [[https://q.uiver.app/#q=WzAsMTQsWzMsMCwib2Jvd2nEhXplayJdLFs0LDEsInpha2F6Il0sWzIsMSwibmFrYXoiXSxbMiwyLCJkb3p3b2xlbmllIl0sWzQsMiwiZmFrdWx0YXR5d25vxZvEhyJdLFszLDMsImluZHlmZXJlbnRub8WbxIciXSxbMCwxLCJcXGJ1bGxldCJdLFsxLDEsIlxcYnVsbGV0Il0sWzAsMCwiXFxidWxsZXQiXSxbMSwwLCJcXGJ1bGxldCJdLFswLDIsIlxcYnVsbGV0Il0sWzEsMiwiXFxidWxsZXQiXSxbMCwzLCJcXGJ1bGxldCJdLFsxLDMsIlxcYnVsbGV0Il0sWzgsOSwiaW1wbGlrYWNqYSJdLFs2LDcsInNwcnplY3pub8WbxIciLDAseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJzcXVpZ2dseSJ9LCJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzEwLDExLCJwcnplY2l3aWXFhHN0d28iLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzEyLDEzLCJwb2RwcnplY2l3aWXFhHN0d28iLDAseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFswLDUsIiIsMCx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6InNxdWlnZ2x5In0sImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbMiwwXSxbMSwwXSxbMiwzXSxbMSw0XSxbMyw0LCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFsyLDEsIiIsMSx7InN0eWxlIjp7ImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbNCw1LCIiLDAseyJzdHlsZSI6eyJ0YWlsIjp7Im5hbWUiOiJhcnJvd2hlYWQifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFszLDUsIiIsMCx7InN0eWxlIjp7InRhaWwiOnsibmFtZSI6ImFycm93aGVhZCJ9LCJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzEsMywiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoic3F1aWdnbHkifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFsyLDQsIiIsMSx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6InNxdWlnZ2x5In0sImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbMSw1LCIiLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzIsNSwiIiwwLHsic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFswLDQsIiIsMCx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6ImRhc2hlZCJ9LCJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzAsMywiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn0sImhlYWQiOnsibmFtZSI6Im5vbmUifX19XV0=][link]].
 

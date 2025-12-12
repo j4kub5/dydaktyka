@@ -3,7 +3,7 @@
 
 Podział logiczny zakresu jakiejś nazwy /N/ na zakresy /A, B, C, D, E/.
 
-Całość dzielona (/totium divisionis/) i człony podziału (/membra divisionis/).
+Całość dzielona (/totum divisionis/) i człony podziału (/membra divisionis/).
 
 *** Cechy poprawnego podziału logicznego
 - Wyczerpujący :: każdy desygnat może być zaliczony jakiegoś z członów podziału.

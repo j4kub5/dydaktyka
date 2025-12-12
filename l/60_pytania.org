@@ -1,12 +1,16 @@
 * Pytania
 ** Wiadomości ogólne
-*Pytanie* jest rodzajem wypowiedzi, której zasadniczym zadaniem jest uzykanie informacji od adresata pytania[fn:: Inny cel może przyświecać pytaniom retorycznym mającym wywołać w adresacie tych wypowiedzi określony stan bez oczekiwania na odpowiedź. Pytania mogą być również stawiane w celu sprawdzenia wiedzy ich adresata (w kontekście dydaktycznym).]. Pytanie różni się od zdania ponieważ nie odpisuje rzeczywistości -- tym samym nie można mówić o prawdziwości bądź fałszywości pytania. Umiejętność zadawania pytań oraz oceny odpowiedzi należy do kluczowych kompetencji prawnika.
+*Pytanie* jest rodzajem wypowiedzi, której zasadniczym zadaniem jest uzyskanie informacji od adresata pytania[fn:: Inny cel może przyświecać pytaniom retorycznym mającym wywołać w adresacie tych wypowiedzi określony stan bez oczekiwania na odpowiedź. Pytania mogą być również stawiane w celu sprawdzenia wiedzy ich adresata (w kontekście dydaktycznym).].
 
-*Założeniem pytania* nazywamy zdania, które uznajemy za prawdziwe zadając dane pytanie. Przykładowo, pytanie „O której wychodzimy do kina?” przyjmuje założenie, że wychodzimy do kina. Założenie fałszywe sprawia, że mamy do czynienia z *pytaniem niewłaściwie postawionym*. Niekiedy źle postawione pytanie może skutkować odpowiedzialnością -- gdy fałszywe założenie narusza dobra prawnie chronione („W jaki sposób Pan kradnie tak ogromne sumy?” zadane osobie uczciwej); trudności może wówczas sprawiać skuteczne zasłonięcie się argumentem, że było to tylko pytanie.
+*Założeniem pytania* nazywamy zdania, które uznajemy za prawdziwe zadając dane pytanie. Przykładowo, pytanie „O której wychodzimy do kina?” przyjmuje założenie, że wychodzimy do kina.
+
+Założenie fałszywe sprawia, że mamy do czynienia z *pytaniem niewłaściwie postawionym*. Niekiedy źle postawione pytanie może skutkować odpowiedzialnością -- gdy fałszywe założenie narusza dobra prawnie chronione („W jaki sposób Pan kradnie tak ogromne sumy?” zadane osobie uczciwej); trudności może wówczas sprawiać skuteczne zasłonięcie się argumentem, że było to tylko pytanie.
 
 Sposób postawienia pytania może wyznaczać schemat odpowiedzi na nie. Pytanie „Ile czasu zajmuje podróż samochodem z Warszawy do Łodzi?” tworzy schemat odpowiedzi w postaci „Podróż samochodem z Warszawy do Łodzi zajmuje /x/. Schemat taki nazywany jest *daną pytania* (łac. /datum quaestionis/). Pytania nieokreślające schematu odpowiedzi nazywamy *pytaniami otwartymi*.
 
-*Niewiadomą pytania* nazywamy wyrażenie, którego podstawienie w danej pytania skutkuje otrzymaniem odpowiedzi. Niewiadomą powyższego pytania będzie zatem wyrażenie określające czas podróży samochodem z Warszawy do Łodzi. Zbiór wyrażeń możliwych do wstawienia w miejsce niewiadomej pytania nazywamy *zakresem niewiadomej pytania*. W zakresie niewiadomej pytania będą znajdować się wyrażenia takie jak „2 godziny”, „6 godzin” i „2 minuty”; zwróć jednak uwagę, że nie każda odpowiedź utworzona z wyrażenia należącego do zakresu niewiadomej pytania będzie prawdziwa. Poza zakresem niewiadomej powyższego pytania będą wyrażenia takie jak „150 km” i „dwie i pół tony” ponieważ nie można ich sensownie użyć w schemacie narzuconym przez daną pytania.
+*Niewiadomą pytania* nazywamy wyrażenie, którego podstawienie w danej pytania skutkuje otrzymaniem odpowiedzi. Niewiadomą powyższego pytania będzie zatem wyrażenie określające czas podróży samochodem z Warszawy do Łodzi.
+
+Zbiór wyrażeń możliwych do wstawienia w miejsce niewiadomej pytania nazywamy *zakresem niewiadomej pytania*. W zakresie niewiadomej pytania będą znajdować się wyrażenia takie jak „2 godziny”, „6 godzin” i „2 minuty”; zwróć jednak uwagę, że nie każda odpowiedź utworzona z wyrażenia należącego do zakresu niewiadomej pytania będzie prawdziwa. Poza zakresem niewiadomej powyższego pytania będą wyrażenia takie jak „150 km” i „dwie i pół tony” ponieważ nie można ich sensownie użyć w schemacie narzuconym przez daną pytania.
 
 ** Budowa pytań
 Pytania zawierają *partykułę pytajną* (przykładowo: „kto”, „w jaki sposób”, „czy”) chociaż niekiedy należy się jej domyślić stosując reguły danego języka (np. z intonacji w języku polskim). Ze względu na użytą partykułę pytajną pytania można podzielić na:
@@ -39,7 +43,7 @@ Odpowiedzi całkowite nie wprost mogą stanowić informację o woli ukrycia pra
 - pełnomocnik powoda: Czy w dniu 15 czerwca 2022 r. rozpoczęli Państwo prace na budowie o godzinie wskazanej w harmonogramie robót, tj. o godzinie 8:00? 
 - świadek: Zawsze robiliśmy wszystko zgodnie z harmonogramem. -- /odpowiedź całkowita nie wprost, jak się okaże za chwilę, odpowiedź jest nieprawdziwa/
 - pełnomocnik powoda: Proszę odpowiedzieć odnosząc się do tego konkretnego dnia.
-- świadek: Faktycznie w tym dniu wyjątkowo rozpoczęlismy pracę nieco później. -- /odpowiedź całkowita wprost, jednak sprzeczna z odpowiedzią udzieloną powyżej/
+- świadek: Faktycznie w tym dniu wyjątkowo rozpoczęliśmy pracę nieco później. -- /odpowiedź całkowita wprost, jednak sprzeczna z odpowiedzią udzieloną powyżej/
 
 ** TODO FAQ
 *** TODO Czy pytanie z długą odpowiedzią może być pytaniem zamkniętym?

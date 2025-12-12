@@ -1,0 +1,35 @@
+{
+    "title": "Test testowy",
+    "questions": [
+        {
+            "question": "Moja ulubiona czynność to",
+            "correct": 2,
+            "answers": [
+                "Chorowanie",
+                "Uderzanie młotkiem w palec",
+                "Nauka logiki",
+                "Stanie w korku"
+            ]
+        },
+        {
+            "question": "Jestem desygnatem nazwy",
+            "correct": 0,
+            "answers": [
+                "Nie-koń",
+                "Nie-student",
+                "Nie-ssak",
+                "Nie-człowiek"
+            ]
+        },
+        {
+            "question": "To jest pytanie nr",
+            "correct": 1,
+            "answers": [
+                "4",
+                "3",
+                "2",
+                "1"
+            ]
+        }
+    ]
+}
