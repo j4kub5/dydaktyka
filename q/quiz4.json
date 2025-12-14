@@ -1,0 +1,135 @@
+{
+    "title": "Relacje, oceny i normy, modalności",
+    "questions": [
+        {
+            "question": "W opisie relacji xRy, jak nazywa się element stojący na miejscu „x”?",
+            "correct": 2,
+            "answers": [
+                "Następnik relacji",
+                "Konwers relacji",
+                "Poprzednik relacji",
+                "Dziedzina relacji"
+            ]
+        },
+        {
+            "question": "Jak nazywa się relacja odwrotna względem relacji R (np. „być starszym od” vs „być młodszym od”)?",
+            "correct": 1,
+            "answers": [
+                "Relacja dopełniająca",
+                "Konwers relacji",
+                "Relacja zwrotna",
+                "Relacja spójna"
+            ]
+        },
+        {
+            "question": "Relacja jest asymetryczna, gdy zachodzi warunek:",
+            "correct": 3,
+            "answers": [
+                "Jeśli xRy, to yRx",
+                "Dla każdego x zachodzi xRx",
+                "Jeśli xRy i yRz, to xRz",
+                "Jeśli xRy, to nie yRx"
+            ]
+        },
+        {
+            "question": "Relacja R jest przechodnia (tranzytywna), gdy:",
+            "correct": 1,
+            "answers": [
+                "Dla każdego x zachodzi xRx",
+                "Jeśli xRy i yRz, to xRz",
+                "Jeśli xRy, to yRx",
+                "Dla każdych x,y zachodzi xRy lub yRx"
+            ]
+        },
+        {
+            "question": "Który zestaw własności jest konieczny, by relacja była porządkująca w danej klasie przedmiotów?",
+            "correct": 2,
+            "answers": [
+                "Symetryczność, zwrotność, przechodniość",
+                "Nonsymetryczność, nontranzytywność, spójność",
+                "Asymetryczność, przechodniość, spójność",
+                "Zwrotność, spójność, atranzytywność"
+            ]
+        },
+        {
+            "question": "Relacja równościowa (w danej klasie) to relacja, która jest jednocześnie:",
+            "correct": 0,
+            "answers": [
+                "Symetryczna, przechodnia i zwrotna",
+                "Asymetryczna, przechodnia i spójna",
+                "Symetryczna, atranzytywna i zwrotna",
+                "Nonsymetryczna, przechodnia i spójna"
+            ]
+        },
+        {
+            "question": "Wypowiedź typu „Brawo!” (bez elementu opisu stanu rzeczy) najtrafniej scharakteryzować jako:",
+            "correct": 3,
+            "answers": [
+                "Zdanie opisowe prawdziwe lub fałszywe",
+                "Definicję projektującą",
+                "Wypowiedź o kwalifikacji prawnej czynu",
+                "Wypowiedź oceniająca, której nie przypisuje się prawdziwości/fałszywości"
+            ]
+        },
+        {
+            "question": "Norma postępowania to w najprostszym ujęciu wypowiedź, która:",
+            "correct": 1,
+            "answers": [
+                "Opisuje fakty i podlega ocenie prawda/fałsz",
+                "Nakazuje lub zakazuje adresatowi określonego zachowania w danych okolicznościach",
+                "Wyraża wyłącznie przeżycie aprobaty lub dezaprobaty",
+                "Stwierdza konieczność logiczną jakiegoś zdania"
+            ]
+        },
+        {
+            "question": "Norma jest konkretna, gdy:",
+            "correct": 0,
+            "answers": [
+                "Nakazuje jednorazowe postąpienie w określony sposób",
+                "Nakazuje postępować stale lub zawsze, gdy wystąpią dane okoliczności",
+                "Jej adresat jest określony rodzajowo",
+                "Jest skuteczna społecznie w ujęciu behawiorystycznym"
+            ]
+        },
+        {
+            "question": "Uzasadnienie tetyczne obowiązywania normy polega na tym, że:",
+            "correct": 1,
+            "answers": [
+                "Norma jest dobra moralnie lub prowadzi do dobrych skutków",
+                "Normę ustanowił (i nie odwołał) ktoś uznawany za mającego władzę nad adresatami",
+                "Adresaci w większości spontanicznie postępują zgodnie z normą bez względu na sankcje",
+                "Norma wynika logicznie z twierdzeń matematycznych"
+            ]
+        },
+        {
+            "question": "W interpretacji tetycznej zwrot „musi być A” znaczy, że:",
+            "correct": 3,
+            "answers": [
+                "A jest nieuchronnie spowodowane przez czynniki przyczynowe",
+                "A wynika logicznie z przyjętych zdań",
+                "Mówący jest silnie przekonany, że A",
+                "Zrealizowanie A jest nakazane przez obowiązującą normę"
+            ]
+        },
+	 {
+      "question": "Zdanie „W trójkącie prostokątnym o przyprostokątnych 3 i 4 przeciwprostokątna musi mieć 5” wykorzystuje „musi” przede wszystkim w interpretacji:",
+      "correct": 2,
+      "answers": [
+        "Aksjologicznej.",
+        "Tetycznej.",
+        "Logicznej.",
+        "Dynamicznej."
+      ]
+    },
+        {
+            "question": "Jeśli czyn c nie jest zakazany (ze względu na daną normę), to jest on:",
+            "correct": 0,
+            "answers": [
+                "Dozwolony",
+                "Nakazany",
+                "Sprzeczny",
+                "Atranzytywny"
+            ]
+        }
+    ]
+}

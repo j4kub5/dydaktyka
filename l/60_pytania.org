@@ -2,7 +2,7 @@
 ** Wiadomości ogólne
 *Pytanie* jest rodzajem wypowiedzi, której zasadniczym zadaniem jest uzyskanie informacji od adresata pytania[fn:: Inny cel może przyświecać pytaniom retorycznym mającym wywołać w adresacie tych wypowiedzi określony stan bez oczekiwania na odpowiedź. Pytania mogą być również stawiane w celu sprawdzenia wiedzy ich adresata (w kontekście dydaktycznym).].
 
-*Założeniem pytania* nazywamy zdania, które uznajemy za prawdziwe zadając dane pytanie. Przykładowo, pytanie „O której wychodzimy do kina?” przyjmuje założenie, że wychodzimy do kina.
+*Założeniem pytania* nazywamy zdania, które uznajemy za prawdziwe zadając dane pytanie. Przykładowo, pytanie „O której wychodzimy do kina?” przyjmuje założenie, że wychodzimy do kina (założenie pozytywne) oraz, że są takie godziny o których nie wychodzimy do kina (założenie negatywne).
 
 Założenie fałszywe sprawia, że mamy do czynienia z *pytaniem niewłaściwie postawionym*. Niekiedy źle postawione pytanie może skutkować odpowiedzialnością -- gdy fałszywe założenie narusza dobra prawnie chronione („W jaki sposób Pan kradnie tak ogromne sumy?” zadane osobie uczciwej); trudności może wówczas sprawiać skuteczne zasłonięcie się argumentem, że było to tylko pytanie.
 
@@ -26,10 +26,12 @@ Niekiedy pytanie może być wadliwe ze względu na *niejednoznaczność słów* 
 Odpowiedź „tak” albo „nie” na powyższe pytanie nie przyniesie zatem pytającemu pewnej wiedzy na temat poglądów adresata pytania.
 
 ** Odpowiedź
+*** Właściwa i niewłaściwa
 Rozważmy zagadnienie odpowiedzi na przykładzie pytania „Jaka miejscowość jest siedzibą Uniwersytetu Łódzkiego?”. Udzielona na dane pytanie odpowiedź może być uznana za *odpowiedź właściwą*, jeżeli powstaje ona poprzez użycie wyrażenia z zakresu niewiadomej pytania. Odpowiedziami właściwymi dla powyższego pytania będą zarówno „Siedzibą Uniwersytetu Łódzkiego jest Łódź” jak i „Siedzibą Uniwersytetu Łódzkiego jest Szczecin”. Odpowiedź właściwa nie musi być zatem prawdziwa.
 
 Może się także zdarzyć, że wyrażenie prawdziwe będzie *odpowiedzą niewłaściwą* -- np. odpowiedź „Trójkąt ma trzy boki” na wskazane pytanie, chociaż jest zdaniem prawdziwym nie należy do zakresu niewiadomej pytania. Oczywiście, odpowiedzią niewłaściwą będzie także nieprawdziwe zdanie „Trójkąt ma pięć boków”. 
 
+*** Całkowita i częściowa
 Odpowiedzi można podzielić na:
 - odpowiedzi *całkowite*:
   + odpowiedzi *całkowite wprost* – to odpowiedzi właściwe podążające za schematem odpowiedzi wyznaczonym przez pytanie (np. „Siedzibą Uniwersytetu Łódzkiego jest Gdańsk”),
@@ -44,6 +46,9 @@ Odpowiedzi całkowite nie wprost mogą stanowić informację o woli ukrycia pra
 - świadek: Zawsze robiliśmy wszystko zgodnie z harmonogramem. -- /odpowiedź całkowita nie wprost, jak się okaże za chwilę, odpowiedź jest nieprawdziwa/
 - pełnomocnik powoda: Proszę odpowiedzieć odnosząc się do tego konkretnego dnia.
 - świadek: Faktycznie w tym dniu wyjątkowo rozpoczęliśmy pracę nieco później. -- /odpowiedź całkowita wprost, jednak sprzeczna z odpowiedzią udzieloną powyżej/
+
+*** Odpowiedź wyczerpująca
+Odpowiedź jednocześnie właściwa i prawdziwa to odpowiedź wyczerpująca.
 
 ** TODO FAQ
 *** TODO Czy pytanie z długą odpowiedzią może być pytaniem zamkniętym?
