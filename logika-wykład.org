@@ -69,5 +69,11 @@ SCHEDULED: <2026-01-25 Sun>
 #+include: l/96_implikatura.org
 #+include: l/99_przekonywanie.org
 
+* Egzaminy
+|                    | termin             | miejsce             |
+|--------------------+--------------------+---------------------|
+| Egzamin            | 🕑14:00 2026-02-01 | Aula 2.62 (zielona) |
+| Egzamin poprawkowy | 🕑14:00 2026-02-22 | Aula 3.63           |
+
 * ŚCIĄGA: Symbole logiczne
 #+include: l/05_symbole.org

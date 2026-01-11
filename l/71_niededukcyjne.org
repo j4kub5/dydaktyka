@@ -5,7 +5,7 @@ Forma:
 - przesłanka entymematyczna: /q \rarr p/
 - wniosek: /q/
 
-Z tego, że wiem, że ulica jest morka (p) oraz wiem, że jeżeli pada desz to ulica jest mokra (q \rarr p) wnioskuję, że padał deszcz (q).
+Z tego, że wiem, że ulica jest mokra (p) oraz wiem, że jeżeli pada desz to ulica jest mokra (q \rarr p) wnioskuję, że padał deszcz (q).
 
 *** Indukcja
 Indyk filozof miał hipotezę "Człowiek jest po to, aby służyć indykom." Nastąpiło aż 1000 obserwacji potwierdzających tę hipotezę. Dnia 1001 człowiek upiekł indyka.
