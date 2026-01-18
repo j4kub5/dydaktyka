@@ -1,6 +1,17 @@
 ** Dedukcja
-- wnioskowanie jako proces myślowy, przesłanki, przesłanki entymematyczne
-  + przykłady wnioskowań:
+Ziembiński: rozdział 14.
+
+*** Wnioskowanie
+- wnioskowanie jako proces myślowy,
+- przesłanki,
+- przesłanki entymematyczne,
+- wniosek
+
+Wnioskowania zawodne i wnioskowania niezawodne
+- /Andrzej zawsze wyśmienicie wypadał w sesji egzaminacyjnej, w więc w tym roku także mu się powiedzie./
+- /Każdy człowiek jest śmiertelny. Sokrates jest człowiekiem. A więc, Sokrates jest śmiertelny./
+
+Przykłady wnioskowań (zastanów się, które z nich są zawodne, a które niezawodne i dlaczego):
     - Kto zabija zwierzęta ten ma predyspozycje do mordowania ludzi.
     - Jest piątek, a więc czas na pizzę.
     - Kto sprzedaje narkotyki jest dealerem.
@@ -10,7 +21,8 @@
     - Jestem ubogi, a więc idę do pracy.
     - Jeśli zauważam wzrastające temperatury co roku, to znaczy, że następuje ocieplenie klimatu.
     - Wschodzi krwawe słońce a więc przelano krew tej nocy.
-- wnioskowania zawodne i wnioskowania niezawodne (/Każdy człowiek jest śmiertelny. Sokrates jest człowiekiem. A więc, Sokrates jest śmiertelny./)
+
+*** Prawa logiki
 - prawa logiki
   + prawo transpozycji: (p \sup q) \sup (\sim q \sup \sim p): Jeżeli (Jeżeli pada deszcz, to ulica jest mokra) to (Jeżeli nieprawda, że ulica jest mokra to nieprawda, że pada deszcz)
   + prawo kontrapozycji: \prod S,P: SaP \equiv nie-S a nie-P
@@ -51,3 +63,7 @@ Niektórzy profesorowie są gadami.
 #+end_verse
 
 FIFO - first in first out, FILO - first in last out, GIGO - garbage in garbage out
+
+*** Kwadrat logiczny
+
+[[https://q.uiver.app/#q=WzAsMTIsWzAsMSwiXFxidWxsZXQiXSxbMSwxLCJcXGJ1bGxldCJdLFswLDAsIlxcYnVsbGV0Il0sWzEsMCwiXFxidWxsZXQiXSxbMCwyLCJcXGJ1bGxldCJdLFsxLDIsIlxcYnVsbGV0Il0sWzAsMywiXFxidWxsZXQiXSxbMSwzLCJcXGJ1bGxldCJdLFsyLDAsIlNhUCJdLFs1LDAsIlNlUCJdLFsyLDMsIlNpUCJdLFs1LDMsIlNvUCJdLFsyLDMsImltcGxpa2FjamEiXSxbMCwxLCJzcHJ6ZWN6bm/Fm8SHIiwwLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoic3F1aWdnbHkifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFs0LDUsInByemVjaXdpZcWEc3R3byIsMCx7InN0eWxlIjp7ImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbNiw3LCJwb2RwcnplY2l3aWXFhHN0d28iLDAseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFs4LDksIiIsMCx7InN0eWxlIjp7ImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbOSwxMV0sWzgsMTBdLFsxMCwxMSwiIiwyLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn0sImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbOCwxMSwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoic3F1aWdnbHkifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFs5LDEwLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJzcXVpZ2dseSJ9fX1dXQ==][Link do zadania.]]

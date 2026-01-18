@@ -1,11 +1,13 @@
 ** Wnioskowania niededukcyjne
+Z. Ziembiński, rozdział XV.
+
 *** Redukcja
 Forma:
 - przesłanka formułowana: /p/
 - przesłanka entymematyczna: /q \rarr p/
 - wniosek: /q/
 
-Z tego, że wiem, że ulica jest mokra (p) oraz wiem, że jeżeli pada desz to ulica jest mokra (q \rarr p) wnioskuję, że padał deszcz (q).
+Z tego, że wiem, że ulica jest mokra (p) oraz wiem, że jeżeli pada deszcz to ulica jest mokra (q \rarr p) wnioskuję, że padał deszcz (q).
 
 *** Indukcja
 Indyk filozof miał hipotezę "Człowiek jest po to, aby służyć indykom." Nastąpiło aż 1000 obserwacji potwierdzających tę hipotezę. Dnia 1001 człowiek upiekł indyka.
@@ -19,6 +21,12 @@ Indyk filozof miał hipotezę "Człowiek jest po to, aby służyć indykom." Nas
   - Każde S jest P.
   - S_n - dzień, P dzień mający cechę X (np. dzień w którym człowiek służy indykowi)
 - Indukcja zupełna i niezupełna.
+  Przykład indukcji zupełnej:
+  - S_1 jest P,
+  - S_2 jest P,
+  - S_3 jest P,
+  - S_4 jest P,
+  - a zatem każde S jest P.
 - Indukcja eliminacyjna:
   a. kanon jednej zgodności:
      - O_1: A, B, C, Z;
