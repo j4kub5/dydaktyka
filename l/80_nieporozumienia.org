@@ -9,7 +9,7 @@ Przykłady:
 - /Sam jesteś dzban!/
 
 *** Pomieszanie supozycji
-/Kajet jest pochodzenia francuskiego./
+/Kajet jest pochodzenia francuskiego. Wykluczone, to jest kajet produkcji polskiej./
 
 *** Znaczenie aktualne i znaczenie potencjalne
 Czy Tadek gra w brydża?
@@ -19,14 +19,14 @@ Czy Tadek gra w brydża?
 - on
 - tam
 
-Co zrobić , gdy świadek odopowiada na pytanie: „On to wtedy tam zrobił.”
+Co zrobić , gdy świadek odpowiada na pytanie: „On to wtedy tam zrobił.”?
 
 *** Ekwiwokacje. Spory słowne
 
 Błąd ekwiwokacji: użycie tego samego słowa w różnych znaczeniach.
 
 Przykład:
-- Każdy metal jest pierwiaskiem. Mosiądz jest metalem. A zatem mosiądz jest pierwiastkiem.
+- Każdy metal jest pierwiastkiem. Mosiądz jest metalem. A zatem mosiądz jest pierwiastkiem.
 - Każdy ssak lubiący jeść pączki, lubi chodzić do cukierni. Łoś lubi jeść pączki. A więc, łoś lubi chodzić do cukierni.
 
 Logomachia (spór słowny) - spory wnikające z nieuzgodnienia pomiędzy dyskutantami o jakim znaczeniu danego słowa mówią. Przykład:
@@ -36,7 +36,6 @@ Logomachia (spór słowny) - spory wnikające z nieuzgodnienia pomiędzy dyskut
 
 *** Wieloznaczność wypowiedzi złożonej
 Nigdy nie można zrobić zbyt wiele dla ludzi starych i chorych.
-- znaczenie dosłowne i niedosłowne: /Człowiek człowiekowi wilkiem./
 
 *** Amfibologia
 Wypowiedź wieloznaczna ze względu na składnię:
@@ -44,5 +43,6 @@ Wypowiedź wieloznaczna ze względu na składnię:
 - /Pozwany ma płacić powodowi 90 złotych renty alimentacyjnej łącznie z zasiłkiem rodzinnym./
 
 *** Znaczenie dosłowne i niedosłowne
-- /Ty jesz ananasy, a mnie na chleb nie starcza. Nieprawda, ja nie lubię ananansów, a ciebie stać na 0.8 kg chleba dziennie!/
+- /Ty jesz ananasy, a mnie na chleb nie starcza. Nieprawda, ja nie lubię ananasów, a ciebie stać na 0.8 kg chleba dziennie!/
 - /Mniej znaczy więcej./
+- /Człowiek człowiekowi wilkiem./

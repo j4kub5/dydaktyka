@@ -7,9 +7,11 @@ Ziembiński: rozdział 14.
 - przesłanki entymematyczne,
 - wniosek
 
-Wnioskowania zawodne i wnioskowania niezawodne
-- /Andrzej zawsze wyśmienicie wypadał w sesji egzaminacyjnej, w więc w tym roku także mu się powiedzie./
+Wnioskowania zawodne i wnioskowania niezawodne:
+- /Andrzej zawsze wyśmienicie wypadał w sesji egzaminacyjnej, więc w tym roku także mu się powiedzie./
 - /Każdy człowiek jest śmiertelny. Sokrates jest człowiekiem. A więc, Sokrates jest śmiertelny./
+- /Każdy człowiek jest śmiertelny. Jan Kowalski jest człowiekiem. A więc, Jan Kowalski jest śmiertelny./
+- /Każdy kwadrat jest prostokątem. Figura, o której myślę jest kwadratem. A więc, figura, o której myślę jest prostokątem./
 
 Przykłady wnioskowań (zastanów się, które z nich są zawodne, a które niezawodne i dlaczego):
     - Kto zabija zwierzęta ten ma predyspozycje do mordowania ludzi.
@@ -23,25 +25,29 @@ Przykłady wnioskowań (zastanów się, które z nich są zawodne, a które ni
     - Wschodzi krwawe słońce a więc przelano krew tej nocy.
 
 *** Prawa logiki
-- prawa logiki
-  + prawo transpozycji: (p \sup q) \sup (\sim q \sup \sim p): Jeżeli (Jeżeli pada deszcz, to ulica jest mokra) to (Jeżeli nieprawda, że ulica jest mokra to nieprawda, że pada deszcz)
-  + prawo kontrapozycji: \prod S,P: SaP \equiv nie-S a nie-P
+- prawo transpozycji: (p \sup q) \sup (\sim q \sup \sim p):
+  + Jeżeli (Jeżeli pada deszcz, to ulica jest mokra) to (Jeżeli nieprawda, że ulica jest mokra to nieprawda, że pada deszcz)
+- prawo kontrapozycji: \prod S,P: SaP \equiv nie-S a nie-P
 - sylogizm: /Ponieważ (1) jeżeli p, to q i (2) jeżeli q, to r (3) to jeżeli p to r./
   + [ (p \sup q) \cdot (q \sup r)] \sup (p \sup r)
-  + [(p \sup q) \cdot p] \sup q (modus ponendo ponens): Jeżeli [(Jeżeli woda wrze to jest gorąca) i woda wrze] to woda jest gorąca
-  + [(p \sup q) \cdot \sim q] \sup \sim p (modus tollendo tollens): /Jeżeli [(Jeżeli woda wrze to jest gorąca) i nieprawda, że woda jest gorąca] to nieprawda, że woda wrze./
-  + [(p \vee q) \cdot \sim p] \sup q (modus tollendo ponens): /Jeżeli [(Wicked jest psem lub Wicked jest kotem) i nieprawda, że Wicked jest kotem] to Wicked jest psem./
+  + Jeżeli [ ( jeżeli dotkniesz gorącego to się oparzysz ) i (jeżeli się oparzysz to będzie bolało ) ] to … (jeżeli dotkniesz gorącego to będzie bolało).
+- [(p \sup q) \cdot p] \sup q (modus ponendo ponens)
+  + Jeżeli [(Jeżeli woda wrze to jest gorąca) i woda wrze] to woda jest gorąca
+- [(p \sup q) \cdot \sim q] \sup \sim p (modus tollendo tollens)
+  + /Jeżeli [(Jeżeli woda wrze to jest gorąca) i nieprawda, że woda jest gorąca] to nieprawda, że woda wrze./
+- [(p \vee q) \cdot \sim p] \sup q (modus tollendo ponens)
+  + /Jeżeli [(Wicked jest psem lub Wicked jest kotem) i nieprawda, że Wicked jest kotem] to Wicked jest psem./
 
-- sylogistyka Arystotelesa
-  + zdania w postaci:
-  + zd. ogólno-twierdzące:     SaP - /każde S jest P/
-  + zd. ogólno-przeczące:      SeP - /żadne S nie jest P/
-  + zd. szczególno-twierdzące: SiP - /istnieją S, które są P/
-  + zd. szczególno-przeczące:  SoP - /istnieją S, które są nie-P/
-  + SaP \equiv \sim (SoP)
-  + SeP \equiv \sim (SiP)
-  + SiP \equiv \sim (SeP)
-  + SoP \equiv \sim (SaP)
+*** Sylogistyka Arystotelesa
+  - zdania w postaci gdzie występuje podmiot (S) i orzecznik (P):
+    + zd. ogólno-twierdzące:     SaP - /każde S jest P/
+    + zd. ogólno-przeczące:      SeP - /żadne S nie jest P/
+    + zd. szczególno-twierdzące: SiP - /istnieją S, które są P/
+    + zd. szczególno-przeczące:  SoP - /istnieją S, które są nie-P/
+  - SaP \equiv \sim (SoP)
+  - SeP \equiv \sim (SiP)
+  - SiP \equiv \sim (SeP)
+  - SoP \equiv \sim (SaP)
 
 #+begin_verse
 
@@ -64,6 +70,6 @@ Niektórzy profesorowie są gadami.
 
 FIFO - first in first out, FILO - first in last out, GIGO - garbage in garbage out
 
-*** Kwadrat logiczny
+**** Kwadrat logiczny
 
-[[https://q.uiver.app/#q=WzAsMTIsWzAsMSwiXFxidWxsZXQiXSxbMSwxLCJcXGJ1bGxldCJdLFswLDAsIlxcYnVsbGV0Il0sWzEsMCwiXFxidWxsZXQiXSxbMCwyLCJcXGJ1bGxldCJdLFsxLDIsIlxcYnVsbGV0Il0sWzAsMywiXFxidWxsZXQiXSxbMSwzLCJcXGJ1bGxldCJdLFsyLDAsIlNhUCJdLFs1LDAsIlNlUCJdLFsyLDMsIlNpUCJdLFs1LDMsIlNvUCJdLFsyLDMsImltcGxpa2FjamEiXSxbMCwxLCJzcHJ6ZWN6bm/Fm8SHIiwwLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoic3F1aWdnbHkifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFs0LDUsInByemVjaXdpZcWEc3R3byIsMCx7InN0eWxlIjp7ImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbNiw3LCJwb2RwcnplY2l3aWXFhHN0d28iLDAseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFs4LDksIiIsMCx7InN0eWxlIjp7ImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbOSwxMV0sWzgsMTBdLFsxMCwxMSwiIiwyLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn0sImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbOCwxMSwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoic3F1aWdnbHkifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFs5LDEwLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJzcXVpZ2dseSJ9fX1dXQ==][Link do zadania.]]
+[[https://q.uiver.app/#q=WzAsMTYsWzAsMiwiXFxidWxsZXQiXSxbMSwyLCJcXGJ1bGxldCJdLFswLDEsIlxcYnVsbGV0Il0sWzEsMSwiXFxidWxsZXQiXSxbMCwzLCJcXGJ1bGxldCJdLFsxLDMsIlxcYnVsbGV0Il0sWzAsNCwiXFxidWxsZXQiXSxbMSw0LCJcXGJ1bGxldCJdLFsyLDEsIlNhUCJdLFs1LDEsIlNlUCJdLFsyLDQsIlNpUCJdLFs1LDQsIlNvUCJdLFsyLDAsIi0iXSxbNSwwLCItIl0sWzUsNSwiLSJdLFsyLDUsIi0iXSxbMiwzLCJpbXBsaWthY2phIl0sWzAsMSwic3ByemVjem5vxZvEhyIsMCx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6InNxdWlnZ2x5In0sImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbNCw1LCJwcnplY2l3aWXFhHN0d28iLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzYsNywicG9kcHJ6ZWNpd2llxYRzdHdvIiwwLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn0sImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbOCw5LCIiLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzksMTFdLFs4LDEwXSxbMTAsMTEsIiIsMix7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6ImRhc2hlZCJ9LCJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzgsMTEsIiIsMSx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6InNxdWlnZ2x5In0sImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbOSwxMCwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoic3F1aWdnbHkifSwiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dXQ==][Link do zadania.]]
