@@ -11,9 +11,9 @@ Rozróżnienie:
 
 *** Dwa rodzaje zadań w myśleniu kierowanym:
 - zadania rozstrzygnięcia — „czy prawdą jest, że p"?
-  + celem: ustalić wartość logiczną zdania (prawda/fałsz)
+  + cel: ustalić wartość logiczną zdania (prawda/fałsz)
 - zadania wyjaśnienia — „dlaczego prawdą jest, że p"?
-  + celem: odkryć rację, przyczynę, uzasadnienie dla danego zdania
+  + cel: odkryć rację, przyczynę, uzasadnienie dla danego zdania
 
 *** Dowodzenie wprost i nie wprost
 
