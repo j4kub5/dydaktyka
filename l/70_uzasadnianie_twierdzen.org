@@ -1,4 +1,6 @@
 ** Uzasadnianie bezpośrednie twierdzeń
+*Rozdział w podręczniku:* 13
+
 - w jaki sposób można uznać zdanie za prawdziwe? /Postulat racji dostatecznej/ - za prawdziwe należy uznać jedynie takie zdanie, dla którego da się uzyskać należyte uzasadnienie
   + dla zdań analitycznych - uzasadnienie opiera się na regułach znaczeniowych danego języka
   + dla zdań syntetycznych

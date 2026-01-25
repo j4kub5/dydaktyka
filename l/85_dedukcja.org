@@ -1,5 +1,5 @@
 ** Dedukcja
-Ziembiński: rozdział 14.
+*Rozdział w podręczniku:* 14
 
 *** Wnioskowanie
 - wnioskowanie jako proces myślowy,

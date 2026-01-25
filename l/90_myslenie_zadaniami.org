@@ -1,22 +1,124 @@
 ** Myślenie kierowane z góry postawionymi zadaniami
-- myślenie spontaniczne, a myślenie kierowane z góry postanowionymi zadaniami
-- zadania:
-  + zadania rozstrzygnięcia: „czy prawdą jest, że p”?
-  + zadania wyjaśnienia: „dlaczego prawdą jest, że p”?
-- dowodzenie
-  + dowodzenie a wiadomości o świecie
-  + dowodzenie wprost: wiadomo, że jeśli p to q; wiadomo, że p, a więc udowodnione jest, że q
-    + jeżeli w pomieszczeniu są czyjeś odciski palców, to ta osoba była w tym pomieszczeniu
-  + dowodzenie nie wprost: przypuszczam, że \sim{}q; wiem, że jeżeli \sim{}q to r; wiem, że ~r; a więc wiem, że \sim{}\sim{}q czyli q
-  + błędy w dowodzeniu:
-    - błąd materialny, bład formalny, błąd petitio principi
-    - błąd błędnego koła  -
-    - nieznajomość tezy dowodzonej - ignoratio elenchi
-- sprawdzanie
-  + czy p?
-    - wiem, że p \sup q
-    - (a) wiem, że q: a więc?
-    - (b) wiem, że \sim{}q: a więc?
-- wyjaśnianie
-  + dlaczego jest tak a tak?
-  + hipoteza wyjaśniająca (np. hipoteza samorództwa, hipoteza flogistonu)
+*Rozdział w podręczniku:* 16
+
+*** Myślenie spontaniczne a myślenie kierowane zadaniami
+
+Rozróżnienie:
+- myślenie spontaniczne — wnioskowanie bez z góry wyznaczonego celu; pojawia się niezamierzone, przypadkowe
+  - przykład: widząc czerwony samochód z syreną, spontanicznie wnioskuję, że spieszy straż pożarna
+- myślenie kierowane z góry postawionymi zadaniami — wnioskowanie zmierzające do osiągnięcia z góry określonego celu
+  - przykład: sprawdzając zadanie geometryczne, celowo szukam dowodu na to, że suma kątów trójkąta równa się kątowi półpełnemu
+
+*** Dwa rodzaje zadań w myśleniu kierowanym:
+- zadania rozstrzygnięcia — „czy prawdą jest, że p"?
+  + celem: ustalić wartość logiczną zdania (prawda/fałsz)
+- zadania wyjaśnienia — „dlaczego prawdą jest, że p"?
+  + celem: odkryć rację, przyczynę, uzasadnienie dla danego zdania
+
+*** Dowodzenie wprost i nie wprost
+
+Dowodzenie to rozumowanie, w którym dla zdania wątpliwego szukamy racji wśród zdań poprzednio uznanych za prawdziwe, by z prawdziwości tej racji wnioskować o prawdziwości zdania dowodzonego (następstwa).
+
+Warunki powodzenia dowodu:
+- posiadanie wiadomości o świecie
+- znajomość związków wynikania logicznego
+
+Dowodzenie wprost:
+- wiadomo, że jeśli p, to q (przesłanka ogólna)
+- wiadomo, że p (przesłanka szczegółowa)
+- a zatem q (wniosek — teza udowodniona)
+
+Przykład:
+- jeśli ktoś pozostawił odciski palców w mieszkaniu, to był w tym mieszkaniu
+- w okradzionym mieszkaniu znaleziono odciski palców danej osoby
+- zatem ta osoba była w okradzionym mieszkaniu
+
+Dowodzenie nie wprost:
+- przypuszczam, że \sim{}q (negacja tezy)
+- wiadomo, że jeśli \sim{}q, to r (przesłanka)
+- wiadomo, że \sim{}r (zaprzeczenie następstwa)
+- zatem \sim{}\sim{}q, czyli q (teza udowodniona)
+- opieramy się na: modus tollendo tollens + prawie podwójnego przeczenia
+
+Przykład:
+- chcę udowodnić, że kupiona śmietana nie jest fałszowana mąką
+- przypuszczam: śmietana jest fałszowana mąką
+- jeśli byłaby fałszowana, to przy zmieszaniu z jodem wystąpiłoby zabarwienie granatowe
+- ale zabarwienie to nie wystąpiło
+- zatem śmietana nie jest fałszowana mąką
+
+Błędy w dowodzeniu:
+- błąd materialny: użycie nieprawdziwej przesłanki
+- błąd formalny: niepoprawne wnioskowanie dedukcyjne
+- petitio principii (z łac., błąd niedostatecznego uzasadnienia, dosł. żądanie podstawy) przyjęcie za przesłankę zdania niepewnego, o niezbadanej dotąd wartości logicznej albo tego, co dopiero ma być wnioskowane. Przykład: (1) /Demokratyczne wybory są dobre, ponieważ pozwalają na wybranie władzy przez naród./ (2) /Dlaczego mu wierzysz? Bo on nigdy nie kłamie. Skąd to wiesz? On mi to powiedział./
+- ignoratio elenchi (nieznajomość tezy dowodzonej) — dowodzenie czegoś innego niż to, co powinno być dowiedzione. Przykład: /Nie powinienem płacić mandatu. Na ulicach są prawdziwi, niebezpieczni przestępcy i mordercy, a policja powinna ścigać ich, zamiast nękać uczciwych podatników./
+
+*** Sprawdzanie
+Sprawdzanie to rozumowanie, w którym dla zdania wątpliwego szukamy jego następstw, by:
+- z prawdziwości następstw wnioskować o prawdopodobieństwie (nie pewności!) zdania sprawdzanego
+- lub z fałszywości następstwa wnioskować z pewnością (dedukcyjnie) o fałszywości tezy
+
+*Dwie możliwości w sprawdzaniu:*
+1. sprawdzanie z wynikiem pozytywnym — znajdujemy następstwa prawdziwe
+   - wniosek: redukcyjny, zawodny, prawdopodobny
+   - im więcej i bardziej zróżnicowanych następstw znaleźliśmy, tym większe prawdopodobieństwo tezy
+   - przykład: pytam Jana z zakresu geografii; jeśli odpowiada prawidłowo na wiele pytań, to jest bardziej prawdopodobne, że uczył się rzetelnie
+2. sprawdzanie z wynikiem negatywnym — znajdujemy następstwo fałszywe
+   - wniosek: dedukcyjny (modus tollendo tollens), pewny
+   - jeśli następstwo jest fałszywe, to teza jest na pewno fałszywa
+   - przykład: jeśli Jan nie umie nic z geografii (następstwo fałszywe), to na pewno nie uczył się rzetelnie
+
+Schemat:
+- Założenie: „jeśli p, to q"
+- Obserwacja: „q jest prawdziwe" → wynika „przypuszczalnie p"
+- Obserwacja: „q jest fałszywe" → wynika „na pewno \sim{}p"
+
+*** Wyjaśnianie i hipotezy wyjaśniające
+Wyjaśnianie to wskazanie racji dla zdania już stwierdzającego fakt. Odpowiadamy na pytanie „dlaczego?”
+
+Różnica od dowodzenia i sprawdzania:
+- zarówno racja (p) jak i następstwo (q) są nam znane jako zdania prawdziwe
+- chodzi o wskazanie, że jedno stanowi rację dla drugiego; że p przesądza o q
+- nie dowodzimy czy sprawdzamy, lecz pozwiązujemy znane nam zdania
+
+Przykład:
+- fakt: Jan wyraźnie unika Piotra (zdanie prawdziwe)
+- znana racja: jeśli ktoś kogoś uraził, to ta osoba go unika
+- znana przesłanka: Piotr dyskutował z Janem i lekceważąco traktował jego przekonania
+- wyjaśnienie: teraz rozumiemy, dlaczego Jan unika Piotra — jedno wyjaśnia drugie
+
+*Znaczenie wyjaśniania:*
+- pozwala nam zbudować spójny obraz rzeczywistości
+- umożliwia przewidywanie
+- wzmacnia pewność naszej wiedzy (jedno potwierdzanie drugie)
+
+*Hipoteza wyjaśniająca — definicja:*
+Hipoteza wyjaśniająca to zdanie o nie ustalonej dotąd wartości logicznej, które tymczasowo przyjmujemy za prawdziwe ze względu na to, że w koniunkcji z naszą wiedzą stanowi rację dla stwierdzonych faktów doświadczalnych.
+
+Warunki postawienia hipotezy:
+1. stwierdzamy doświadczalnie, że pewne zdanie Z jest prawdziwe
+2. posiadamy wiedzę W (zbiór zdań uznanych za prawdziwe)
+3. chcemy znaleźć rację dla Z
+4. z samych zdań tworzących W zdanie Z nie wynika
+5. ale ze zdania H (hipoteza) i zdań W łącznie zdanie Z wynika
+
+*Proces wyjaśniania za pomocą hipotezy:*
+Z (stwierdzony fakt) ← H (hipoteza) + W (wiedza)
+
+Hipoteza staje się coraz bardziej prawdopodobna, gdy:
+1. znajdujemy jej wiele prawdziwych następstw
+2. następstwa te są maksymalnie zróżnicowane
+3. znalezione następstwa były wcześniej mało prawdopodobne (ich potwierdzenie znacznie zwiększa prawdopodobieństwo hipotezy)
+
+Hipoteza zostaje obalone, gdy:
+- znajdujemy choćby jedno fałszywe jej następstwo
+
+Warunki dla dobrej hipotezy:
+- nie powinna być hipotezą ad hoc (formułowaną tylko dla konkretnego problemu, bez zastosowania poza nim)
+- powinna wyjaśniać fakty ogólnie, nie tylko jeden szczególny przypadek
+- przykład złej hipotezy ad hoc: „Opium usypia, bo opium ma moc usypiającą" (nic nie wyjaśnia, tylko powtarza fakt)
+
+Doświadczenie rozstrzygające:
+- gdy konkurencyjne hipotezy nie mogą być obalone na podstawie znanych faktów, organizuje się specjalny eksperyment
+- przykład: hipoteza samorództwa much vs. hipoteza, że larwy pochodzą z jajeczek. Thor Heyerdahl umieścił gnijące mięso w sitkowej osłonie i wykazał brak larw, gdy muchy nie mogły złożyć jajeczek
+  - doświadczenie rozstrzygnęło na korzyść drugiej hipotezy

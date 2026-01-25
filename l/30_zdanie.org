@@ -1,4 +1,6 @@
 ** Zdanie
+*Rozdział w podręczniku:* 6
+
 - Zdanie to wyrażenie stwierdzające, że jest tak a tak. Problem jednoznaczności
   wypowiedzi.
 - Przykłady wyrażeń niebędących zdaniami w sensie logicznym, ale będących zdaniami w sensie gramatycznym: /Zapal światło. W razie niebezpieczeństwa zbij szybę./

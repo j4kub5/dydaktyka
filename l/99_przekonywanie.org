@@ -1,4 +1,6 @@
 ** Umiejętność przekonywania
+*Rozdział w podręczniku:* 18
+
  - agrumentowanie to czynność polegającu na wywołaniu adresata wypowiedzi określonego przeświadczenia
  - nie zawsze argument musi być rozsądny \rarr wszystko zależy od adresata
  - zarzuty w dyskusji:
@@ -10,3 +12,78 @@
    - argumentum ad vanitatem
    - argumentum ad misericordiam
  - problem argumentu z autorytetu
+
+*** Definicja i istota argumentowania
+
+Argumentowanie to działanie mające na celu wywołanie u kogoś określonych przekonań, ocen lub postaw. Nie jest to samo co dowodzenie:
+- *Dowodzenie:* nie zależy od odbiorcy — pokazuje, że teza wynika logicznie ze zdań uznawanych za prawdziwe
+- *Argumentowanie:* zawsze skierowane do konkretnego odbiorcy — wymaga uwzględnienia jego cech psychologicznych, społecznych i kulturowych
+
+Skuteczność argumentacji zależy od odbiorcy. Osobę rozsądną przekonujesz solidnym rozumowaniem logicznym. Osobę nierozsądną można czasem przekonać argumentami całkowicie bezwartościowymi z punktu widzenia logiki.
+
+*** Spory o twierdzenia vs. spory o oceny
+Uczciwa dyskusja wymaga rozróżnienia:
+- *Spory o twierdzenia* (przekonania) — dotyczą tego, co jest prawdziwe
+- *Spory o oceny* — dotyczą sposobów wartościowania zjawisk i norm
+
+*** Dyskusja rzeczowa
+*Dyskusja rzeczowa* to zbiorowa, uporządkowana i wzajemna wymiana myśli w celu wspólnego znalezienia odpowiedzi na pytanie.
+
+Cechy dyskusji rzeczowej:
+- Wymiana wzajemna (nie monolog)
+- Uporządkowana (nie chaos)
+- Celem jest odkrycie prawdy lub wspólne obmyślenie rozwiązania
+- Równouprawnienie uczestników
+- Obowiązek argumentacji (dogmatyzm jest niedopuszczalny)
+- Liczy się tylko siła argumentów, nie pozycja społeczna
+
+Rodzaje: dyskusja teoretyczna (odkrycie prawdy) vs. dyskusja praktyczna (wspólne obmyślenie środków do celu)
+
+Nie jest dyskusją rzeczową:
+- Zebrania bez wzajemnej wymiany (jeden mówi, reszta słucha)
+- Zebrania „budujące" — gdzie wszyscy mają z góry ustalony pogląd
+- Spotkania towarzyskie poświęcone wymianie opinii bez celu poznania prawdy
+
+*** Zarzuty w dyskusji
+
+*Zarzuty merytoryczne* (materialne):
+- Twierdzenie, że teza przeciwnika jest błędna
+- Wskazanie błędnych przesłanek we wnioskowaniu
+- Wykazywanie fałszywości przez sprowadzenie do niedorzeczności
+
+*Zarzuty formalne*:
+- Wykazywanie, że teza nie wynika logicznie z przesłanek (błąd formalny)
+- Inne błędy w rozumowaniu (np. petitio principii)
+
+*** Nielojalne fortele erystyczne
+
+*Przekręcanie tezy*:
+- Interpretowanie wypowiedzi w sposób najłatwiejszy do zaatakowania
+- Wyrywanie zdań z kontekstu
+
+*Argumentum ad personam* (atak na osobę):
+- Twierdzenie, że skoro przeciwnik jest głupi lub podły, jego argumenty są fałszywe
+- Niedopuszczalne między ludźmi kulturalnymi
+- Zasada: suaviter in modo, fortiter in re (delikatnie co do formy, mocno co do treści)
+
+*Argumentum ad populum* (odwołanie do ludu):
+- Używanie argumentów nierzeczowych, ale budzących emocje słuchaczy
+- Celowe odwracanie uwagi od spraw istotnych
+- Typowe dla demagoga, który szuka poparcia tłumu zamiast solidnych argumentów
+
+*Argumentum ad vanitatem* (pochlebstwo):
+- Pochlebianie przeciwnikowi zamiast argumentowania
+- Np. pochlebstwo wobec sędziego lub profesora, który ma ocenić uczestnika dyskusji
+
+*Argumentum ad misericordiam* (odwołanie do litości):
+- Używanie przesadnie emocjonalnych apeli zamiast argumentacji
+- Częste w obronie sądowej
+
+*Argumentum ad ignorantiam* (wykorzystanie niewiedzy):
+- Nielojalnym fortelem może być także argumentum ad hominem
+- Dzieje się tak, gdy ktoś zgadza się z założeniami przeciwnika, by wyciągnąć z nich wnioski sprzeczne z jego myślą, wiedząc jednocześnie, że te założenia są błędne — liczy na niewiedzę drugiej strony
+
+*Zasłanianie się autorytetami* (argumentum ad verecundiam):
+- Powoływanie się na autorytety bez merytorycznego uzasadnienia
+- Nielojalnie, gdy przeciwnik nie uznaje danego autorytetu
+- Szczególnie nielojalnie, gdy autorytet ma władzę nad uczestnikiem dyskusji

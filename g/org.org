@@ -13,6 +13,14 @@ Gdzie znajdę ten materiał: https://github.com/j4kub5/dydaktyka
 - jest to jedynie uzupełnienie zajęć i literatury
 - dokument może być aktualizowany - pamiętaj, aby sprawdzić najnowszą wersję
 
+Jak najłatwiej mieć zawsze aktualną wersję?
+#+begin_src shell
+  git clone https://github.com/j4kub5/dydaktyka.git
+  # a potem aktualizacja poprzez
+  cd dydaktyka
+  git pull
+#+end_src
+
 ** Dostępność
 - zgłaszanie szczególnych potrzeb
 - wparcie dostępności

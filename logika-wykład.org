@@ -66,8 +66,8 @@ SCHEDULED: <2026-01-18 Sun>
 SCHEDULED: <2026-01-25 Sun>
 #+include: l/90_myslenie_zadaniami.org
 #+include: l/94_prawdopodobienstwo.org
-#+include: l/96_implikatura.org
 #+include: l/99_przekonywanie.org
+#+include: l/96_implikatura.org
 
 * Egzaminy
 |                    | termin             | miejsce             |

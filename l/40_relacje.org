@@ -1,5 +1,7 @@
 ** Relacje (stosunki) pomiędzy przedmiotami
-*** Wstęp
+*Rozdział w podręczniku:* 8
+
+** Wstęp
 + zapis /xRy/; x to poprzednik, y to następnik (kolejność ma znaczenie)
 + x R_1 y - Adam jest wyższy od Piotra
 + y R_2 x - Piotr jest niższy od Adama

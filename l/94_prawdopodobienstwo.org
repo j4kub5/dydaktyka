@@ -1,10 +1,59 @@
 ** Prawdopodobieństwo
-- zagadka Monty Hall
-- prawdopodobieństwo a ryzyko
-- *Prawdopodobieństwo* ma różne znaczenia:
-  - psychologiczne — siła przekonania o pewności danego zdania
-  - logiczne (metodologiczne) — istnieją podstawy statystyczne (lub wynikające z innych metod) do uznania zdania za prawdziwe
+*Rozdział w podręczniku:* 17
 
-Przed i po:
-- *prawodpodobieństwo aprioryczne*
-- *prawodpodobieństwo aposterioryczne*
+*** Sposoby pojmowania prawdopodobieństwa
+
+**** Prawdopodobieństwo w sensie psychologicznym
+- Siła przekonania, z jaką określona osoba uznaje określone zdanie
+- *Subiektywne* — zależy od konkretnej osoby i jej stopnia pewności
+- Wyrażane w języku: "całkowita pewność" (musi być tak...), "wątpliwość" (być może...)
+- Nie sposób ustalić miary liczbowej
+- Dla rozsądnego człowieka subiektywny stopień pewności łączy się z jakością uzasadnienia stwierdzenia
+
+**** Prawdopodobieństwo w sensie logicznym (metodologicznym)
+- Jakie są podstawy do uznania zdania za prawdziwe ze względu na inne zdania
+- *Obiektywna zasadność* uznania jednego zdania ze względu na inne
+- Zawsze *zrelatywizowane do określonego zbioru zdań* uznanych za prawdziwe (wiedza W)
+- Nie jest wartością logiczną zdania — zdanie jest logicznie prawdziwe lub fałszywe niezależnie od jego prawdopodobieństwa logicznego
+
+*Ważne*: Zmiana wiedzy (W) zmienia ustalone prawdopodobieństwo logiczne zdania
+
+*** Prawdopodobieństwo aprioryczne (klasyczne)
+
+**** Charakterystyka
+- Określanie miary opiera się na *a priori założeniach* o strukturze zbioru zdarzeń
+- Historycznie wiąże się z grami (rzuty kostką, karty)
+- Założenie idealizujące: równe szanse dla każdego możliwego wyniku
+
+**** Wzór
+P(Z) = n/m
+
+gdzie:
+- m = liczba wszystkich równie możliwych przyszłych zdarzeń
+- n = liczba przypadków, w których realizuje się zdarzenie Z
+
+**** Przykład
+
+**Rzut kostką:**
+- Prawdopodobieństwo wyrzucenia określonej liczby: 1/6
+- Prawdopodobieństwo liczby parzystej: 3/6 = 1/2
+- Prawdopodobieństwo wyrzucenia 7 oczek: 0/6 = 0
+
+*** Prawdopodobieństwo aposterioryczne (częstościowe)
+
+**** Charakterystyka
+- Opiera się na *wynikach badań empirycznych* nad rzeczywistym występowaniem zdarzeń
+- Określane "a posteriori" — po doświadczeniu
+- Bazuje na założeniu, że czynniki wpływające na zdarzenia w przeszłości będą podobnie działać w przyszłości
+
+**** Przykład
+- Problem: jakie jest prawdopodobieństwo wystawienia faktury z błędem? (nie możemy zbadać wszystkich faktur)
+- Rozwiązanie: badamy dostatecznie dużą próbę faktur pod kątem błędów (ale trzeba dobrze dobrać próbę)
+- Wynik: przy dostatecznie wielu pomiarach prawdopodieńtwo z próbki jest zbliżone do prawdopodobieństwa w całej populacji (ale, jeśli coś się zmieni, to nasz wynik może przestać być prawidłowy)
+
+*** Relacja między prawdopodobieństwem a ryzykiem
+
+- *Prawdopodobieństwo psychologiczne* zależy również od skłonności osoby do ryzyka:
+  - Jedni skłonni ryzykować dla możliwości wygranej
+  - Inni przede wszystkim boją się przegranej
+- Ryzyko uwzględnia zarówno możliwość zdarzenia jak i jego znaczenie dla decydenta

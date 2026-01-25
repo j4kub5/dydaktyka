@@ -12,6 +12,3 @@ W nawiasach oznaczono alternatywne symbole.
 - Równoważność: p \equiv q (p \harr  q)
 - Konieczność: \(\Box{}p\)
 - Możliwość: \(\diamond{}p\)
- 	◻
--
-\plus

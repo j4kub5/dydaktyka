@@ -1,4 +1,6 @@
 ** Funktory prawdziwościowe
+*Rozdział w podręczniku:* 7
+
 *** Wartości logiczne funktorów prawdziwościowych
 
 | p | q | \sim{}p | p\vee{}q | p\cdot{}q | p\sup{}q | p\perp{}q | p\equiv{}q | p\downarrow{}q | p/q |

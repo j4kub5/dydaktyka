@@ -1,4 +1,6 @@
 ** Wypowiedzi oceniające i normy
+*Rozdział w podręczniku:* 9
+
 - Wypowiedź oceniająca.
 - Oceny
   - zasadnicze:

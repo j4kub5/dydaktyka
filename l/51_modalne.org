@@ -1,5 +1,7 @@
 ** Wypowiedzi modalne
-*** Wzajemna definiowalność
+*Rozdział w podręczniku:* 10
+
+** Wzajemna definiowalność
 /musi robić to znaczy, że nie może nie robić ; może robić to znaczy, że nie musi nie robić/
 
 *** Interpretacje słów „musi” i „może”

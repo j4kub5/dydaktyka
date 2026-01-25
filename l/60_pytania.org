@@ -1,5 +1,7 @@
 * Pytania
-** Wiadomości ogólne
+*Rozdział w podręczniku:* 11
+
+* Wiadomości ogólne
 *Pytanie* jest rodzajem wypowiedzi, której zasadniczym zadaniem jest uzyskanie informacji od adresata pytania[fn:: Inny cel może przyświecać pytaniom retorycznym mającym wywołać w adresacie tych wypowiedzi określony stan bez oczekiwania na odpowiedź. Pytania mogą być również stawiane w celu sprawdzenia wiedzy ich adresata (w kontekście dydaktycznym).].
 
 *Założeniem pytania* nazywamy zdania, które uznajemy za prawdziwe zadając dane pytanie. Przykładowo, pytanie „O której wychodzimy do kina?” przyjmuje założenie, że wychodzimy do kina (założenie pozytywne) oraz, że są takie godziny o których nie wychodzimy do kina (założenie negatywne).

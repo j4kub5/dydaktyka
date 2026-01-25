@@ -1,4 +1,6 @@
 ** Implikatura
+*Źródło:* Skrypt T. Bekrychta.
+
 - *Piotr*: Czy wszystko w porzadku? *Katarzyna*: Tak, po prostu się odczep ode mnie ty nieczuły filistynie. Wniosek: Wszystko jest OK, Piotr może otworzyć piwo i oglądać mecz; status Katarzyny jest bardzo dobry.
 - *Piotr*: Znalazłem super wycieczkę, idę do szefa po urlop i jedziemy z Kasią na Maltę. *Wojciech*: Pojedziecie to wy na księżyc. Jaki wniosek powinien wyciągnąć Piotr?
 

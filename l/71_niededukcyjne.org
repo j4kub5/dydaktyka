@@ -1,5 +1,6 @@
-** Wnioskowania niededukcyjne
-Z. Ziembiński, rozdział XV.
+** Wnioskowania niededukcyjne (uprawdopodabniające, zawodne)
+*Rozdział w podręczniku:* 15
+
 
 *** Redukcja
 Forma:

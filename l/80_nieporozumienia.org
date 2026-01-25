@@ -1,5 +1,5 @@
 ** Nieporozumienia
-Ziembiński: Rozdział 12
+*Rozdział w podręczniku:* 12
 
 *** Wieloznaczność słów
 Słowa są wieloznaczne, ale… przecież mamy kontekst.
