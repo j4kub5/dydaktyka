@@ -18,7 +18,7 @@
 
 *Ważne*: Zmiana wiedzy (W) zmienia ustalone prawdopodobieństwo logiczne zdania
 
-*** Prawdopodobieństwo aprioryczne (klasyczne)
+*** Prawdopodobieństwo aprioryczne
 
 **** Charakterystyka
 - Określanie miary opiera się na *a priori założeniach* o strukturze zbioru zdarzeń
@@ -39,7 +39,7 @@ gdzie:
 - Prawdopodobieństwo liczby parzystej: 3/6 = 1/2
 - Prawdopodobieństwo wyrzucenia 7 oczek: 0/6 = 0
 
-*** Prawdopodobieństwo aposterioryczne (częstościowe)
+*** Prawdopodobieństwo aposterioryczne
 
 **** Charakterystyka
 - Opiera się na *wynikach badań empirycznych* nad rzeczywistym występowaniem zdarzeń

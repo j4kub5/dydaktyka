@@ -75,5 +75,22 @@ SCHEDULED: <2026-01-25 Sun>
 | Egzamin            | 🕑14:00 2026-02-01 | Aula 2.62 (zielona) |
 | Egzamin poprawkowy | 🕑14:00 2026-02-22 | Aula 3.63           |
 
+** Przebieg egzaminu
+- zajęcie miejsc
+- ewentualne ostatnie pytania
+- [cisza] uzupełnienie testu [/cisza]
+- przekazanie wyników
+- dodatkowe zaliczenie ustne dla osób (tylko wyniki negatywne oraz osoby, które nie podeszły do testu)
+
+| Ocena | Wymagany procent | Przedział punktowy |
+|-------+------------------+--------------------|
+|   2.0 | < 55%            | 0 – 10             |
+|   3.0 | >= 55%           | 11 – 12            |
+|   3.5 | >= 65%           | 13 – 14            |
+|   4.0 | >= 75%           | 15 – 16            |
+|   4.5 | >= 85%           | 17 – 18            |
+|   5.0 | >= 95%           | 19 – 20            |
+
+
 * ŚCIĄGA: Symbole logiczne
 #+include: l/05_symbole.org

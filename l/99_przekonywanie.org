@@ -1,7 +1,7 @@
 ** Umiejętność przekonywania
 *Rozdział w podręczniku:* 18
 
- - agrumentowanie to czynność polegającu na wywołaniu adresata wypowiedzi określonego przeświadczenia
+ - agrumentowanie to czynność polegująca na wywołaniu adresata wypowiedzi określonego przeświadczenia
  - nie zawsze argument musi być rozsądny \rarr wszystko zależy od adresata
  - zarzuty w dyskusji:
    - merytoryczne, materialne
@@ -64,7 +64,6 @@ Nie jest dyskusją rzeczową:
 *Argumentum ad personam* (atak na osobę):
 - Twierdzenie, że skoro przeciwnik jest głupi lub podły, jego argumenty są fałszywe
 - Niedopuszczalne między ludźmi kulturalnymi
-- Zasada: suaviter in modo, fortiter in re (delikatnie co do formy, mocno co do treści)
 
 *Argumentum ad populum* (odwołanie do ludu):
 - Używanie argumentów nierzeczowych, ale budzących emocje słuchaczy
