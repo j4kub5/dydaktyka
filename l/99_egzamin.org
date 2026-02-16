@@ -1,0 +1,40 @@
+|                    | termin             | miejsce             |
+|--------------------+--------------------+---------------------|
+| Egzamin            | 🕑14:00 2026-02-01 | Aula 2.62 (zielona) |
+| Egzamin poprawkowy | 🕑9:30 2026-02-20  | Sala 006            |
+
+** Przebieg egzaminu
+- zajęcie miejsc
+- ewentualne ostatnie pytania
+- [cisza] uzupełnienie testu [/cisza]
+- przekazanie wyników
+- dodatkowe zaliczenie ustne dla osób (tylko wyniki negatywne oraz osoby, które nie podeszły do testu)
+
+** Przeliczenie skali na punkty
+#+BEGIN_SRC elisp :results silent :exports none
+  (defun grading-table (max)
+    (let ((top max)
+          (rows '()))
+      (push '("Ocena" "Próg" "Punkty") rows)
+      (push 'hline rows)
+      (dolist (rule '(
+                    (0.95 . "5.0")
+                    (0.85 . "4.5")
+                    (0.75 . "4.0")
+                    (0.65 . "3.5")
+                    (0.55 . "3.0")
+                    ))
+        (let ((min (ceiling (* max (car rule)))))
+          (push (list (cdr rule)
+                      (format ">= %d%%" (* 100 (car rule)))
+                      (format "%d - %d" min top))
+                rows)
+          (setq top (1- min))))
+
+      (push (list "2.0" "< 55%" (format "0 - %d" top)) rows)
+      (nreverse rows)))
+#+END_SRC
+
+#+BEGIN_SRC elisp :var punkty=20 :exports results
+(grading-table punkty)
+#+END_SRC

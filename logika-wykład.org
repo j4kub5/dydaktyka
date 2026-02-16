@@ -66,31 +66,11 @@ SCHEDULED: <2026-01-18 Sun>
 SCHEDULED: <2026-01-25 Sun>
 #+include: l/90_myslenie_zadaniami.org
 #+include: l/94_prawdopodobienstwo.org
-#+include: l/99_przekonywanie.org
+#+include: l/95_przekonywanie.org
 #+include: l/96_implikatura.org
 
-* Egzaminy
-|                    | termin             | miejsce             |
-|--------------------+--------------------+---------------------|
-| Egzamin            | 🕑14:00 2026-02-01 | Aula 2.62 (zielona) |
-| Egzamin poprawkowy | 🕑14:00 2026-02-22 | Aula 3.63           |
-
-** Przebieg egzaminu
-- zajęcie miejsc
-- ewentualne ostatnie pytania
-- [cisza] uzupełnienie testu [/cisza]
-- przekazanie wyników
-- dodatkowe zaliczenie ustne dla osób (tylko wyniki negatywne oraz osoby, które nie podeszły do testu)
-
-| Ocena | Wymagany procent | Przedział punktowy |
-|-------+------------------+--------------------|
-|   2.0 | < 55%            | 0 – 10             |
-|   3.0 | >= 55%           | 11 – 12            |
-|   3.5 | >= 65%           | 13 – 14            |
-|   4.0 | >= 75%           | 15 – 16            |
-|   4.5 | >= 85%           | 17 – 18            |
-|   5.0 | >= 95%           | 19 – 20            |
-
+* Egzamin
+#+include: l/99_egzamin.org
 
 * ŚCIĄGA: Symbole logiczne
 #+include: l/05_symbole.org
