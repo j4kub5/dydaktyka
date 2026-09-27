@@ -1,0 +1,105 @@
+{
+    "title": "Logika Praktyczna - quiz 1",
+    "questions": [
+        {
+            "question": "Czym jest nazwa w ujęciu logicznym?",
+            "correct": 2,
+            "answers": [
+                "Tylko rzeczownik w zdaniu",
+                "Każdy wyraz występujący w tekście",
+                "Wyraz lub wyrażenie nadające się na podmiot lub orzecznik",
+                "Tylko imię własne"
+            ]
+        },
+        {
+            "question": "W zdaniu \"Sędzia głęboko śpi\" słowo \"głęboko\" to",
+            "correct": 3,
+            "answers": [
+                "nazwa indywidualno-generalna",
+                "funktor zdaniotwórczy od jednego argumentu nazwowego",
+                "funktor zdaniotwórczy od jednego argumentu funktorowego",
+                "funktor funktorotwórczy od jednego argumentu funktorowego"
+            ]
+        },
+        {
+            "question": "Co to jest desygnat nazwy?",
+            "correct": 1,
+            "answers": [
+                "Znaczenie nazwy w danym języku",
+                "Przedmiot, którego dana nazwa jest znakiem",
+                "Treść konstytutywna nazwy",
+                "Zakres nazwy w supozycji prostej"
+            ]
+        },
+        {
+            "question": "Zakresy której z par nazw są w stosunku niezależności?",
+            "correct": 0,
+            "answers": [
+                "Student - lekarz",
+                "Wróbel - ptak",
+                "Nos - pięść",
+                "Rzeka - most"
+            ]
+        },
+        {
+            "question": "Nazwa abstrakcyjna...",
+            "correct": 3,
+            "answers": [
+                "Jest znakiem tylko rzeczy materialnych",
+                "Oznacza wyłącznie osoby",
+                "Zawsze składa się z więcej niż jednego wyrazu",
+                "Nie jest znakiem rzeczy ani osób"
+            ]
+        },
+        {
+            "question": "Co to jest treść nazwy generalnej?",
+            "correct": 2,
+            "answers": [
+                "Zbiór wszystkich desygnatów nazwy",
+                "Zespół wszystkich cech desygnatów ten nazwy",
+                "Zespół cech wyróżniających desygnaty od nie-desygnatów",
+                "Definicja słownikowa nazwy"
+            ]
+        },
+        {
+            "question": "Czym różni się definicja realna od definicji nominalnej?",
+            "correct": 1,
+            "answers": [
+                "Definicja realna jest krótsza",
+                "Definicja realna to zdanie o przedmiotach, nominalna o znaczeniu słowa",
+                "Definicja realna dotyczy tylko nazw konkretnych",
+                "Definicja nominalna dotyczy tylko nazw konkretnych"
+            ]
+        },
+        {
+            "question": "Co to jest definicja sprawozdawcza?",
+            "correct": 2,
+            "answers": [
+                "Definicja projektująca nowe znaczenie",
+                "Definicja przez postulaty",
+                "Definicja wskazująca, jakie znaczenie ma wyraz w pewnym języku",
+                "Definicja zawsze klasyczna"
+            ]
+        },
+        {
+            "question": "Co to jest nazwa w supozycji prostej?",
+            "correct": 0,
+            "answers": [
+                "Nazwa użyta jako znak dla poszczególnego desygnatu",
+                "Nazwa użyta jako znak dla całego gatunku",
+                "Nazwa użyta jako znak dla samej siebie",
+                "Nazwa abstrakcyjna"
+            ]
+        },
+        {
+            "question": "Co to jest klasa uniwersalna przedmiotów (uniwersum)?",
+            "correct": 2,
+            "answers": [
+                "Klasa wszystkich nazw w języku",
+                "Klasa wszystkich desygnatów jednej nazwy",
+                "Klasa obejmująca wszystkie przedmioty",
+                "Klasa wszystkich przedmiotów abstrakcyjnych"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+** Funktory prawdziwościowe
+*Rozdział w podręczniku:* 7
+
+*** Wartości logiczne funktorów prawdziwościowych
+
+| p | q | \sim{}p | p\vee{}q | p\cdot{}q | p\sup{}q | p\perp{}q | p\equiv{}q | p\downarrow{}q | p/q |
+|---+---+----+-----+-----+-----+------+-----+-----+-----|
+| 0 | 0 |  1 |   0 |   0 |   1 |    0 |   1 |   1 |   1 |
+| 0 | 1 |  1 |   1 |   0 |   1 |    1 |   0 |   0 |   1 |
+| 1 | 0 |  0 |   1 |   0 |   0 |    1 |   0 |   0 |   1 |
+| 1 | 1 |  0 |   1 |   1 |   1 |    0 |   1 |   0 |   0 |
+
+*** Funktory prawdziwościowe w przykładach
+**** Negacja
+
+Nieprawda, że na trawniku leży śnieg.
+
+| p | \sim{}p |
+|---+----|
+| 0 |  1 |
+| 1 |  0 |
+
+**** Alternatywa nierozłączna
+
+Na trawniku leży śnieg lub jest lato.
+
+| p | q | p \vee q |
+|---+---+-------|
+| 1 | 0 |     1 |
+| 0 | 1 |     1 |
+| 1 | 1 |     1 |
+| 0 | 0 |     0 |
+
+**** Koniunkcja
+
+Pada deszcz i ulica jest mokra.
+
+| p | q | p \cdot q |
+|---+---+-------|
+| 1 | 1 |     1 |
+| 0 | 0 |     0 |
+| 1 | 0 |     0 |
+| 0 | 1 |     0 |
+
+**** Alternatywa rozłączna
+
+1. Pójdziemy na lody albo pójdziemy do kina.
+2. Przestępstwo jest zbrodnią *albo* występkiem. (art. 7 § 1 k.k.)
+3. Czyn zabroniony popełniony jest nieumyślnie, jeżeli sprawca nie mając zamiaru jego popełnienia, popełnia go jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość popełnienia tego czynu *przewidywał albo mógł przewidzieć*. (art. 9 § 2 k.k.) -- zastanów się, czy w tym przykładzie słowo albo jest alternatywą rozłączną.
+
+| p | q | p \perp q |
+|---+---+-------|
+| 0 | 0 |     0 |
+| 0 | 1 |     1 |
+| 1 | 0 |     1 |
+| 1 | 1 |     0 |
+
+**** Implikacja
+- Jeżeli pada deszcz to ulica jest mokra.
+- Jeżeli (Zakopane jest stolicą Polski) to (Arystoteles był pierwszym człowiekiem na księżycu).
+
+| p | q | p \sup q |
+|---+---+-------|
+| 1 | 1 |     1 |
+| 0 | 0 |     1 |
+| 1 | 0 |     0 |
+| 0 | 1 |     1 |
+
+**** Równoważność
+
+Wtedy i tylko wtedy gdy pada deszcz to ulica jest mokra.
+
+| p | q | p\equiv{}q |
+|---+---+-----|
+| 1 | 1 |   1 |
+| 0 | 0 |   1 |
+| 1 | 0 |   0 |
+| 0 | 1 |   0 |
+
+**** Binegacja
+
+Ani nie pada deszcz ani nie pochodzę z Marsa.
+
+| p | q | p\downarrow{}q |
+|---+---+-----|
+| 0 | 0 |   1 |
+| 1 | 0 |   0 |
+| 0 | 1 |   0 |
+| 1 | 1 |   0 |
+
+**** Dysjunkcja
+
+Nieprawda, że Poznań jest stolicą polski i księżyc jest satelitą Ziemi.
+
+| p | q | p/q |
+|---+---+-----|
+| 0 | 0 |   1 |
+| 1 | 0 |   1 |
+| 0 | 1 |   1 |
+| 1 | 1 |   0 |
+
+*** Klasyczny rachunek zdań
+- ekstensjonalność — wartość logiczna zdania złożonego za pomocą funktorów KRZ zależy wyłącznie od wartości logicznej zdań składowych
+- dwuwartościowość — występują dwie wartości logiczne, prawda (1) i fałsz (0)
+
+*** Podstawowe zasady myślenia
+
+- /T1: \sim (p \cdot \sim{}p)/ : zasada sprzeczności
+- /T2: p \vee \sim{}p/ : zasada wyłączonego środka
+- /T3: p \equiv \sim ( \sim p )/ : zasada podwójnego zaprzeczenia
+
+Co to jest tautologia, kontrtautologia?
+
+*** Definicja implikacji przy pomocy alternatywy i negacji
+p \sup q \equiv (\sim p) \vee q
+
+*** Definicja implikacji przy pomocy koniunkcji i negacji
+p \sup q \equiv \sim ( p \cdot \sim q )
+
+*** Zadanie
+
+Czy te zdania są prawdziwe?
+
+ - Jeżeli Ateny są stolicą Polski to Uniwersytet Łódzki ma siedzibę w Berlinie.
+ - Jeżeli Ateny są stolicą Polski to Robert Lewandowski jest piłkarzem.
+ - Jeżeli Ateny są stolicą Polski to mam w kieszeni chusteczkę.
+ - Jeżeli Warszawa jest stolicą Polski to Księżyc jest zrobiony z sera.
+ - Jeżeli Warszawa jest stolicą Polski to Albert Einstein opracował teorię względności.
+ - Nieprawda że (Warszawa jest stolicą Polski i nieprawda Einstein opracował teorię względności).
+ - (Nieprawda że, Warszawa jest stolicą Polski) lub Einstein opracował teorię względności.
+ - Ani Ateny są stolicą Polski ani UŁ ma siedzibę w Berlinie.
+
+*** Bezprawne samouwolnienie
+Art. 242. § 1. Kto uwalnia się sam, będąc pozbawionym wolności na podstawie orzeczenia sądu lub prawnego nakazu wydanego przez inny organ państwowy, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. […] § 4. Jeżeli sprawca czynu określonego w § 1
+
+- działa w porozumieniu z innymi osobami,
+- używa przemocy lub
+- grozi jej użyciem
+- *albo* uszkadza miejsce zamknięcia,
+
+  podlega karze pozbawienia wolności do lat 3.
+
+*** Gry oparte na KRZ
+- Turing Complete
+- https://nandgame.com/

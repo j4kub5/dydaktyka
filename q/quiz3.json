@@ -1,0 +1,105 @@
+{
+    "title": "Logika: podział logiczny, zdanie, funktory prawdziwościowe",
+    "questions": [
+        {
+            "question": "Zdanie w sensie logicznym to:",
+            "correct": 2,
+            "answers": [
+                "Każde zdanie oznajmujące w sensie gramatycznym",
+                "Tylko zdanie pytające lub rozkazujące",
+                "Wyrażenie jednoznacznie stwierdzające, że tak a tak jest albo że tak a tak nie jest",
+                "Każda wypowiedź składająca się z podmiotu i orzeczenia"
+            ]
+        },
+        {
+            "question": "Które z poniższych NIE jest zdaniem w sensie logicznym?",
+            "correct": 1,
+            "answers": [
+                "W grudniu 1993 r. zapytałem Piotra, czy lubi logikę",
+                "Czy Piotr lubi logikę?",
+                "2 + 2 = 4",
+                "Istnieją czworoboczne trójkąty."
+            ]
+        },
+        {
+            "question": "\"Warszawa jest stolicą polski\" to zdanie:",
+            "correct": 3,
+            "answers": [
+                "ekspresjonistyczne",
+                "analityczne",
+                "naturalne",
+                "syntetyczne"
+            ]
+        },
+        {
+            "question": "Zasada sprzeczności głosi, że:",
+            "correct": 3,
+            "answers": [
+                "Każde zdanie jest albo prawdziwe, albo fałszywe",
+                "Negacja negacji zdania ma tę samą wartość logiczną co zdanie pierwotne",
+                "Z dwóch zdań sprzecznych jedno jest prawdziwe, a drugie fałszywe",
+                "Dwa zdania względem siebie sprzeczne nie mogą być oba prawdziwe"
+            ]
+        },
+        {
+            "question": "Funktor koniunkcji (p·q) jest prawdziwy wtedy i tylko wtedy, gdy:",
+            "correct": 1,
+            "answers": [
+                "Przynajmniej jedno ze zdań składowych jest prawdziwe",
+                "Oba zdania składowe są prawdziwe",
+                "Jedno zdanie składowe jest prawdziwe, a drugie fałszywe",
+                "Oba zdania składowe są fałszywe"
+            ]
+        },
+        {
+            "question": "Funktor alternatywy nierozłącznej (p∨q) jest fałszywy wtedy i tylko wtedy, gdy:",
+            "correct": 2,
+            "answers": [
+                "Jedno ze zdań składowych jest fałszywe",
+                "Oba zdania składowe są prawdziwe",
+                "Oba zdania składowe są fałszywe",
+                "Przynajmniej jedno zdanie składowe jest prawdziwe"
+            ]
+        },
+        {
+            "question": "Poprawny podział logiczny musi być:",
+            "correct": 0,
+            "answers": [
+                "Wyczerpujący i rozłączny",
+                "Tylko wyczerpujący",
+                "Tylko rozłączny",
+                "Naturalny i wielostopniowy"
+            ]
+        },
+        {
+            "question": "Podział dychotomiczny to podział:",
+            "correct": 3,
+            "answers": [
+                "Na trzy lub więcej członów",
+                "Według wielu różnych zasad jednocześnie",
+                "Wielostopniowy zakresu nazwy",
+                "Dwudzielny według cech kontradyktorycznych (sprzecznych)"
+            ]
+        },
+        {
+            "question": "Klasyfikacja to:",
+            "correct": 1,
+            "answers": [
+                "Pojedynczy podział logiczny zakresu nazwy",
+                "Wielostopniowy podział logiczny z dalszym podziałem otrzymanych członów",
+                "Wyróżnianie typów przedmiotów",
+                "Podział według cech kontradyktorycznych"
+            ]
+        },
+        {
+            "question": "Implikacja materialna (p→q) jest fałszywa tylko wtedy, gdy:",
+            "correct": 2,
+            "answers": [
+                "Poprzednik jest fałszywy, a następnik prawdziwy",
+                "Oba zdania składowe są fałszywe",
+                "Poprzednik jest prawdziwy, a następnik fałszywy",
+                "Oba zdania składowe są prawdziwe"
+            ]
+        }
+    ]
+}

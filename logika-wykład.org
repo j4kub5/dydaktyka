@@ -1,0 +1,76 @@
+#+title: Logika
+#+subtitle:Notatka pomocnicza do wykładu
+#+AUTHOR: Jakub J. Szczerbowski
+:EXPORT_OPTIONS:
+#+OPTIONS: tex:t p:t
+#+LANGUAGE: pl
+#+STARTUP: latexpreview
+#+OPTIONS: H:6
+#+LATEX_HEADER: \setcounter{secnumdepth}{6}
+#+LATEX_HEADER: \setcounter{tocdepth}{6}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \titleformat{\paragraph}[hang]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+#+LATEX_HEADER: \titleformat{\subparagraph}[hang]{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
+#+REVEAL_ACADEMIC_TITLE: dr hab.
+#+OPTIONS: num:t toc:t date:nil timestamp:nil tags:nil
+#+REVEAL_TITLE_SLIDE: <h2>%t</h2><h3>%s</h3><p>dr hab. <b>%a</b>, prof. UŁ</p>
+#+REVEAL_EXTRA_ATTR: style="height: 100%; overflow-y: auto !important"
+:END:
+
+* Wykład 1
+SCHEDULED: <2025-10-19 Sun>
+#+INCLUDE: g/org.org
+#+INCLUDE: l/00_org_w.org
+#+INCLUDE: l/10_wprowadzenie.org
+
+* Wykład 2
+SCHEDULED: <2025-10-26 Sun>
+#+INCLUDE: l/20_nazwy.org
+  
+* Wykład 3
+SCHEDULED: <2025-11-09 Sun>
+#+INCLUDE: l/21_stosunki.org
+#+INCLUDE: l/22_definicje.org
+
+* Wykład 4
+SCHEDULED: <2025-11-16 Sun>
+#+INCLUDE: l/23_podzial.org
+#+INCLUDE: l/30_zdanie.org
+
+* Wykład 5
+SCHEDULED: <2025-11-23 Sun>
+#+INCLUDE: l/31_funktoryp.org
+#+INCLUDE: l/40_relacje.org
+
+* Wykład 6
+SCHEDULED: <2025-12-07 Sun>
+#+INCLUDE: l/50_oceny.org
+#+INCLUDE: l/51_modalne.org
+
+* Wykład 7
+SCHEDULED: <2025-12-14 Sun>
+#+INCLUDE: l/60_pytania.org
+
+* Wykład 8
+SCHEDULED: <2026-01-11 Sun>
+#+include: l/70_uzasadnianie_twierdzen.org
+#+include: l/71_niededukcyjne.org
+#+include: l/75_prawnicze.org
+
+* Wykład 9
+SCHEDULED: <2026-01-18 Sun>
+#+include: l/80_nieporozumienia.org
+#+include: l/85_dedukcja.org
+
+* Wykład 10
+SCHEDULED: <2026-01-25 Sun>
+#+include: l/90_myslenie_zadaniami.org
+#+include: l/94_prawdopodobienstwo.org
+#+include: l/95_przekonywanie.org
+#+include: l/96_implikatura.org
+
+* Egzamin
+#+include: l/99_egzamin.org
+
+* ŚCIĄGA: Symbole logiczne
+#+include: l/05_symbole.org

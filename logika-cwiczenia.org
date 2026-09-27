@@ -1,0 +1,26 @@
+#+title: Logika
+#+subtitle: Notatka pomocnicza do ćwiczeń
+#+AUTHOR: Jakub J. Szczerbowski
+#+OPTIONS: tex:t p:t toc:nil
+#+LANGUAGE: pl
+#+STARTUP: latexpreview
+
+* Zajęcia 1
+SCHEDULED: <2025-10-19 Sun>
+#+INCLUDE: g/org.org
+#+INCLUDE: l/00_org_c.org
+
+* Zajęcia 2
+SCHEDULED: <2025-10-26 Sun>
+* Zajęcia 3
+SCHEDULED: <2025-11-09 Sun>
+* Zajęcia 4
+SCHEDULED: <2025-11-16 Sun>
+* Zajęcia 5
+SCHEDULED: <2025-11-23 Sun>
+* Zajęcia 6
+SCHEDULED: <2025-12-07 Sun>
+* Zajęcia 7
+SCHEDULED: <2025-12-14 Sun>
+* Zajęcia 8
+SCHEDULED: <2026-01-11 Sun>

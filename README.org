@@ -1,0 +1,13 @@
+* PL
+Tu znajdziesz materiały pomocnicze dotyczące mojej dydaktyki.
+
+Prawdopodobnie szukasz plików =.pdf= takich jak:
+- [[file:logika-wykład.pdf]]
+- [[file:logika-cwiczenia.pdf]]
+
+* EN
+Here you will find supporting materials related to my teaching.
+
+You are probably looking for .pdf files such as:
+- [[file:theory_of_law.pdf]]
+- [[file:finTechLaw.pdf]]
