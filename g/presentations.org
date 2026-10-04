@@ -8,9 +8,13 @@
 - Properly cite all sources used in the presentation
 - Include a bibliography or reference slide at the end
 
-** AI Integration
-- Utilize AI tools in the presentation process
-- Document how AI was used (e.g., for research, slide design, content generation)
+*** Where to find literature?
+- [[https://scholar.google.com/][Google Scholar]] :: A search engine indexing scholarly literature from publishers, repositories, universities, and other academic sources; it also provides citation counts and citation links.
+- [[https://www.semanticscholar.org/][Semantic Scholar]] :: An academic search engine using AI-based methods to index, classify, and connect scholarly publications, authors, references, and citations.
+- [[https://heinonline.org/][HeinOnline]] :: A subscription-based database containing full-text legal journals, books, government documents, case-related materials, and historical legal collections.
+- [[https://www.ssrn.com/][SSRN]] :: An online repository for research papers, including working papers, preprints, and published papers, with substantial coverage of law and the social sciences.
+- [[https://asta.allen.ai/][Asta]] :: An AI-based research system that searches academic literature, follows citation links, and generates answers and research syntheses based on retrieved publications.
+- [[https://www.researchrabbit.ai/][ResearchRabbit]] :: A literature-discovery system that uses publications as starting points to construct and visualize networks of related papers, authors, references, and citations.
 
 ** File Sharing and Naming Convention
 - Share presentations on the Teams channel before you present
@@ -21,7 +25,7 @@
 ** Slide Design Guidelines
 - Use a consistent theme and color scheme
 - Limit text on slides (6-7 lines maximum per slide)
-- Include relevant visuals to support key points
+- You may include relevant visuals to support key points
 
 ** Delivery
 - Practice the presentation to ensure proper timing
@@ -30,3 +34,102 @@
 ** Resources
 - "How to Speak" by Patrick Winston: https://youtu.be/Unzc731iCUY?si=L8sySYO3IKsI_WTv
 
+** AI Use
+
+*** Rules for Using AI in Preparing Presentations
+
+You are encouraged to use AI tools extensively when preparing your presentation.
+AI may assist you with
+- research,
+- understanding difficult concepts,
+- finding literature,
+- structuring your presentation,
+- preparing slides,
+- improving language,
+- and practising for the discussion.
+
+However, the following rules apply:
+
+**** You are responsible for everything you present
+If it appears in your presentation, you are responsible for it.
+
+**** Verify facts and sources independently
+AI may invent references, misrepresent sources, or oversimplify academic debates. Never cite a source merely because an AI system has provided it. Check that the source exists and that it actually supports the claim you are making.
+
+**** AI is a tool, not an academic source
+Use AI to help you find, understand, analyse, and discuss academic literature. Your substantive claims should ultimately be grounded in reliable primary or secondary sources rather than in AI-generated answers.
+
+**** You must understand everything in your presentation
+Do not include concepts, arguments, quotations, formulas, cases, or theories that you cannot explain without AI.
+
+**** You are expected to become the expert on your topic
+After your presentation, you will be expected to answer questions from the lecturer and other students without relying on AI. Questions may go beyond the exact content of your slides.
+
+**** Be transparent about your use of AI
+At the end of your presentation, briefly indicate which AI tools you used and what you used them for. A detailed transcript of every prompt is not required.
+
+**** Use AI to challenge yourself, not only to help yourself
+Ask AI to identify weaknesses in your reasoning, produce counterarguments, find counterexamples, question your assumptions, and simulate difficult questions from the audience. See the [[Prompt for practicing presentations]] as an example.
+
+*** Basic principle
+
+/You may use AI for almost anything in preparing your presentation, but you remain
+intellectually and academically responsible for the final result./
+
+*** Prompt for practicing presentations
+
+/(See attachment: PDF or PowerPoint presentation.)/
+
+I have given a presentation on the following topic: *[TOPIC]*.
+
+I want to prepare for a real discussion after the presentation. Conduct a realistic and demanding simulation of questions from the entire room, based on the attached presentation.
+
+Play the roles of different people taking part in the discussion:
+
+- *the lecturer* — asks precise questions that test whether I really understand the topic, and notices oversimplifications and mistakes;
+- *a well-prepared student* — knows the subject and can point out an issue I failed to address;
+- *an inquisitive student* — keeps asking “why?”, “what is this based on?”, and “is this always the case?”;
+- *a sceptical student* — challenges my assumptions and demands justification;
+- *an argumentative student* — holds a different position and tries to convince me that I am wrong;
+- *a student who did not understand something* — asks me to explain it more simply or interprets my statement differently from what I intended;
+- *a practically minded student* — asks about a concrete case, example, or practical consequence;
+- *a student who goes beyond the topic* — sees a connection with another issue and asks an unexpected but reasonable question.
+
+Questions may also concern axiological, social, economic, moral, or political controversies connected with the topic. Participants may hold strong and mutually conflicting views. Do not assume that the position presented in my talk is correct.
+
+**** Rules of the simulation
+
+Ask *one question at a time* and wait for my answer.
+
+Before each question, briefly indicate who is asking it, for example: “Lecturer:”, “Sceptical student:”.
+
+Do not follow a neat or predictable sequence of questions. Simulate a real discussion: move between basic, specialist, practical, argumentative, and unexpected questions.
+
+Do not give me hints before I answer.
+
+React to what I actually say. If my answer opens up a new problem, follow up on it. If I use a concept whose meaning may be unclear, ask me to explain it.
+
+Sometimes challenge a premise of my reasoning. Sometimes provide a counterexample. Sometimes ask for an example. Sometimes ask me to explain the issue in very simple language.
+
+If my position concerns a controversial issue, present a strong counterargument instead of automatically agreeing with me.
+
+Do not manufacture conflict for its own sake. The questions should be intellectually justified and realistic.
+
+**** After each answer
+
+Do not immediately provide a complete model answer. First allow the discussion to continue. If my answer is unclear, incomplete, or vulnerable to criticism, let the next participant exploit that weakness and ask a follow-up question.
+
+Every few questions, pause the simulation and briefly tell me:
+
+- what I am handling well,
+- where a gap in my knowledge has become apparent,
+- which of my answers were imprecise,
+- what I should read or revise before the presentation.
+
+Then continue the discussion.
+
+**** Main objective
+
+Do not test whether I have memorised my presentation. Test whether I have *mastered the topic well enough to defend, explain, modify and — where the arguments require it — correct my own position during an unpredictable discussion*.
+
+Do not go easy on me. I want to discover every weak point in my knowledge before the actual presentation.

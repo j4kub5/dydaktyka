@@ -1,11 +1,11 @@
-#+title: Theory of law - class notes (winter 2025/2026)
+#+title: Theory of law - class notes (winter 2026/2027)
 #+AUTHOR: J. Szczerbowski
 #+OPTIONS: tex:t p:t toc:nil
 #+LANGUAGE: en
 #+STARTUP: latexpreview
 
 * Lecture 1
-SCHEDULED: <2025-10-07 Tue>
+SCHEDULED: <2026-10-05 Mon>
 ** Organizational matters
 1. Form: seminar (pol. /konwersatorium/).
 2. Course credit conditions:
@@ -20,33 +20,47 @@ SCHEDULED: <2025-10-07 Tue>
 
 *** Teams
 Make sure you know how to use MS Teams. MS Teams is available at: https://teams.microsoft.com (instructions: https://support.microsoft.com/en-us/teams).  Access code to our team is:
-   + =wckxmk1=
+   + =3u5zw0b=
 
 *** Attendance
-4. IMPORTANT:
-   * attendance list is available at https://forms.office.com/e/rDKUfQhKgN
-   * always remember to fill in the attendance list
-5. Office hours: https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
-6. This material is available at https://github.com/j4kub5/dydaktyka
+- attendance list is available at https://forms.office.com/e/rDKUfQhKgN
+- *IMPORTANT*: always remember to fill in the attendance list
+
+*** Office hours
+https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
+
+*** Link to this file
+This material is available at https://github.com/j4kub5/dydaktyka
 
 #+include: ./g/survey.org :minlevel 3
 
-*** Presentations (20-25 min.)
+*** Rules for our classes
+- Discussion is allowed (and welcome!), talking outside of discussion is not.
+- Disturbing the class is prohibited.
+- Photographing people and recording sound are prohibited.
+- Violating the above rules may result in receiving a *yellow card*. Every *two subsequent yellow cards result in the grade being lowered* to the next lowest level.
+- Be kind to others.
+- Discussions regarding politics are permissible only as an exception, provided they serve the educational purpose of the class. Otherwise, I kindly ask that political topics not be raised.
+
+**** Special yellow card rule
+Failure to include a yellow card in the activity form will result in the grade being lowered to the next lower grade.
+
+*** Presentations (approx. 30 min. + 10-15 minutes for Q&A)
 #+include: ./g/presentations.org
 
 **** Presentation topics
-1. Approaches to understanding law
-2. Law versus other normative systems
-3. The concept of justice
-4. Situations regulated by law
-5. Law-making
-6. Legal interpretation
-7. Legal system versus legal order
-8. Rules vs standards
-9. Observance of law
-10. Administration of justice
-11. Functions of law
-12. Logic and law
+1. Logic and law
+2. Approaches to understanding law
+3. Law versus other normative systems
+4. The concept of justice
+5. Situations regulated by law
+6. Law-making
+7. Legal interpretation
+8. Legal system versus legal order
+9. Rules vs standards
+10. Observance of law
+11. Administration of justice
+12. Functions of law
 13. Norms of conduct (deontic logic)
 14. Rule of law
 15. Introduction do Law and Economics
@@ -60,30 +74,25 @@ Make sure you know how to use MS Teams. MS Teams is available at: https://teams.
 Literature: N. Qamar, Theory Position in the Structure of Legal Science, SIGn Jurnal Hukum 2021/3/1, DOI: 10.37276/sjh.v3i1.126
 
 * Lecture 2
-SCHEDULED: <2025-10-21 Tue>
 
 * Lecture 3
-SCHEDULED: <2025-10-28 Tue>
 
 * Lecture 4
-SCHEDULED: <2025-11-04 Tue>
 
 * Lecture 5
-SCHEDULED: <2025-11-18 Tue>
+
 * Lecture 6
-SCHEDULED: <2025-11-25 Tue>
 
 * Lecture 7
-SCHEDULED: <2025-12-02 Tue>
 
 * Lecture 8
-SCHEDULED: <2025-12-09 Tue>
 
 * Lecture 9
-SCHEDULED: <2025-12-16 Tue>
 
 * Lecture 10
-SCHEDULED: <2026-01-13 Tue>
 
 * Lecture 11
-SCHEDULED: <2026-01-20 Tue>
+
+* Lecture 12
+
+* Lecture 13

@@ -1,0 +1,68 @@
+name: Notify Teams
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send notification to Teams
+        env:
+          WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+          REPO: ${{ github.repository }}
+          COMMIT_URL: ${{ github.event.head_commit.url }}
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+        run: |
+          jq -n \
+            --arg repo "$REPO" \
+            --arg message "$COMMIT_MESSAGE" \
+            --arg url "$COMMIT_URL" \
+            '{
+              type: "message",
+              attachments: [
+                {
+                  contentType: "application/vnd.microsoft.card.adaptive",
+                  contentUrl: null,
+                  content: {
+                    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                    type: "AdaptiveCard",
+                    version: "1.2",
+                    body: [
+                      {
+                        type: "TextBlock",
+                        size: "Medium",
+                        weight: "Bolder",
+                        text: "📚 Zaktualizowano materiały"
+                      },
+                      {
+                        type: "TextBlock",
+                        wrap: true,
+                        text: ("Repozytorium: **" + $repo + "**")
+                      },
+                      {
+                        type: "TextBlock",
+                        wrap: true,
+                        text: $message
+                      }
+                    ],
+                    actions: [
+                      {
+                        type: "Action.OpenUrl",
+                        title: "Zobacz zmianę",
+                        url: $url
+                      }
+                    ]
+                  }
+                }
+              ]
+            }' > payload.json
+
+          curl --fail-with-body \
+            -X POST \
+            -H "Content-Type: application/json" \
+            --data @payload.json \
+            "$WEBHOOK_URL"
