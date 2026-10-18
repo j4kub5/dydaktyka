@@ -11,7 +11,6 @@
 *** Where to find literature?
 - [[https://scholar.google.com/][Google Scholar]] :: A search engine indexing scholarly literature from publishers, repositories, universities, and other academic sources; it also provides citation counts and citation links.
 - [[https://www.semanticscholar.org/][Semantic Scholar]] :: An academic search engine using AI-based methods to index, classify, and connect scholarly publications, authors, references, and citations.
-- [[https://heinonline.org/][HeinOnline]] :: A subscription-based database containing full-text legal journals, books, government documents, case-related materials, and historical legal collections.
 - [[https://www.ssrn.com/][SSRN]] :: An online repository for research papers, including working papers, preprints, and published papers, with substantial coverage of law and the social sciences.
 - [[https://asta.allen.ai/][Asta]] :: An AI-based research system that searches academic literature, follows citation links, and generates answers and research syntheses based on retrieved publications.
 - [[https://www.researchrabbit.ai/][ResearchRabbit]] :: A literature-discovery system that uses publications as starting points to construct and visualize networks of related papers, authors, references, and citations.

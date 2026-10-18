@@ -3,6 +3,21 @@
 #+OPTIONS: tex:t p:t toc:nil
 #+LANGUAGE: en
 #+STARTUP: latexpreview
+:EXPORT_OPTIONS:
+#+OPTIONS: tex:t p:t
+#+LANGUAGE: pl
+#+STARTUP: latexpreview
+#+OPTIONS: H:6
+#+LATEX_HEADER: \setcounter{secnumdepth}{6}
+#+LATEX_HEADER: \setcounter{tocdepth}{6}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \titleformat{\paragraph}[hang]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+#+LATEX_HEADER: \titleformat{\subparagraph}[hang]{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
+#+REVEAL_ACADEMIC_TITLE: dr hab.
+#+OPTIONS: num:t toc:t date:nil timestamp:nil tags:nil
+#+REVEAL_TITLE_SLIDE: <h2>%t</h2><h3>%s</h3><p>dr hab. <b>%a</b>, prof. UŁ</p>
+#+REVEAL_EXTRA_ATTR: style="height: 100%; overflow-y: auto !important"
+:END:
 
 * Lecture 1
 SCHEDULED: <2026-10-05 Mon>
@@ -73,26 +88,5 @@ Failure to include a yellow card in the activity form will result in the grade b
 ** The position of theory of law among scientific disciplines
 Literature: N. Qamar, Theory Position in the Structure of Legal Science, SIGn Jurnal Hukum 2021/3/1, DOI: 10.37276/sjh.v3i1.126
 
-* Lecture 2
-
-* Lecture 3
-
-* Lecture 4
-
-* Lecture 5
-
-* Lecture 6
-
-* Lecture 7
-
-* Lecture 8
-
-* Lecture 9
-
-* Lecture 10
-
-* Lecture 11
-
-* Lecture 12
-
-* Lecture 13
+* Following lectures
+See teams for plan and updates.
