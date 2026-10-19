@@ -2,11 +2,28 @@
 #+AUTHOR: J. Szczerbowski
 #+OPTIONS: tex:t p:t toc:nil num:nil
 #+LANGUAGE: en
+:EXPORT_OPTIONS:
+#+OPTIONS: tex:t p:t
+#+LANGUAGE: pl
+#+STARTUP: latexpreview
+#+OPTIONS: H:6
+#+LATEX_HEADER: \setcounter{secnumdepth}{6}
+#+LATEX_HEADER: \setcounter{tocdepth}{6}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \titleformat{\paragraph}[hang]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+#+LATEX_HEADER: \titleformat{\subparagraph}[hang]{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
+#+REVEAL_ACADEMIC_TITLE: dr hab.
+#+OPTIONS: num:t toc:t date:nil timestamp:nil tags:nil
+#+REVEAL_TITLE_SLIDE: <h2>%t</h2><h3>%s</h3><p>dr hab. <b>%a</b>, prof. UŁ</p>
+#+REVEAL_EXTRA_ATTR: style="height: 100%; overflow-y: auto !important"
+:END:
 
 * Organizational matters
 - The form of this course is a seminar (pol. /konwersatorium/).
 - This material is available at https://github.com/j4kub5/dydaktyka
 - Make sure you know how to use MS Teams. MS Teams is available at: https://teams.microsoft.com
+- Our team code is: h6k2gcp
+- Our team link is: https://teams.cloud.microsoft/l/team/19%3A7qhZraHgZGXkgB9SVRHM4uxn8niL0KJK5Aqe49jwKco1%40thread.tacv2/conversations?groupId=154a6255-7422-4bfd-ac52-23e13a3d3553&tenantId=63441aef-da0e-4397-bb7e-f9d4705e963b
 
 #+include: g/questions.org
 
