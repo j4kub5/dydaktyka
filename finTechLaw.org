@@ -28,5 +28,7 @@ https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
 
 #+include: ./g/survey.org :minlevel 2
 
+#+include: "./g/class-rules.org" :minlevel 2
+
 ** Presentations (35-40 min.)
 #+include: ./g/presentations.org
