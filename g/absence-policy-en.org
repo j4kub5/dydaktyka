@@ -1,1 +1,0 @@
-- attendance is mandatory; two absences are allowed (each absence exceeding two absences lowers the grade to the next lower grade)

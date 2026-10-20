@@ -31,7 +31,6 @@
 - activity (weight 50%) - based on questions saved in the form
 - presentation (weight 50%) - quality assesment
 - exam [test] (if the above conditions are not met or a student is interested in a higher grade)
-#+include: "./g/absence-policy-en.org"
 
 *** Grading scale
 #+include: g/skala.org

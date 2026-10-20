@@ -26,7 +26,6 @@ SCHEDULED: <2026-10-05 Mon>
 2. Course credit conditions:
    - final test (weight 50%) OR activity (weight 50%, based on the form in ’Questions’ section)
    - presentation (weight 50%)
-   #+include: "./g/absence-policy-en.org"
 
 #+include: g/questions.org
 
