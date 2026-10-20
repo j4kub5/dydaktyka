@@ -23,5 +23,3 @@ b) literatura uzupełniająca:
 
 *** Przerwy
 5-10 minut w połowie zajęć albo w ostatniej części zajęć.
-
-#+include: "../g/absence-policy-pl.org" :minlevel 3
