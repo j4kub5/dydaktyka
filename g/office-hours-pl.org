@@ -1,7 +1,6 @@
 * Dyżur
-Informacja jest na https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
+Informacje o dyżurze są dostępne na: https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
 
-Ponadto:
-- proszę o zasygnalizowanie potrzeby spotkania na dyżurze mejlem
-- jest możliwość porozmawiania w przerwie oraz pomiędzy zajęciami
-- formalizujemy ustalenia mejlem (może wystarczy mejl?)
+- Proszę o wcześniejsze zasygnalizowanie mejlem potrzeby spotkania na dyżurze.
+- Jest możliwość porozmawiania w przerwie oraz pomiędzy zajęciami.
+- Ustalenia poczynione podczas rozmowy potwierdzamy mejlem. Jeżeli sprawę można załatwić mejlowo, spotkanie nie jest konieczne.
