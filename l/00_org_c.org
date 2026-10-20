@@ -7,9 +7,7 @@
 *** Skala ocen
 #+include: ../g/skala.org
 
-*** Obecność
-   * Lista obecności dostępna jest na: https://forms.office.com/e/rDKUfQhKgN
-   * Zawsze pamiętaj o uzupełnieniu listy obecności. Niewypełnienie formularza w dniu zajęć ma taki sam skutek jak milczenie przy ustnym sprawdzaniu obecności.
+#+include: "../g/attendance-pl.org" :minlevel 3
 
 #+include: ../g/prezentacje.org :minlevel 3
 
@@ -26,5 +24,4 @@ b) literatura uzupełniająca:
 *** Przerwy
 5-10 minut w połowie zajęć albo w ostatniej części zajęć.
 
-*** Nieobecności
-Dopuszczalne są dwie nieobecności. Każda nieobecność ponad dwie nieobecności obniża ocenę końcową o pół stopnia.
+#+include: "../g/absence-policy-pl.org" :minlevel 3

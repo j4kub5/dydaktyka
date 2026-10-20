@@ -32,13 +32,7 @@ Przed pierwszymi zajęciami na mejl wysyłany jest kod do dołączenia do zespo�
 
 Link do teams: https://teams.microsoft.com
 
-** Dyżur
-Informacja jest na https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
-
-Ponadto:
-- proszę o zasygnalizowanie potrzeby spotkania na dyżurze mejlem
-- jest możliwość porozmawiania w przerwie oraz pomiędzy zajęciami
-- formalizujemy ustalenia mejlem (może wystarczy mejl?)
+#+include: "office-hours-pl.org" :minlevel 2
 
 ** Przerwy
 5-10 minut przerwy co około 45 minut.
