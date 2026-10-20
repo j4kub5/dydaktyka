@@ -1,4 +1,8 @@
 * Attendance
-- attendance is mandatory; two absences are allowed (each absence exceeding two absences lowers the grade to the next lower grade)
-- Attendance form is available at https://forms.office.com/e/rDKUfQhKgN
-- *IMPORTANT*: always remember to fill in the attendance form
+- Attendance at classes is mandatory.
+- The attendance form is available at: https://forms.office.com/e/rDKUfQhKgN
+- *IMPORTANT*: always remember to complete the attendance form on the day of the class.
+- Failure to complete the form on the day of the class has the same effect as not responding when attendance is checked orally.
+
+** Absences
+Two absences are allowed. Each additional absence lowers the final grade to the next lower grade on the applicable grading scale.

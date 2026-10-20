@@ -1,6 +1,8 @@
 * Obecność
-   * Lista obecności dostępna jest na: https://forms.office.com/e/rDKUfQhKgN
-   * Zawsze pamiętaj o uzupełnieniu listy obecności. Niewypełnienie formularza w dniu zajęć ma taki sam skutek jak milczenie przy ustnym sprawdzaniu obecności.
+- Obecność na zajęciach jest obowiązkowa.
+- Formularz obecności jest dostępny na: https://forms.office.com/e/rDKUfQhKgN
+- *WAŻNE*: zawsze pamiętaj o wypełnieniu formularza obecności w dniu zajęć.
+- Niewypełnienie formularza w dniu zajęć ma taki sam skutek jak brak odpowiedzi przy ustnym sprawdzaniu obecności.
 
 ** Nieobecności
-Dopuszczalne są dwie nieobecności. Każda nieobecność ponad dwie nieobecności obniża ocenę końcową o pół stopnia.
+Dopuszczalne są dwie nieobecności. Każda kolejna nieobecność obniża ocenę końcową do następnej niższej oceny w obowiązującej skali.
