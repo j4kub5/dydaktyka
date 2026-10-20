@@ -31,17 +31,14 @@
 - activity (weight 50%) - based on questions saved in the form
 - presentation (weight 50%) - quality assesment
 - exam [test] (if the above conditions are not met or a student is interested in a higher grade)
-- attendance is mandatory; two absences are allowed (each absence exceeding two absences lowers the grade to the next lower grade)
+#+include: "./g/absence-policy-en.org"
 
 *** Grading scale
 #+include: g/skala.org
 
-** Attendance
-   * Attendance form is available at https://forms.office.com/e/rDKUfQhKgN
-   * *IMPORTANT*: always remember to fill in the attendance form
+#+include: "./g/attendance-en.org" :minlevel 2
 
-** Office hours
-https://www.uni.lodz.pl/pracownicy/jakub-szczerbowski
+#+include: "./g/office-hours-en.org" :minlevel 2
 
 #+include: ./g/survey.org :minlevel 2
 
