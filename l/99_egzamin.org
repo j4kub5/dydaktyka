@@ -6,7 +6,8 @@
 - dodatkowe zaliczenie ustne dla osób (tylko wyniki negatywne oraz osoby, które nie podeszły do testu)
 
 ** Przeliczenie skali na punkty
-#+BEGIN_SRC elisp :results silent :exports none
+#+NAME: grading-table-definition
+#+BEGIN_SRC elisp :exports none :eval never
   (defun grading-table (max)
     (let ((top max)
           (rows '()))
@@ -30,11 +31,14 @@
       (nreverse rows)))
 #+END_SRC
 
-#+BEGIN_SRC elisp :var punkty=20 :exports results
+#+NAME: grading-table-points
+#+BEGIN_SRC elisp :var punkty=20 :noweb yes :exports results
+<<grading-table-definition>>
 (grading-table punkty)
 #+END_SRC
 
-#+RESULTS:
+#+ATTR_LATEX: :float nil
+#+RESULTS: grading-table-points
 | Ocena | Próg   | Punkty  |
 |-------+--------+---------|
 |   5.0 | >= 95% | 19 - 20 |
