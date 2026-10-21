@@ -35,10 +35,10 @@ Przed pierwszymi zajęciami na mejl wysyłany jest kod do dołączenia do zespo�
 
 Link do teams: https://teams.microsoft.com
 
-#+include: "office-hours-pl.org" :minlevel 2
 
 ** Przerwy
 5-10 minut przerwy co około 45 minut.
 
+#+include: "office-hours-pl.org" :minlevel 3
 #+include: ankieta.org :minlevel 3
 #+include: pytania.org :minlevel 3
