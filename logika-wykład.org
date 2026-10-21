@@ -70,6 +70,11 @@ SCHEDULED: <2027-01-24 Sun>
 #+include: l/96_implikatura.org
 
 * Egzamin
+| ✅                 | termin             | miejsce      |
+|--------------------+--------------------+--------------|
+| Egzamin            | 🕑12:00 2027-01-31 | do ustalenia |
+| Egzamin poprawkowy | 🕑12:00 2027-02-21 | do ustalenia |
+
 #+include: l/99_egzamin.org
 
 * ŚCIĄGA: Symbole logiczne

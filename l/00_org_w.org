@@ -2,6 +2,9 @@
 *** Warunki zaliczenia przedmiotu
 Egzamin w formie testu (20 pytań).
 
+[[Egzamin][Termin egzaminu]]
+
+
 *** Skala ocen
 #+include: ../g/skala.org
 
