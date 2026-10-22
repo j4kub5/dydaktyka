@@ -1,3 +1,5 @@
+# Polish counterpart: class-rules-pl.org. Update both versions together.
+
 * Rules for our classes
 - Discussion is allowed (and welcome!), talking outside of discussion is not.
 - Disturbing the class is prohibited.
@@ -5,6 +7,7 @@
 - Violating the above rules may result in receiving a *yellow card*. Every *two subsequent yellow cards result in the grade being lowered* to the next lowest level.
 - Be kind to others.
 - Discussions regarding politics are permissible only as an exception, provided they serve the educational purpose of the class. Otherwise, I kindly ask that political topics not be raised.
+- Be cautious when advising others.
 
 ** Special yellow card rule
 Failure to include a yellow card in the activity form will result in the grade being lowered to the next lower grade.

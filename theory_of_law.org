@@ -45,7 +45,7 @@ This material is available at https://github.com/j4kub5/dydaktyka
 
 #+include: ./g/survey.org :minlevel 3
 
-#+include: "./g/class-rules.org" :minlevel 3
+#+include: "./g/class-rules-en.org" :minlevel 3
 
 *** Presentations (approx. 30 min. + 10-15 minutes for Q&A)
 #+include: ./g/presentations.org
