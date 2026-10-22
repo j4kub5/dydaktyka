@@ -2,6 +2,12 @@
 *** Warunki zaliczenia przedmiotu
 Egzamin w formie testu (20 pytań).
 
+Ocena końcowa z przedmiotu jest średnią ważoną:
+- ocena z ćwiczeń — waga 0,3 (30%),
+- ocena z wykładu (egzaminu) — waga 0,7 (70%).
+
+Warunkiem zaliczenia przedmiotu jest zaliczenie ćwiczeń na ocenę co najmniej 3,0.
+
 [[Egzamin][Termin egzaminu]]
 
 
