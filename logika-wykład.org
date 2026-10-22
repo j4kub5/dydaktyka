@@ -1,6 +1,7 @@
 #+title: Logika
 #+subtitle:Notatka pomocnicza do wykładu
 #+AUTHOR: Jakub J. Szczerbowski
+#+DATE: 2026/2027
 :EXPORT_OPTIONS:
 #+OPTIONS: tex:t p:t
 #+LANGUAGE: pl
@@ -12,7 +13,7 @@
 #+LATEX_HEADER: \titleformat{\paragraph}[hang]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
 #+LATEX_HEADER: \titleformat{\subparagraph}[hang]{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
 #+REVEAL_ACADEMIC_TITLE: dr hab.
-#+OPTIONS: num:t toc:t date:nil timestamp:nil tags:nil
+#+OPTIONS: num:t toc:t date:t timestamp:nil tags:nil
 #+REVEAL_TITLE_SLIDE: <h2>%t</h2><h3>%s</h3><p>dr hab. <b>%a</b>, prof. UŁ</p>
 #+REVEAL_EXTRA_ATTR: style="height: 100%; overflow-y: auto !important"
 :END:
