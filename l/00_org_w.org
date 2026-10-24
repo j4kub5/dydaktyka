@@ -28,7 +28,7 @@ b) literatura uzupełniająca:
 W przypadku nieobecności na wykładzie należy samodzielnie nauczyć się materiału
 na podstawie literatury podanej powyżej.
 
-** Przegląd treści
+*** Przegląd treści
 1. Ogólne wiadomości o języku.
 2. Nazwy - dowiem się czym się różni książka od biblioteki i Sejm od posłów.
 3. Stosunki pomiędzy zakresami nazw - dowiem się, że jestem nie-krową
@@ -63,3 +63,8 @@ na podstawie literatury podanej powyżej.
     i wykrywać nielojalne działania przeciwnika.
 19. Praca myślowa prawnika - dowiem się jak stosować reguły myślenia w zadaniach
     typowych dla zawodów prawniczych.
+
+*** Quizy
+Będziemy robić quizy dostępne pod linkiem: https://kapral-pk.onrender.com/
+
+Quizy są jedynie w celu ćwiczenia materiału, nie mają bezpośredniego wpływu na ocenę.

@@ -1,5 +1,4 @@
 * Zagadnienia organizacyjne ogólne
-#+INCLUDE: "class-rules-pl.org" :minlevel 2
 
 ** Gdzie znajdę ten materiał?
 #+caption: https://github.com/j4kub5/dydaktyka
@@ -9,6 +8,7 @@
 
 *Nie musisz* przepisywać tego dokumentu.
 
+#+INCLUDE: "class-rules-pl.org" :minlevel 2
 *** Jak korzystać z tego dokumentu?
 - jest to jedynie uzupełnienie zajęć i literatury
 - dokument może być aktualizowany - pamiętaj, aby sprawdzić najnowszą wersję
