@@ -11,3 +11,7 @@
 
 ** Special yellow card rule
 Failure to include a yellow card in the activity form will result in the grade being lowered to the next lower grade.
+
+** Questions and contacting the instructor
+- Before asking a question, check the syllabus and the materials provided.
+- Before emailing me or asking a question during a break, consider whether the answer will also be relevant to others. If so, please ask the question in the group discussion during class or in the General channel of the course team in Teams, so that others can also benefit from the answer.
