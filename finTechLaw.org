@@ -1,4 +1,5 @@
 #+title: FinTech Law - additional course information
+#+DATE: 2026/2027
 #+AUTHOR: J. Szczerbowski
 #+OPTIONS: tex:t p:t toc:nil num:nil
 #+LANGUAGE: en

@@ -1,4 +1,5 @@
 #+title: Informacje dla seminarzystów
+#+date: 2025
 
 * Wprowadzenie
 To jest krótki poradnik dla seminarzystów, będący uzupełnieniem
